@@ -7,4 +7,4 @@ git add .
 current_date=$(date +"%Y-%m-%d")
 commit_message=${1:-"release $current_date"}
 git commit -m "$commit_message"
-git push "https://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@github.com/muthuspark/annual-reports.git" 
+git push
