@@ -2,248 +2,276 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Annual Report Insights</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Annual Report Insights</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 13:13:53 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023-24</title>
-      <link>http://localhost:1313/tags/2023-24/</link>
-      <pubDate>Sat, 15 Feb 2025 13:13:53 +0530</pubDate>
-      <guid>http://localhost:1313/tags/2023-24/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Engineers India Ltd</title>
-      <link>http://localhost:1313/tags/engineers-india-ltd/</link>
-      <pubDate>Sat, 15 Feb 2025 13:13:53 +0530</pubDate>
-      <guid>http://localhost:1313/tags/engineers-india-ltd/</guid>
+      <link>https://example.org/tags/2023-24/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/2023-24/</guid>
       <description></description>
     </item>
     <item>
       <title>Hindustan Copper Ltd</title>
-      <link>http://localhost:1313/tags/hindustan-copper-ltd/</link>
+      <link>https://example.org/tags/hindustan-copper-ltd/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hindustan-copper-ltd/</guid>
+      <guid>https://example.org/tags/hindustan-copper-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Eros International Media Ltd</title>
-      <link>http://localhost:1313/tags/eros-international-media-ltd/</link>
+      <link>https://example.org/tags/eros-international-media-ltd/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/eros-international-media-ltd/</guid>
+      <guid>https://example.org/tags/eros-international-media-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Indraprastha Medical Corporation Ltd</title>
-      <link>http://localhost:1313/tags/indraprastha-medical-corporation-ltd/</link>
+      <link>https://example.org/tags/indraprastha-medical-corporation-ltd/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/indraprastha-medical-corporation-ltd/</guid>
+      <guid>https://example.org/tags/indraprastha-medical-corporation-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Dolat Algotech Ltd</title>
-      <link>http://localhost:1313/tags/dolat-algotech-ltd/</link>
+      <link>https://example.org/tags/dolat-algotech-ltd/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dolat-algotech-ltd/</guid>
+      <guid>https://example.org/tags/dolat-algotech-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>HFCL Ltd</title>
-      <link>http://localhost:1313/tags/hfcl-ltd/</link>
+      <link>https://example.org/tags/hfcl-ltd/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hfcl-ltd/</guid>
+      <guid>https://example.org/tags/hfcl-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Jolly Plastic Industries Ltd</title>
-      <link>http://localhost:1313/tags/jolly-plastic-industries-ltd/</link>
+      <link>https://example.org/tags/jolly-plastic-industries-ltd/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jolly-plastic-industries-ltd/</guid>
+      <guid>https://example.org/tags/jolly-plastic-industries-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>SBC Exports Ltd</title>
-      <link>http://localhost:1313/tags/sbc-exports-ltd/</link>
+      <link>https://example.org/tags/sbc-exports-ltd/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sbc-exports-ltd/</guid>
+      <guid>https://example.org/tags/sbc-exports-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Arihant Capital Markets Ltd</title>
-      <link>http://localhost:1313/tags/arihant-capital-markets-ltd/</link>
+      <link>https://example.org/tags/arihant-capital-markets-ltd/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/arihant-capital-markets-ltd/</guid>
+      <guid>https://example.org/tags/arihant-capital-markets-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Imagicaaworld Entertainment Ltd</title>
-      <link>http://localhost:1313/tags/imagicaaworld-entertainment-ltd/</link>
+      <link>https://example.org/tags/imagicaaworld-entertainment-ltd/</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/imagicaaworld-entertainment-ltd/</guid>
+      <guid>https://example.org/tags/imagicaaworld-entertainment-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Gujarat State Petronet Ltd</title>
-      <link>http://localhost:1313/tags/gujarat-state-petronet-ltd/</link>
+      <link>https://example.org/tags/gujarat-state-petronet-ltd/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gujarat-state-petronet-ltd/</guid>
+      <guid>https://example.org/tags/gujarat-state-petronet-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Southern Petrochemicals Industries Corporation Ltd</title>
-      <link>http://localhost:1313/tags/southern-petrochemicals-industries-corporation-ltd/</link>
+      <link>https://example.org/tags/southern-petrochemicals-industries-corporation-ltd/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/southern-petrochemicals-industries-corporation-ltd/</guid>
+      <guid>https://example.org/tags/southern-petrochemicals-industries-corporation-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Jupiter Wagons Ltd</title>
-      <link>http://localhost:1313/tags/jupiter-wagons-ltd/</link>
+      <link>https://example.org/tags/jupiter-wagons-ltd/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jupiter-wagons-ltd/</guid>
+      <guid>https://example.org/tags/jupiter-wagons-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Triveni Turbine Ltd</title>
-      <link>http://localhost:1313/tags/triveni-turbine-ltd/</link>
+      <link>https://example.org/tags/triveni-turbine-ltd/</link>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/triveni-turbine-ltd/</guid>
+      <guid>https://example.org/tags/triveni-turbine-ltd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engineers India Ltd</title>
+      <link>https://example.org/tags/engineers-india-ltd/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/engineers-india-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Petronet LNG Ltd</title>
-      <link>http://localhost:1313/tags/petronet-lng-ltd/</link>
+      <link>https://example.org/tags/petronet-lng-ltd/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/petronet-lng-ltd/</guid>
+      <guid>https://example.org/tags/petronet-lng-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Gokul Agro Resources Ltd</title>
-      <link>http://localhost:1313/tags/gokul-agro-resources-ltd/</link>
+      <link>https://example.org/tags/gokul-agro-resources-ltd/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gokul-agro-resources-ltd/</guid>
+      <guid>https://example.org/tags/gokul-agro-resources-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>ITD Cementation India Ltd</title>
-      <link>http://localhost:1313/tags/itd-cementation-india-ltd/</link>
+      <link>https://example.org/tags/itd-cementation-india-ltd/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/itd-cementation-india-ltd/</guid>
+      <guid>https://example.org/tags/itd-cementation-india-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>JSL Industries Ltd</title>
-      <link>http://localhost:1313/tags/jsl-industries-ltd/</link>
+      <link>https://example.org/tags/jsl-industries-ltd/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jsl-industries-ltd/</guid>
+      <guid>https://example.org/tags/jsl-industries-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Motherson Sumi Wiring India Ltd</title>
-      <link>http://localhost:1313/tags/motherson-sumi-wiring-india-ltd/</link>
+      <link>https://example.org/tags/motherson-sumi-wiring-india-ltd/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/motherson-sumi-wiring-india-ltd/</guid>
+      <guid>https://example.org/tags/motherson-sumi-wiring-india-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Gujarat Pipavav Port Ltd</title>
-      <link>http://localhost:1313/tags/gujarat-pipavav-port-ltd/</link>
+      <link>https://example.org/tags/gujarat-pipavav-port-ltd/</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gujarat-pipavav-port-ltd/</guid>
+      <guid>https://example.org/tags/gujarat-pipavav-port-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Coal India Ltd</title>
-      <link>http://localhost:1313/tags/coal-india-ltd/</link>
+      <link>https://example.org/tags/coal-india-ltd/</link>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/coal-india-ltd/</guid>
+      <guid>https://example.org/tags/coal-india-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Gabriel India Ltd</title>
-      <link>http://localhost:1313/tags/gabriel-india-ltd/</link>
+      <link>https://example.org/tags/gabriel-india-ltd/</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gabriel-india-ltd/</guid>
+      <guid>https://example.org/tags/gabriel-india-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Granules India Ltd</title>
-      <link>http://localhost:1313/tags/granules-india-ltd/</link>
+      <link>https://example.org/tags/granules-india-ltd/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/granules-india-ltd/</guid>
+      <guid>https://example.org/tags/granules-india-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Indian Energy Exchange Ltd</title>
-      <link>http://localhost:1313/tags/indian-energy-exchange-ltd/</link>
+      <link>https://example.org/tags/indian-energy-exchange-ltd/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/indian-energy-exchange-ltd/</guid>
+      <guid>https://example.org/tags/indian-energy-exchange-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Torrent Power Ltd</title>
-      <link>http://localhost:1313/tags/torrent-power-ltd/</link>
+      <link>https://example.org/tags/torrent-power-ltd/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/torrent-power-ltd/</guid>
+      <guid>https://example.org/tags/torrent-power-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Colgate-Palmolive (India) Ltd</title>
-      <link>http://localhost:1313/tags/colgate-palmolive-india-ltd/</link>
+      <link>https://example.org/tags/colgate-palmolive-india-ltd/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/colgate-palmolive-india-ltd/</guid>
+      <guid>https://example.org/tags/colgate-palmolive-india-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Lloyds Engineering Works Ltd</title>
-      <link>http://localhost:1313/tags/lloyds-engineering-works-ltd/</link>
+      <link>https://example.org/tags/lloyds-engineering-works-ltd/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lloyds-engineering-works-ltd/</guid>
+      <guid>https://example.org/tags/lloyds-engineering-works-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Apollo Tyres Ltd</title>
-      <link>http://localhost:1313/tags/apollo-tyres-ltd/</link>
+      <link>https://example.org/tags/apollo-tyres-ltd/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/apollo-tyres-ltd/</guid>
+      <guid>https://example.org/tags/apollo-tyres-ltd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CG Power &amp; Industrial Solutions Ltd</title>
+      <link>https://example.org/tags/cg-power--industrial-solutions-ltd/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/cg-power--industrial-solutions-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Zomato Ltd</title>
-      <link>http://localhost:1313/tags/zomato-ltd/</link>
+      <link>https://example.org/tags/zomato-ltd/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/zomato-ltd/</guid>
+      <guid>https://example.org/tags/zomato-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Wipro Ltd</title>
-      <link>http://localhost:1313/tags/wipro-ltd/</link>
+      <link>https://example.org/tags/wipro-ltd/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wipro-ltd/</guid>
+      <guid>https://example.org/tags/wipro-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Geojit Financial Services Ltd</title>
-      <link>http://localhost:1313/tags/geojit-financial-services-ltd/</link>
+      <link>https://example.org/tags/geojit-financial-services-ltd/</link>
       <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/geojit-financial-services-ltd/</guid>
+      <guid>https://example.org/tags/geojit-financial-services-ltd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Crompton Greaves Consumer Electricals Ltd</title>
+      <link>https://example.org/tags/crompton-greaves-consumer-electricals-ltd/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/crompton-greaves-consumer-electricals-ltd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bhansali Engineering Polymers Ltd</title>
+      <link>https://example.org/tags/bhansali-engineering-polymers-ltd/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/bhansali-engineering-polymers-ltd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ambuja Cements Ltd</title>
+      <link>https://example.org/tags/ambuja-cements-ltd/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.org/tags/ambuja-cements-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Himadri Speciality Chemical Ltd</title>
-      <link>http://localhost:1313/tags/himadri-speciality-chemical-ltd/</link>
+      <link>https://example.org/tags/himadri-speciality-chemical-ltd/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/himadri-speciality-chemical-ltd/</guid>
+      <guid>https://example.org/tags/himadri-speciality-chemical-ltd/</guid>
       <description></description>
     </item>
     <item>
       <title>Aeroflex Industries Limited</title>
-      <link>http://localhost:1313/tags/aeroflex-industries-limited/</link>
+      <link>https://example.org/tags/aeroflex-industries-limited/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/tags/aeroflex-industries-limited/</guid>
+      <guid>https://example.org/tags/aeroflex-industries-limited/</guid>
       <description></description>
     </item>
   </channel>

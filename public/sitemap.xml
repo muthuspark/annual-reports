@@ -2,228 +2,240 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/2023-24/</loc>
+    <loc>https://example.org/tags/2023-24/</loc>
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hindustan-copper-ltd/</loc>
+    <loc>https://example.org/tags/hindustan-copper-ltd/</loc>
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hindustan-copper-ltd/</loc>
+    <loc>https://example.org/posts/hindustan-copper-ltd/</loc>
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/eros-international-media-ltd/</loc>
+    <loc>https://example.org/tags/eros-international-media-ltd/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/eros-international-media-ltd-fy-2024/</loc>
+    <loc>https://example.org/posts/eros-international-media-ltd-fy-2024/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/indraprastha-medical-corporation-ltd/</loc>
+    <loc>https://example.org/tags/indraprastha-medical-corporation-ltd/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/indraprastha-medical-corporation-ltd/</loc>
+    <loc>https://example.org/posts/indraprastha-medical-corporation-ltd/</loc>
     <lastmod>2024-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dolat-algotech-ltd/</loc>
+    <loc>https://example.org/tags/dolat-algotech-ltd/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dolat-algotech-ltd/</loc>
+    <loc>https://example.org/posts/dolat-algotech-ltd/</loc>
     <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hfcl-ltd/</loc>
+    <loc>https://example.org/tags/hfcl-ltd/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hfcl-ltd/</loc>
+    <loc>https://example.org/posts/hfcl-ltd/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jolly-plastic-industries-ltd/</loc>
+    <loc>https://example.org/tags/jolly-plastic-industries-ltd/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jolly-plastic-industries-ltd-fy-2024/</loc>
+    <loc>https://example.org/posts/jolly-plastic-industries-ltd/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sbc-exports-ltd/</loc>
+    <loc>https://example.org/tags/sbc-exports-ltd/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sbc-exports-ltd/</loc>
+    <loc>https://example.org/posts/sbc-exports-ltd/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/arihant-capital-markets-ltd/</loc>
+    <loc>https://example.org/tags/arihant-capital-markets-ltd/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/arihant-capital-markets-ltd/</loc>
+    <loc>https://example.org/posts/arihant-capital-markets-ltd/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/imagicaaworld-entertainment-ltd/</loc>
+    <loc>https://example.org/tags/imagicaaworld-entertainment-ltd/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/imagicaaworld-entertainment-ltd/</loc>
+    <loc>https://example.org/posts/imagicaaworld-entertainment-ltd/</loc>
     <lastmod>2024-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gujarat-state-petronet-ltd/</loc>
+    <loc>https://example.org/tags/gujarat-state-petronet-ltd/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gujarat-state-petronet-ltd/</loc>
+    <loc>https://example.org/posts/gujarat-state-petronet-ltd/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/southern-petrochemicals-industries-corporation-ltd/</loc>
+    <loc>https://example.org/tags/southern-petrochemicals-industries-corporation-ltd/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/southern-petrochemicals-industries-corporation-ltd/</loc>
+    <loc>https://example.org/posts/southern-petrochemicals-industries-corporation-ltd/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jupiter-wagons-ltd/</loc>
+    <loc>https://example.org/tags/jupiter-wagons-ltd/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jupiter-wagons-ltd/</loc>
+    <loc>https://example.org/posts/jupiter-wagons-ltd/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/triveni-turbine-ltd/</loc>
+    <loc>https://example.org/tags/triveni-turbine-ltd/</loc>
     <lastmod>2024-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/triveni-turbine-ltd/</loc>
+    <loc>https://example.org/posts/triveni-turbine-ltd/</loc>
     <lastmod>2024-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/engineers-india-ltd/</loc>
+    <loc>https://example.org/tags/engineers-india-ltd/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/engineers-india-ltd/</loc>
+    <loc>https://example.org/posts/engineers-india-ltd/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/petronet-lng-ltd/</loc>
+    <loc>https://example.org/tags/petronet-lng-ltd/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/petronet-lng-ltd/</loc>
+    <loc>https://example.org/posts/petronet-lng-ltd/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gokul-agro-resources-ltd/</loc>
+    <loc>https://example.org/tags/gokul-agro-resources-ltd/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gokul-agro-resources-ltd/</loc>
+    <loc>https://example.org/posts/gokul-agro-resources-ltd/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/itd-cementation-india-ltd/</loc>
+    <loc>https://example.org/tags/itd-cementation-india-ltd/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/itd-cementation-india-ltd/</loc>
+    <loc>https://example.org/posts/itd-cementation-india-ltd/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/jsl-industries-ltd/</loc>
+    <loc>https://example.org/tags/jsl-industries-ltd/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jsl-industries-ltd/</loc>
+    <loc>https://example.org/posts/jsl-industries-ltd/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/motherson-sumi-wiring-india-ltd/</loc>
+    <loc>https://example.org/tags/motherson-sumi-wiring-india-ltd/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/motherson-sumi-wiring-india-ltd/</loc>
+    <loc>https://example.org/posts/motherson-sumi-wiring-india-ltd/</loc>
     <lastmod>2024-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gujarat-pipavav-port-ltd/</loc>
+    <loc>https://example.org/tags/gujarat-pipavav-port-ltd/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gujarat-pipavav-port-ltd/</loc>
+    <loc>https://example.org/posts/gujarat-pipavav-port-ltd/</loc>
     <lastmod>2024-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/coal-india-ltd/</loc>
+    <loc>https://example.org/tags/coal-india-ltd/</loc>
     <lastmod>2024-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/coal-india-ltd/</loc>
+    <loc>https://example.org/posts/coal-india-ltd/</loc>
     <lastmod>2024-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gabriel-india-ltd/</loc>
+    <loc>https://example.org/tags/gabriel-india-ltd/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gabriel-india-ltd/</loc>
+    <loc>https://example.org/posts/gabriel-india-ltd/</loc>
     <lastmod>2024-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/granules-india-ltd/</loc>
+    <loc>https://example.org/tags/granules-india-ltd/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/granules-india-ltd/</loc>
+    <loc>https://example.org/posts/granules-india-ltd/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/indian-energy-exchange-ltd/</loc>
+    <loc>https://example.org/tags/indian-energy-exchange-ltd/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/indian-energy-exchange-ltd/</loc>
+    <loc>https://example.org/posts/indian-energy-exchange-ltd/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/torrent-power-ltd/</loc>
+    <loc>https://example.org/tags/torrent-power-ltd/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/torrent-power-ltd/</loc>
+    <loc>https://example.org/posts/torrent-power-ltd/</loc>
     <lastmod>2024-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/colgate-palmolive-india-ltd/</loc>
+    <loc>https://example.org/tags/colgate-palmolive-india-ltd/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/colgate-palmolive-india-ltd/</loc>
+    <loc>https://example.org/posts/colgate-palmolive-india-ltd/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lloyds-engineering-works-ltd/</loc>
+    <loc>https://example.org/tags/lloyds-engineering-works-ltd/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/lloyds-engineering-works-ltd/</loc>
+    <loc>https://example.org/posts/lloyds-engineering-works-ltd/</loc>
     <lastmod>2024-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/apollo-tyres-ltd/</loc>
+    <loc>https://example.org/tags/apollo-tyres-ltd/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apollo-tyres-ltd/</loc>
+    <loc>https://example.org/posts/apollo-tyres-ltd/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cg-power--industrial-solutions-ltd/</loc>
+    <loc>https://example.org/tags/cg-power--industrial-solutions-ltd/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cg-power--industrial-solutions-ltd/</loc>
+    <loc>https://example.org/posts/cg-power--industrial-solutions-ltd/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/zomato-ltd/</loc>
+    <loc>https://example.org/tags/zomato-ltd/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zomato-ltd-fy-2024/</loc>
+    <loc>https://example.org/posts/zomato-ltd-fy-2024/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/wipro-ltd/</loc>
+    <loc>https://example.org/tags/wipro-ltd/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wipro-ltd/</loc>
+    <loc>https://example.org/posts/wipro-ltd/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/geojit-financial-services-ltd/</loc>
+    <loc>https://example.org/tags/geojit-financial-services-ltd/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/geojit-financial-services-ltd/</loc>
+    <loc>https://example.org/posts/geojit-financial-services-ltd/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bhansali-engineering-polymers-ltd/</loc>
+    <loc>https://example.org/tags/crompton-greaves-consumer-electricals-ltd/</loc>
+    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/crompton-greaves-consumer-electricals-ltd/</loc>
+    <lastmod>2024-06-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/bhansali-engineering-polymers-ltd/</loc>
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bhansali-engineering-polymers-ltd/</loc>
+    <loc>https://example.org/posts/bhansali-engineering-polymers-ltd/</loc>
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/himadri-speciality-chemical-ltd/</loc>
+    <loc>https://example.org/tags/ambuja-cements-ltd/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/ambuja-cements-ltd/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/tags/himadri-speciality-chemical-ltd/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/himadri-speciality-chemical-ltd/</loc>
+    <loc>https://example.org/posts/himadri-speciality-chemical-ltd/</loc>
     <lastmod>2024-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aeroflex-industries-limited/</loc>
+    <loc>https://example.org/tags/aeroflex-industries-limited/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/aeroflex-industries-limited-annual-report-2023-24/</loc>
+    <loc>https://example.org/posts/aeroflex-industries-limited-annual-report-2023-24/</loc>
     <lastmod>2024-01-14T07:07:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://example.org/about/</loc>
   </url>
 </urlset>
