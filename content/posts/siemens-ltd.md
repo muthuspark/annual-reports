@@ -10,10 +10,10 @@ hideBackToTop = false
 
 
 ## Overview
-### Comprehensive Analysis
+### Detailed Analysis
 
 
-This analysis delves into Siemens Limited's Annual Report for FY2023-24, examining its financial performance, business segments, identified risks, and ESG (Environmental, Social, and Governance) initiatives.
+This analysis looks into Siemens Limited's Annual Report for FY2023-24, examining its financial performance, business segments, identified risks, and ESG (Environmental, Social, and Governance) initiatives.
 
 **I. Financial Performance:**
 
@@ -32,17 +32,17 @@ Siemens Limited operates across four key segments (with Low Voltage Motors now u
 
 * **Digital Industries (DI):** Focuses on automation and digitalization solutions for various industries.  Despite a slight slowdown in orders due to normalized demand, the segment demonstrated success in implementing cutting-edge technologies, resulting in increased productivity and efficiency for clients.  Order and sales growth (excluding other operating revenue) were positive at 10.6% and 15.7% respectively.
 
-* **Energy:** A leader in energy technology, this segment provides solutions across the energy value chain.  It secured several marquee projects, notably in gas turbine modernization and high-voltage switchgear. This segment saw robust New Orders growth (29.9%) and sales growth (4.9%) year-over-year. The segment is slated for demerger into Siemens Energy India Limited in 2025.
+* **Energy:** A leader in energy technology, this segment provides solutions across the energy value chain.  It secured many marquee projects, notably in gas turbine modernization and high-voltage switchgear. This segment saw robust New Orders growth (29.9%) and sales growth (4.9%) year-over-year. The segment is slated for demerger into Siemens Energy India Limited in 2025.
 
 * **Mobility:** Offers intelligent transport solutions including rolling stock, rail automation, and electrification.  The segment secured significant orders, including electrification for Bengaluru Metro Phase 2, showcasing its strength in India's growing infrastructure sector. Despite a decrease in new orders due to project timing, sales witnessed a strong 38% surge.
 
 * **Smart Infrastructure (SI):** Focuses on grid infrastructure, industrial infrastructure, and urban infrastructure.  The segment saw considerable growth driven by demand in grid infrastructure, e-vehicle charging, data centers, and commercial buildings. The SI segment also announced substantial factory expansions, indicating a significant growth outlook.  Strong sales growth (18.6%) and increased new orders (11.6%) reflects this success.
 
-* **Portfolio Companies:**  This segment houses the Low Voltage Motors business, primarily motors of 0.12 kW to 1.25 MW.  While sales slightly decreased (-2.8%), it's crucial to note that this is an asset-light model.
+* **Portfolio Companies:**  This segment houses the Low Voltage Motors business, primarily motors of 0.12 kW to 1.25 MW.  While sales slightly decreased (-2.8%), it's essential to note that this is an asset-light model.
 
 **III. Risks:**
 
-The report highlights several key risks:
+The report highlights many key risks:
 
 * **Global Economic Uncertainty:**  The report acknowledges the impact of geopolitical tensions, interest rate fluctuations, and evolving trade dynamics on the global economy, which could affect order intake and profitability.
 * **Demerger of Energy Business:** The planned demerger of the Energy business, while expected to unlock value, presents operational and regulatory risks during the transition.
@@ -58,7 +58,7 @@ Siemens Limited demonstrates a strong commitment to ESG through its DEGREE frame
 
 * **Decarbonization:**  Siemens is committed to achieving net-zero emissions across its value chain by 2050. Significant investments were made in renewable energy sources (rooftop solar, offsite solar, renewable energy certificates) resulting in over 90% of its energy consumption from renewable sources in FY2024.  The company is also implementing energy efficiency measures at various sites.
 
-* **Resource Efficiency:**  The Company implemented several initiatives to reduce waste generation and increase recycling rates, particularly focusing on plastic and e-waste (alignment with EPR requirements).  Sustainable sourcing is emphasized through a risk-based approach and engagement with suppliers.
+* **Resource Efficiency:**  The Company implemented many initiatives to reduce waste generation and increase recycling rates, especially focusing on plastic and e-waste (alignment with EPR requirements).  Sustainable sourcing is emphasized through a risk-based approach and engagement with suppliers.
 
 * **Equity and Inclusion:** Siemens implemented initiatives to promote diversity, equity, and inclusion (DEI) across its workforce, including specific programs for women's empowerment.
 
@@ -71,7 +71,7 @@ Siemens Limited demonstrates a strong commitment to ESG through its DEGREE frame
 
 **V. Overall Assessment:**
 
-Siemens Limited presented a strong financial performance in FY2024, demonstrating resilience amidst global challenges. The company is strategically positioned across diverse segments showing positive growth outlook.  While significant risks exist, particularly related to the global economy and planned demerger, its strong financial foundation and commitment to ESG suggest a positive trajectory.  The company's comprehensive ESG initiatives and detailed reporting underscore its leadership role in sustainable business practices in India.  However, continuous monitoring of risks, particularly supply chain vulnerabilities, global economic conditions, and successful completion of the demerger, will be crucial for maintaining its growth momentum.  The impact of the demerger will require further detailed analysis in subsequent reports.
+Siemens Limited presented a strong financial performance in FY2024, demonstrating resilience amidst global challenges. The company is strategically positioned across various segments showing positive growth outlook.  While significant risks exist, especially related to the global economy and planned demerger, its strong financial foundation and commitment to ESG suggest a positive trajectory.  The company's detailed ESG initiatives and detailed reporting underscore its leadership role in sustainable business practices in India.  However, continuous monitoring of risks, especially supply chain vulnerabilities, global economic conditions, and successful completion of the demerger, will be essential for maintaining its growth momentum.  The impact of the demerger will require further detailed analysis in subsequent reports.
 
 ---
 ### Detailed Analysis
@@ -108,7 +108,7 @@ Based on the Siemens Limited Annual Report for FY2023-24:
     * **Current Trade Payables:** ₹41,483 million (This also includes dues to micro and small enterprises).
     * **Total Trade Payables:** ₹41,524 million
 
-It's crucial to remember that these figures are rounded to the nearest million.  For precise figures, one would need access to the complete, unredacted financial statements.  Also note that certain liabilities like provisions are estimates and subject to change.
+It's essential to remember that these figures are rounded to the nearest million.  For precise figures, one would need access to the complete, unredacted financial statements.  Also note that certain liabilities like provisions are estimates and subject to change.
 
 ### Equity Analysis
 According to Siemens Limited's FY2023-24 Annual Report:
@@ -259,7 +259,7 @@ To calculate Siemens Limited's liquidity ratios for FY2023-24, we'll use the sta
 * **Rounding:** All figures are rounded to the nearest million. More precise values from the original financial statements are recommended for accurate analysis.
 
 
-These ratios offer insights into Siemens Limited's short-term debt-paying ability. However, a comprehensive liquidity assessment requires consideration of other factors beyond these basic ratios, such as cash flow forecasts, access to credit lines, and the overall business environment.  Comparing these ratios to industry averages and trends would further enhance the interpretation of the company's liquidity position.
+These ratios offer insights into Siemens Limited's short-term debt-paying ability. However, a detailed liquidity assessment requires consideration of other factors beyond these basic ratios, such as cash flow forecasts, access to credit lines, and the overall business environment.  Comparing these ratios to industry averages and trends would further improve the interpretation of the company's liquidity position.
 
 ### Efficiency Ratios
 Calculating Siemens Limited's efficiency ratios for FY2023-24 requires using figures from the standalone financial statements within the annual report.  We'll use the available data, noting that some calculations will be approximations due to the limited detail in the provided excerpt:
@@ -291,7 +291,7 @@ These ratios provide insights into how effectively Siemens Limited utilizes its 
 
 
 ### Leverage Ratios
-Calculating Siemens Limited's leverage ratios for FY2023-24 presents challenges due to the limited information provided in the report excerpt.  There's no single line item for "Total Debt," making direct calculation impossible. The report mentions lease liabilities and other financial liabilities, but these don't fully represent the entire debt picture.
+Calculating Siemens Limited's use ratios for FY2023-24 presents challenges due to the limited information provided in the report excerpt.  There's no single line item for "Total Debt," making direct calculation impossible. The report mentions lease liabilities and other financial liabilities, but these don't fully represent the entire debt picture.
 
 To proceed, we will make the following assumptions and approximations:
 
@@ -309,7 +309,7 @@ To proceed, we will make the following assumptions and approximations:
 * **Average Total Assets:** Calculated previously as ₹226,415 million.
 
 
-With these approximations, we can estimate the leverage ratios:
+With these approximations, we can estimate the use ratios:
 
 * **Debt-to-Equity Ratio:** (Total Debt / Average Shareholders' Equity)
     * Approximate Total Debt: ₹10,834 million
@@ -329,11 +329,11 @@ With these approximations, we can estimate the leverage ratios:
 
 **Important Considerations:**
 
-* **Significant Approximations:** These calculations heavily rely on approximations, primarily because the complete debt structure isn't available in the report excerpt. The actual leverage ratios could be considerably different if other forms of debt exist.
+* **Significant Approximations:** These calculations heavily rely on approximations, primarily because the complete debt structure isn't available in the report excerpt. The actual use ratios could be considerably different if other forms of debt exist.
 * **Rounding:**  The figures used are rounded to the nearest million.
 * **Lease Liabilities:** Lease liabilities are included in debt; however a detailed discussion regarding capital and operating leases is not included in the report excerpt.
 
-Therefore, while these ratios provide a *rough estimate*, they shouldn't be considered definitive. For accurate leverage ratio analysis, consult the full, unredacted financial statements, which would include a complete picture of all debt obligations.
+Therefore, while these ratios provide a *rough estimate*, they shouldn't be considered definitive. For accurate use ratio analysis, consult the full, unredacted financial statements, which would include a complete picture of all debt obligations.
 
 
 
@@ -429,11 +429,11 @@ The severity and likelihood are inferred based on the general importance of the 
 
 **Mitigation Strategy Notes:**
 
-The report mentions several mitigation strategies, but further details on the specifics of their implementation are not provided.  A deeper dive into the company's risk management documentation would be needed for a more thorough understanding.
+The report mentions many mitigation strategies, but further details on the specifics of their implementation are not provided.  A deeper dive into the company's risk management documentation would be needed for a more thorough understanding.
 
 **Trend Inferences:**
 
-Trends are inferred based on general macroeconomic conditions and observed patterns in the business environment.  The report doesn't provide specific trend data for each risk factor.  More comprehensive information would require broader economic analysis and a deeper understanding of the industry landscape.
+Trends are inferred based on general macroeconomic conditions and observed patterns in the business environment.  The report doesn't provide specific trend data for each risk factor.  More detailed information would require broader economic analysis and a deeper understanding of the industry landscape.
 
 
 This analysis provides a qualitative assessment of Siemens' key risk factors.  A thorough risk assessment would involve quantitative analysis, scenario planning, and a more granular evaluation of likelihood and impact.
@@ -442,15 +442,15 @@ This analysis provides a qualitative assessment of Siemens' key risk factors.  A
 
 ## Strategic Overview
 ### Management Assessment
-Siemens Limited's management highlights several key strategies, competitive advantages, market conditions, challenges, and opportunities in the Management Discussion and Analysis section of the annual report.  Here's a summary based on the provided excerpt:
+Siemens Limited's management highlights many key strategies, competitive advantages, market conditions, challenges, and opportunities in the Management Discussion and Analysis section of the annual report.  Here's a summary based on the provided excerpt:
 
 
 **Key Strategies:**
 
-* **Digitalization and Sustainability:**  A core strategy is to leverage digital technologies (AI, digital twins, Industrial Edge, Siemens Xcelerator platform) to drive both operational efficiency and sustainability initiatives across all business segments. This strategy aims to make Siemens a preferred partner for customers undergoing digital and sustainability transformations.
-* **Capacity Expansion:**  Significant investments in capacity expansion across several factories (Gas Insulated Switchgear and Vacuum Interrupter in Goa, Power Transformer in Kalwa, Metro train manufacturing in Aurangabad) are a key strategy to meet growing demand and strengthen market position.
+* **Digitalization and Sustainability:**  A core strategy is to use digital technologies (AI, digital twins, Industrial Edge, Siemens Xcelerator platform) to drive both operational efficiency and sustainability initiatives across all business segments. This strategy aims to make Siemens a preferred partner for customers undergoing digital and sustainability transformations.
+* **Capacity Expansion:**  Significant investments in capacity expansion across many factories (Gas Insulated Switchgear and Vacuum Interrupter in Goa, Power Transformer in Kalwa, Metro train manufacturing in Aurangabad) are a key strategy to meet growing demand and strengthen market position.
 * **Focus on Key Sectors:**  Siemens is prioritizing growth in key sectors such as data centers, power transmission, renewables, e-mobility, and pharmaceuticals, which are experiencing significant growth in India.
-* **Strategic Partnerships:** Collaboration with customers, suppliers, and industry associations is a key strategic approach to enhance market penetration, gain access to new technologies, and drive collective action toward sustainability goals.
+* **Strategic Partnerships:** Collaboration with customers, suppliers, and industry associations is a key strategic approach to improve market penetration, gain access to new technologies, and drive collective action toward sustainability goals.
 * **Demerger of Energy Business:** The demerger of the Energy business is a strategic move aimed at creating two focused entities, thereby improving operational efficiency and unlocking shareholder value through separate market valuations.
 
 
@@ -459,12 +459,12 @@ Siemens Limited's management highlights several key strategies, competitive adva
 * **Comprehensive Portfolio:**  Siemens possesses a broad and integrated product and solution portfolio across its business segments, giving it a strong competitive edge.  This allows Siemens to offer end-to-end solutions to its clients.
 * **Technological Leadership:** The Company's technological expertise and innovation in areas like digitalization, automation, and sustainable technologies provide a significant competitive advantage.
 * **Strong Brand Reputation:**  Siemens benefits from a strong brand reputation for quality, reliability, and innovation. This provides a trusted position in the market.
-* **Established Customer Base:** The company boasts a large and diverse customer base in both the public and private sectors across various industries. This provides strong revenue streams and growth opportunities.
+* **Established Customer Base:** The company boasts a large and various customer base in both the public and private sectors across various industries. This provides strong revenue streams and growth opportunities.
 
 
 **Market Conditions:**
 
-* **Strong Indian Economic Growth:** The Indian economy's robust growth, particularly in core sectors, presents favorable market conditions for Siemens' offerings.  Investment in infrastructure projects, and government initiatives like PLI schemes support this growth.
+* **Strong Indian Economic Growth:** The Indian economy's robust growth, especially in core sectors, presents favorable market conditions for Siemens' offerings.  Investment in infrastructure projects, and government initiatives like PLI schemes support this growth.
 * **Growing Demand for Digital and Sustainable Solutions:** Increasing demand for digital transformation and sustainability solutions creates significant opportunities for Siemens' technology offerings.
 * **Expansion of New Verticals:** The emergence of new verticals like semiconductors, batteries, green hydrogen, presents further growth potential.
 * **Increased Public and Private Sector Capex:** Public and private capital expenditure on infrastructure and manufacturing projects drive demand across Siemens' product and service portfolios.
@@ -488,10 +488,10 @@ Siemens Limited's management highlights several key strategies, competitive adva
 
 **Management's Outlook:**
 
-Management expresses confidence in Siemens Limited's ability to maintain growth momentum, leveraging its technological leadership, comprehensive portfolio, and strong market position in India's growing economy. The successful execution of its strategies and ability to manage the identified risks will be critical factors in realizing its growth aspirations.  The demerger of the Energy business is anticipated to create two stronger and more focused entities.
+Management expresses confidence in Siemens Limited's ability to maintain growth momentum, leveraging its technological leadership, detailed portfolio, and strong market position in India's growing economy. The successful execution of its strategies and ability to manage the identified risks will be critical factors in realizing its growth aspirations.  The demerger of the Energy business is anticipated to create two stronger and more focused entities.
 
 
-**Note:**  This analysis is based on the information provided in the annual report excerpt.  For a more complete picture, it's crucial to review the full annual report and potentially supplemental materials from the company.
+**Note:**  This analysis is based on the information provided in the annual report excerpt.  For a more complete picture, it's essential to review the full annual report and potentially supplemental materials from the company.
 
 ### ESG Ratings
 The provided Siemens Limited annual report excerpt does *not* include ESG ratings from any external rating agencies.  To find this information, you would need to consult independent ESG rating providers such as:
@@ -503,7 +503,7 @@ The provided Siemens Limited annual report excerpt does *not* include ESG rating
 * **S&P Global Ratings:** Provides ESG ratings and related insights.
 
 
-These agencies use different methodologies and criteria, resulting in varying ratings for the same company.  Therefore, consulting multiple rating agencies provides a more comprehensive understanding of Siemens' ESG performance.  To find the most up-to-date ESG ratings, you should search for Siemens Limited (or its stock ticker symbol) on the websites of these rating providers.
+These agencies use different methodologies and criteria, resulting in varying ratings for the same company.  Therefore, consulting multiple rating agencies provides a more detailed understanding of Siemens' ESG performance.  To find the most up-to-date ESG ratings, you should search for Siemens Limited (or its stock ticker symbol) on the websites of these rating providers.
 
 ### ESG Initiatives
 Siemens Limited's Annual Report for FY2023-24 highlights various environmental, social, and governance (ESG) initiatives,  progress toward sustainability goals, and its overall sustainability strategy.  Here's a summary based on the provided excerpt:
@@ -516,7 +516,7 @@ Siemens Limited's Annual Report for FY2023-24 highlights various environmental, 
 * **Waste Management:**  Siemens adheres to Extended Producer Responsibility (EPR) regulations for e-waste and plastic waste, employing authorized recyclers.  The company is working towards a zero-landfill target by 2030.  Various initiatives focused on reducing plastic packaging and waste generation are in place.
 * **Water Conservation:**  Siemens implemented water conservation measures including rainwater harvesting and water treatment facilities aiming for zero liquid discharge (ZLD).  It aims to reduce freshwater consumption through various initiatives.
 * **Air Emissions:** The Company monitors and reports on air emissions (NOx, SOx, particulate matter), aiming for continual reduction through operational improvements and technological advancements.
-* **Local Biodiversity:**  Siemens' environmental policies emphasize the avoidance of harmful activities affecting local biodiversity, particularly in vulnerable areas.
+* **Local Biodiversity:**  Siemens' environmental policies emphasize the avoidance of harmful activities affecting local biodiversity, especially in vulnerable areas.
 * **Greenhouse Gas (GHG) Emissions:** The Company reports Scope 1 and Scope 2 GHG emissions, showing a significant reduction in Scope 1 and 2 emissions year-over-year. Scope 3 emission reduction efforts are also detailed.
 
 
@@ -529,10 +529,10 @@ The report provides data for Scope 1, Scope 2 (location and market based), and S
 
 Siemens' social initiatives are primarily channeled through its Corporate Social Responsibility (CSR) program, focusing on:
 
-* **Education:**  The Company's major initiatives include the Siemens Scholarship Program, Dual VET at ITIs (in collaboration with Tata STRIVE), and Project Jigyaasa (STEM education).  These programs aim to enhance skills development, create industry-ready graduates and improve learning outcomes.
+* **Education:**  The Company's major initiatives include the Siemens Scholarship Program, Dual VET at ITIs (in collaboration with Tata STRIVE), and Project Jigyaasa (STEM education).  These programs aim to improve skills development, create industry-ready graduates and improve learning outcomes.
 * **Community Development:** Project Asha is focused on improving living conditions in rural communities by providing access to water, sanitation, education, and livelihood opportunities.  The company actively participates in disaster relief efforts.
 * **Supplier Engagement:**  Siemens requires its suppliers to adhere to the Siemens Group Code of Conduct for Suppliers and Third Party Intermediaries, emphasizing human rights, labor standards, and environmental protection.
-* **Employee Well-being:** The Company prioritizes employee health, safety and well-being, through various initiatives and programs, including health insurance, parental leave, wellness programs, and comprehensive safety measures.
+* **Employee Well-being:** The Company prioritizes employee health, safety and well-being, through various initiatives and programs, including health insurance, parental leave, wellness programs, and detailed safety measures.
 
 
 **Governance Practices:**
@@ -540,7 +540,7 @@ Siemens' social initiatives are primarily channeled through its Corporate Social
 Siemens emphasizes robust corporate governance through:
 
 * **Board Committees:**  The report highlights the roles and activities of various board committees, including the Audit Committee, Nomination and Remuneration Committee, Corporate Social Responsibility Committee, and Risk Management Committee.
-* **Business Conduct Guidelines (BCG):**  A comprehensive code of conduct promotes ethical behavior, compliance, and transparent decision-making.  Regular training programs reinforce adherence to the BCG.
+* **Business Conduct Guidelines (BCG):**  A detailed code of conduct promotes ethical behavior, compliance, and transparent decision-making.  Regular training programs reinforce adherence to the BCG.
 * **Compliance Mechanisms:**  Siemens has established mechanisms for reporting compliance violations (whistleblower policy) and managing risks associated with corruption and other unethical conduct.
 * **Transparency and Disclosure:**  The detailed ESG disclosures in the report highlight the Company's commitment to transparent reporting practices.
 
@@ -556,7 +556,7 @@ Siemens' sustainability strategy is embodied in its DEGREE framework.  Key ambit
 * **Ethics and Governance:**  Maintaining high ethical standards, robust compliance programs, and transparent governance structures.
 
 
-**Note:** The provided excerpt provides a summary of initiatives.  More comprehensive details on specific programs, targets, and performance are likely available in the full annual report and other sustainability-related publications from Siemens.
+**Note:** The provided excerpt provides a summary of initiatives.  More detailed details on specific programs, targets, and performance are likely available in the full annual report and other sustainability-related publications from Siemens.
 
 
 
@@ -578,14 +578,14 @@ Based on the Siemens Limited annual report excerpt, the significant events durin
 
 * **Strong Financial Performance:** The company achieved significant growth in revenue, PBT, and PAT, exceeding expectations despite global economic headwinds.
 * **Capacity Expansion:**  Siemens announced substantial investments and expansions across multiple factories.  These include expanding the Gas Insulated Switchgear and Vacuum Interrupter factories in Goa, the Power Transformer factory in Kalwa, and establishing a state-of-the-art Metro train manufacturing facility in Aurangabad. This reflects a commitment to meeting growing market demand and strengthening its manufacturing capabilities.
-* **Major Project Wins:** The company secured several large and prestigious projects, most notably the electrification of Bengaluru Metro Phase 2 and the electrification of a significant stretch of the Udhampur-Srinagar-Baramulla Rail Link, including its longest tunnel.  Other key wins were in the modernization of gas turbines and the supply of high-voltage switchgear. These wins showcase Siemens' competitive strength and market leadership in key sectors.
+* **Major Project Wins:** The company secured many large and prestigious projects, most notably the electrification of Bengaluru Metro Phase 2 and the electrification of a significant stretch of the Udhampur-Srinagar-Baramulla Rail Link, including its longest tunnel.  Other key wins were in the modernization of gas turbines and the supply of high-voltage switchgear. These wins showcase Siemens' competitive strength and market leadership in key sectors.
 * **Siemens Xcelerator Platform Growth:**  Over 100 India-relevant digital use and reference cases were added to the Siemens Xcelerator platform, demonstrating success in digitalization across various industries.
 * **Demerger of Energy Business:**  The Board approved a plan to demerge the Energy business into a separate listed entity, Siemens Energy India Limited. This major restructuring is expected to complete in 2025.  This is a significant strategic move for the company.
 * **Fraud Incident:**  A material fraud by an employee was detected through the company's whistleblower process.  While this is a negative event, the report also highlights management's response and corrective actions to prevent future occurrences.  This demonstrates the effectiveness of the whistleblower process.
-* **Awards and Recognition:** The Company received several industry accolades including recognition for its ESG performance and innovation in data center solutions, illustrating its leadership position.
+* **Awards and Recognition:** The Company received many industry accolades including recognition for its ESG performance and innovation in data center solutions, illustrating its leadership position.
 
 
-These events represent key highlights of Siemens Limited's fiscal year 2023-24, reflecting both positive growth and strategic restructuring.  For a truly comprehensive list of events, consulting the complete annual report is advisable.
+These events represent key highlights of Siemens Limited's fiscal year 2023-24, reflecting both positive growth and strategic restructuring.  For a truly detailed list of events, consulting the complete annual report is advisable.
 
 
 ### Audit Information
@@ -596,7 +596,7 @@ The independent auditor, Price Waterhouse Chartered Accountants LLP, expressed a
 
 **Key Accounting Policies:**
 
-The annual report outlines several key accounting policies used by Siemens Limited in preparing its financial statements.  These policies are in accordance with Indian Accounting Standards (Ind AS).  Key highlights include:
+The annual report outlines many key accounting policies used by Siemens Limited in preparing its financial statements.  These policies are in accordance with Indian Accounting Standards (Ind AS).  Key highlights include:
 
 * **Basis of Preparation:**  The financial statements are prepared using the historical cost convention, except for certain items (like derivative instruments, defined benefit plans, and some financial assets/liabilities) measured at fair value.
 * **Current vs. Non-current Classification:** Assets and liabilities are classified as current or non-current based on the company's operating cycle (12 months).
@@ -606,14 +606,14 @@ The annual report outlines several key accounting policies used by Siemens Limit
 * **Inventories:**  Inventories are valued at the lower of cost (weighted average method) and net realizable value.
 * **Leases:**  Ind AS 116 "Leases" is applied, recognizing right-of-use assets and lease liabilities for most leases.
 * **Employee Benefits:**  Accounting for employee benefits follows Ind AS 19 "Employee Benefits," distinguishing between defined contribution and defined benefit plans.  Actuarial valuations are used for defined benefit plans.
-* **Financial Instruments:**  Ind AS 109 "Financial Instruments" is applied, classifying financial assets and liabilities into various categories (amortized cost, fair value through profit or loss, fair value through other comprehensive income) based on their characteristics and the company's business model.  The expected credit loss (ECL) model is used for impairment assessments.
+* **Financial Instruments:**  Ind AS 109 "Financial Instruments" is applied, classifying financial assets and liabilities into various categories (amortized cost, fair value through profit or loss, fair value through other detailed income) based on their characteristics and the company's business model.  The expected credit loss (ECL) model is used for impairment assessments.
 * **Foreign Currency Transactions:** Transactions denominated in foreign currencies are translated using exchange rates prevailing at the transaction date, and any resulting exchange differences are recognized in the statement of profit and loss.  Hedging strategies are employed to mitigate foreign currency risk.
 * **Taxation:**  Ind AS 12 "Income Taxes" is applied, recognizing both current and deferred tax.  The balance sheet method is used for deferred tax calculations.
 * **Provisions and Contingencies:**  Ind AS 37 "Provisions, Contingent Liabilities and Contingent Assets" is followed, recognizing provisions for probable obligations with reliable estimates and disclosing contingent liabilities.
 * **Share-based Payments:** Ind AS 102 "Share-based payment" is applied. The cost of equity-settled transactions are recognized as an expense in the statement of profit or loss, together with a corresponding increase in equity.
 
 
-These  are  the  key  highlights;  the  complete  details  of  the  accounting  policies  are  presented  in  the  full annual report.  Understanding these policies is crucial for a comprehensive analysis of the financial statements.
+These  are  the  key  highlights;  the  complete  details  of  the  accounting  policies  are  presented  in  the  full annual report.  Understanding these policies is essential for a detailed analysis of the financial statements.
 
 
 

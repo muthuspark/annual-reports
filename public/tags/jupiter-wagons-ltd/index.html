@@ -24,7 +24,8 @@
     Jupiter Wagons Ltd | Annual Report Insights
     
 </title>
-
+<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/_pagefind/pagefind-ui.js"></script>
 <link rel="canonical" href="https://reports.muthu.co/tags/jupiter-wagons-ltd/"/>
 
 <meta property="og:url" content="https://reports.muthu.co/tags/jupiter-wagons-ltd/">
@@ -79,7 +80,6 @@
 
 
 <body class="light">
-
   <div class="content">
     <header>
       
@@ -91,20 +91,20 @@
     <h1 class="header-title">
         <a href="https://reports.muthu.co/">Annual Report Insights</a>
     </h1>
-
+    
     <div class="flex">
         
 
         
         
-      
+        
         <p class="small ">
             <a href="/" >
                 /home
             </a>
         </p>
         
-      
+        
         <p class="small ">
             <a href="/about" >
                 /about
@@ -115,11 +115,10 @@
     </div>
 
     
-
+    <div id="search"></div>
 </div>
 
     </header>
-
     <main class="main">
       
 
@@ -220,6 +219,10 @@
   setTheme();
 
 </script>
-
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
 <script defer src="/js/copy-code.js"></script>
 </html>

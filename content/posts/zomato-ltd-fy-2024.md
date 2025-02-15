@@ -10,8 +10,8 @@ hideBackToTop = false
 
 
 ## Overview
-### Comprehensive Analysis
-This is a comprehensive analysis of the provided Zomato Limited Annual Report for FY24 (ending March 31, 2024).  The report showcases significant growth and a transition to profitability, but also highlights key risks and ongoing ESG commitments.
+### Detailed Analysis
+This is a detailed analysis of the provided Zomato Limited Annual Report for FY24 (ending March 31, 2024).  The report showcases significant growth and a transition to profitability, but also highlights key risks and ongoing ESG commitments.
 
 **I. Financial Highlights:**
 
@@ -22,7 +22,7 @@ The report presents both GAAP and non-GAAP (Adjusted) financial metrics.  Key ta
 * **B2C Business Dominates:**  The B2C business (Food Delivery, Quick Commerce, Going-Out) generated a combined GOV (Gross Order Value) of INR 47,918 crore, showing a 48% YoY growth. Adjusted Revenue from these segments was INR 10,351 crore.
 * **Food Delivery:** GOV grew by 23% YoY to INR 32,224 crore, while Adjusted Revenue grew by 27% YoY to INR 7,792 crore.  This segment achieved positive Adjusted EBITDA (INR 912 crore) for the full year.
 * **Quick Commerce (Blinkit):**  GOV grew significantly by 93% YoY to INR 12,469 crore, indicating substantial growth in this segment. Adjusted Revenue increased by 116% YoY to INR 2,301 crore and reached Adjusted EBITDA breakeven in March 2024.
-* **Going-Out:** This segment, encompassing dining-out and ticketing, experienced explosive growth, with GOV surging 136% YoY to INR 3,225 crore. Adjusted Revenue grew 51% to INR 258 crore.
+* **Going-Out:** This segment, covering dining-out and ticketing, experienced explosive growth, with GOV surging 136% YoY to INR 3,225 crore. Adjusted Revenue grew 51% to INR 258 crore.
 * **B2B Supplies (Hyperpure):**  Revenue grew by 111% YoY to INR 3,172 crore, driven by both core restaurant supplies and the expansion into quick commerce.  Adjusted EBITDA margin improved considerably to -4%.
 * **Cash Position:** Consolidated cash balance increased to INR 12,241 crore as of March 24, 2024, indicating a strong financial position.
 
@@ -37,10 +37,10 @@ The report presents both GAAP and non-GAAP (Adjusted) financial metrics.  Key ta
 
 **III. Risks:**
 
-The annual report identifies several key risks:
+The annual report identifies many key risks:
 
 * **Brand Reputation:** Negative publicity, customer complaints, and intellectual property issues pose significant threats to Zomato's brand image.
-* **Customer Experience:** Maintaining high service quality, reliability, and consistency in pricing is crucial to retain customers and sustain growth.
+* **Customer Experience:** Maintaining high service quality, reliability, and consistency in pricing is essential to retain customers and sustain growth.
 * **Technology:** Cybersecurity threats, app downtime, and technological obsolescence can disrupt operations and damage reputation.
 * **People Management:**  Attracting, retaining, and developing top talent, including addressing succession planning, is essential.
 * **Business Strategy:** The need for a robust strategy to adapt to market changes, develop new products and services, and manage the scalability of its operations is highlighted.
@@ -49,7 +49,7 @@ The annual report identifies several key risks:
 
 **IV. ESG Initiatives:**
 
-Zomato demonstrates a commitment to ESG through several initiatives:
+Zomato demonstrates a commitment to ESG through many initiatives:
 
 * **Climate Conscious Deliveries:**  Aiming for 100% EV-based deliveries by 2030 and net-zero emissions across the food delivery value chain by 2033.  Significant progress was made in FY24 with a 4x increase in EV-based deliveries.
 * **Waste-Free World:**  Focus on reducing waste through initiatives such as "don't send cutlery" (reducing cutlery waste by 75%), promoting plastic-free packaging ("PFO" label for restaurants), and the Plastic-Free Orders Packathon supporting startups in sustainable packaging.
@@ -62,7 +62,7 @@ Zomato demonstrates a commitment to ESG through several initiatives:
 
 **V. Conclusion:**
 
-Zomato's FY24 annual report paints a picture of a company experiencing significant growth and achieving profitability across its diverse business segments. The focus on technology, customer experience, and strategic investments has driven this success. However, the report also transparently outlines the risks the company faces, particularly in the fast-evolving technology and food delivery landscape.  Its strong commitment to ESG initiatives positions the company to navigate these challenges while fostering a positive impact on its various stakeholder groups.  The  long-term  success  of  Zomato  will depend  on  its  ability  to  effectively  manage  the identified risks and continue innovating and adapting to the changing market dynamics.
+Zomato's FY24 annual report paints a picture of a company experiencing significant growth and achieving profitability across its various business segments. The focus on technology, customer experience, and strategic investments has driven this success. However, the report also transparently outlines the risks the company faces, especially in the fast-evolving technology and food delivery landscape.  Its strong commitment to ESG initiatives positions the company to navigate these challenges while fostering a positive impact on its various stakeholder groups.  The  long-term  success  of  Zomato  will depend  on  its  ability  to  effectively  manage  the identified risks and continue innovating and adapting to the changing market dynamics.
 
 ---
 ### Detailed Analysis
@@ -365,7 +365,7 @@ Calculating efficiency ratios requires revenue and average asset/inventory/recei
 To obtain precise efficiency ratios, you must utilize the average balance sheet values for assets, receivables and inventory as detailed in the original Zomato annual report.  The notes to the financial statements can provide context and further details on these calculations.
 
 ### Leverage Ratios
-Calculating leverage ratios requires debt information.  Zomato's FY24 annual report shows a significant reduction or elimination of debt for both its consolidated and standalone financial statements.  This impacts the calculation of these ratios.  Let's break down what we can determine:
+Calculating use ratios requires debt information.  Zomato's FY24 annual report shows a significant reduction or elimination of debt for both its consolidated and standalone financial statements.  This impacts the calculation of these ratios.  Let's break down what we can determine:
 
 
 **Consolidated Financial Statements (as of March 31, 2024):**
@@ -388,7 +388,7 @@ Calculating leverage ratios requires debt information.  Zomato's FY24 annual rep
 * **Interest Coverage:** Calculating the interest coverage ratio requires EBIT (Earnings Before Interest and Taxes). This is not directly stated in the report, and would need to be calculated from other values on the income statement. Given the very low level of debt, the interest coverage ratio is likely to be very high, but a precise calculation is not possible from the available data.
 
 
-To determine precise leverage ratios, particularly a meaningful interest coverage ratio, consult the complete financial statements and notes provided in the original Zomato annual report. These would include the required values to perform the correct calculations. Remember that the absence of significant debt makes some of these traditional leverage ratios less valuable in evaluating the Company's financial risk profile.
+To determine precise use ratios, especially a meaningful interest coverage ratio, consult the complete financial statements and notes provided in the original Zomato annual report. These would include the required values to perform the correct calculations. Remember that the absence of significant debt makes some of these traditional use ratios less valuable in evaluating the Company's financial risk profile.
 
 
 
@@ -445,17 +445,17 @@ This table summarizes the information, but for complete details on products, ser
 
 ## Risk Management
 ### Risk Assessment
-Zomato's annual report highlights several key risk factors, but it doesn't explicitly quantify "impact severity" or "likelihood" with numerical scales.  Instead, the report uses descriptive language to convey the potential impact and the probability of occurrence. The mitigation strategies outlined are also largely descriptive. To organize the information effectively, we'll categorize and summarise the identified risks:
+Zomato's annual report highlights many key risk factors, but it doesn't explicitly quantify "impact severity" or "likelihood" with numerical scales.  Instead, the report uses descriptive language to convey the potential impact and the probability of occurrence. The mitigation strategies outlined are also largely descriptive. To organize the information effectively, we'll categorize and summarise the identified risks:
 
 **I. Key Risk Factors:**
 
 
 | Category          | Risk Factor                                      | Description                                                                                                                                                                                                                              | Potential Impact                                                   | Mitigation Strategies                                                                                                                                             | Trends                                                                  |
 |----------------------|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| **Brand Reputation** | Negative Brand Perception                          | Damage to brand image from negative publicity (customer complaints, incidents, etc.) or inconsistent quality of services across multiple platforms (food, quick commerce, going out).                                                                                              | Loss of customer trust, reduced revenue, decreased market share. | Comprehensive branding guidelines, proactive monitoring of public sentiment, rapid response to negative publicity, robust customer support, continuous service improvement, and initiatives to enhance brand trust. | Increased scrutiny of brand ethics and sustainability; increasing importance of social media reputation.          |
+| **Brand Reputation** | Negative Brand Perception                          | Damage to brand image from negative publicity (customer complaints, incidents, etc.) or inconsistent quality of services across multiple platforms (food, quick commerce, going out).                                                                                              | Loss of customer trust, reduced revenue, decreased market share. | Detailed branding guidelines, proactive monitoring of public sentiment, rapid response to negative publicity, robust customer support, continuous service improvement, and initiatives to improve brand trust. | Increased scrutiny of brand ethics and sustainability; increasing importance of social media reputation.          |
 | **Customer Experience** | Poor Customer Experiences                       | Service unavailability, subpar quality, inconsistent pricing, poor delivery, inadequate technology infrastructure to handle high order volumes.                                                                                                       | Loss of customer loyalty, reduced revenue, negative reviews impacting future growth. | Regular training for delivery partners and staff, dedicated customer support channels, proactive monitoring of customer feedback (surveys, reviews), price consistency initiatives, technological enhancements to improve service delivery and reliability.  | Growing customer expectations for convenience, speed, and quality; increasing demand for personalization.   |
 | **Technology**       | Cybersecurity Risks                               | Data breaches, ransomware, phishing, denial-of-service (DoS) attacks, app downtime, inadequate infrastructure to handle high traffic volumes.                                                                                              | Financial losses, legal liabilities, regulatory penalties, reputational damage, loss of customer trust.    | Dedicated cybersecurity teams, robust security protocols, regular system testing, advanced cybersecurity tools, bug bounty programs, periodic security assessments, and data protection measures.                                 | Increasing sophistication of cyber threats; rising regulatory compliance requirements related to data security and privacy. |
-| **People Management** | Talent Acquisition & Retention                    | Difficulty in attracting and retaining skilled employees, succession planning challenges.                                                                                                                                         | Difficulty in achieving business goals; hindering innovation, operational inefficiencies. | Robust succession planning, competitive compensation packages, employee development programs (training, mentorship), fostering a diverse and inclusive work environment, and flexible work arrangements.                                                              | Increasing competition for talent in the tech industry; growing emphasis on employee well-being and diversity.       |
+| **People Management** | Talent Acquisition & Retention                    | Difficulty in attracting and retaining skilled employees, succession planning challenges.                                                                                                                                         | Difficulty in achieving business goals; hindering innovation, operational inefficiencies. | Robust succession planning, competitive compensation packages, employee development programs (training, mentorship), fostering a various and inclusive work environment, and flexible work arrangements.                                                              | Increasing competition for talent in the tech industry; growing emphasis on employee well-being and diversity.       |
 | **Business Strategy** | Inadequate Business Strategy                   | Lack of clearly defined strategy for product development, expansion, and scalability of stores/warehouses, resulting in over-reliance on existing services/products, failure to capitalize on market opportunities.           | Revenue stagnation, hindered growth, missed market opportunities. | Continuous market research, regular reviews of business strategy, development and launch of new and innovative products/services, expansion plans, focus on operational efficiency.                                                                    | Rapidly evolving market dynamics; need for agility and adaptability; diversification across business segments.      |
 | **Competition**       | Increased Competition                             | New entrants and existing competitors providing similar services.                                                                                                                                               | Loss of market share, reduced revenue, pricing pressure.           | Continuous innovation, differentiation through value added services, focus on exceptional customer service, strong stakeholder relationships, cost efficiency and effective marketing and promotional activities.                                             | Intense competition in the food delivery and quick commerce sectors; increasing pressure to achieve profitability. |
 
@@ -471,16 +471,16 @@ The  report  doesn't  assign  specific  probabilities  or  impact  scores  to  t
 
 ## Strategic Overview
 ### Management Assessment
-Zomato's management discussion and analysis section highlights several key strategic elements, competitive advantages, market conditions, challenges, and opportunities.  Here's a synthesis of that information:
+Zomato's management discussion and analysis section highlights many key strategic elements, competitive advantages, market conditions, challenges, and opportunities.  Here's a synthesis of that information:
 
 
 **I. Key Strategies:**
 
 * **Multi-Segment Approach:**  Zomato's strategy hinges on diversifying across multiple segments (food delivery, quick commerce, going-out, B2B supplies) to mitigate risk and capitalize on growth opportunities in various market sectors.  This reduces reliance on any single segment.
-* **Technological Innovation:** Continuous investment in technology and data analytics to enhance operational efficiency, personalize customer experiences, and develop new products and services (AI-powered features, improved logistics, etc.).
+* **Technological Innovation:** Continuous investment in technology and data analytics to improve operational efficiency, personalize customer experiences, and develop new products and services (AI-powered features, improved logistics, etc.).
 * **Customer Centricity:** Prioritizing customer satisfaction through improvements in service quality, delivery reliability, and offering value-added services (like Zomato Gold).
 * **Strategic Partnerships:**  Collaborating with various stakeholders (delivery partners, restaurants, technology providers, and other businesses) to strengthen its ecosystem and expand reach.
-* **Operational Efficiency:**  Focus on optimizing costs, improving logistics, and scaling operations to enhance profitability and competitiveness.
+* **Operational Efficiency:**  Focus on optimizing costs, improving logistics, and scaling operations to improve profitability and competitiveness.
 * **Brand Building:** Sustaining a strong brand reputation through positive brand image, proactive management of negative publicity, transparent communications, and community engagement initiatives.
 
 
@@ -494,7 +494,7 @@ Zomato's management discussion and analysis section highlights several key strat
 
 **III. Market Conditions:**
 
-* **Evolving Consumer Preferences:** Growing demand for convenience, speed, and diverse food choices; increasing adoption of online ordering and delivery; and high growth in the quick commerce space.
+* **Evolving Consumer Preferences:** Growing demand for convenience, speed, and various food choices; increasing adoption of online ordering and delivery; and high growth in the quick commerce space.
 * **Intense Competition:** The food delivery and quick commerce markets are highly competitive, with established players and new entrants constantly vying for market share.
 * **Economic Conditions:**  Overall macroeconomic conditions (inflation, disposable income levels) can impact consumer spending and the profitability of businesses.
 * **Regulatory Environment:**  Compliance with evolving regulations regarding food safety, data privacy, and labor laws.
@@ -514,7 +514,7 @@ Zomato's management discussion and analysis section highlights several key strat
 * **Growth in Quick Commerce:**  The quick commerce sector holds significant growth potential, especially in India's rapidly expanding online retail market.
 * **Expansion of Going-Out Segment:**  Expansion of dining-out services and event ticketing.
 * **New Product/Service Development:**  Innovation and launch of new products and services to better cater to evolving customer preferences (e.g., healthy food options, new cuisines, etc.).
-* **Strategic Acquisitions:**  Identifying suitable acquisition targets to enhance its capabilities, expand into new markets, or diversify its service offerings.
+* **Strategic Acquisitions:**  Identifying suitable acquisition targets to improve its capabilities, expand into new markets, or diversify its service offerings.
 * **International Expansion:**  Expanding its services to other countries.
 
 
@@ -527,7 +527,7 @@ Zomato's management sees a positive outlook, citing the transition to profitabil
 
 
 ### ESG Ratings
-The Zomato annual report mentions several ESG ratings from different agencies.  These ratings provide an independent assessment of the company's environmental, social, and governance performance. Note that ESG ratings methodologies vary across agencies, making direct comparisons challenging.
+The Zomato annual report mentions many ESG ratings from different agencies.  These ratings provide an independent assessment of the company's environmental, social, and governance performance. Note that ESG ratings methodologies vary across agencies, making direct comparisons challenging.
 
 
 Here's a summary of the ESG ratings mentioned:
@@ -539,7 +539,7 @@ Here's a summary of the ESG ratings mentioned:
 * **FTSE Russell:** Became a member of the FTSE4Good Global Index in June 2023.
 
 
-The report highlights that Zomato has the best ESG rating among major global food delivery companies.  However, it is crucial to note that ESG ratings are dynamic, constantly evolving, and interpretations may differ based on each agency’s specific methodology and scoring system.  To get the most up-to-date ratings and a complete understanding of the methodologies employed, one should consult the individual rating agencies' websites directly.
+The report highlights that Zomato has the best ESG rating among major global food delivery companies.  However, it is essential to note that ESG ratings are dynamic, constantly evolving, and interpretations may differ based on each agency’s specific methodology and scoring system.  To get the most up-to-date ratings and a complete understanding of the methodologies employed, one should consult the individual rating agencies' websites directly.
 
 ### ESG Initiatives
 Zomato's annual report details its various environmental, social, and governance (ESG) initiatives, carbon footprint, and sustainability goals. Here's a summary:
@@ -548,7 +548,7 @@ Zomato's annual report details its various environmental, social, and governance
 **I. Environmental Initiatives:**
 
 * **Climate Conscious Deliveries:** The company is committed to achieving 100% electric vehicle (EV)-based deliveries by 2030 and net-zero emissions across its food delivery value chain by 2033.  In FY24, they reported a 4x year-on-year increase in EV-based deliveries.
-* **Waste-Free World:** Zomato implemented several initiatives to reduce waste:
+* **Waste-Free World:** Zomato implemented many initiatives to reduce waste:
     * **"Don't Send Cutlery":**  Reduced cutlery waste by 75% year-on-year.
     * **100% Plastic Neutral Deliveries:**  Voluntarily recycled 30,000 MT of plastic waste in total, exceeding its target for the year.
     * **Plastic-Free Orders (PFO) initiative:** Highlighting restaurants using plastic-free packaging.
@@ -566,7 +566,7 @@ The report focuses on Scope 1 and 2 emissions, reporting that they have been kep
 * **Zero Hunger:** Partnership with Feeding India to provide nutritious meals to underprivileged children.  They reported serving over 1.2 lakh meals daily.
 * **Delivery Partner Welfare:**  Various initiatives aimed at improving the well-being of delivery partners, including:
     * **Maternity benefits:** providing monetary assistance during pregnancy and childbirth.
-    * **Accident, health, and loss-of-pay insurance:**  Comprehensive coverage to mitigate risks.
+    * **Accident, health, and loss-of-pay insurance:**  Detailed coverage to mitigate risks.
     * **Emergency ambulance response:**  Improving response times for medical emergencies.
     * **Rest points:**  Establishing a network of designated rest areas for delivery partners.
     * **Emergency First Responder Training:** Training delivery partners in basic first aid and CPR.
@@ -576,7 +576,7 @@ The report focuses on Scope 1 and 2 emissions, reporting that they have been kep
 
 **IV. Governance Practices:**
 
-* **Board Composition:**  A diverse board with a balance of executive, non-executive, and independent directors, including a significant representation of women.
+* **Board Composition:**  A various board with a balance of executive, non-executive, and independent directors, including a significant representation of women.
 * **Board Committees:**  Multiple committees (audit, nomination and remuneration, risk management, etc.) to ensure effective oversight of various aspects of the business.
 * **Whistleblower Policy:**  A robust mechanism for reporting unethical behavior and ensuring transparency.
 * **Compliance:**  Adherence to relevant laws, regulations, and corporate governance standards.  Securing ISO certifications for information security and occupational health and safety.
@@ -589,13 +589,13 @@ Zomato outlines ambitious sustainability goals for 2030, aligned with the UN Sus
 * **Climate Conscious Deliveries:**  Significant reduction in last-mile delivery emissions and a substantial increase in the use of electric vehicles.
 * **Waste-Free World:**  Achieving 100% plastic-neutral deliveries and reducing food waste through various initiatives.
 * **Zero Hunger:** Expanding its efforts to combat hunger and malnutrition.
-* **Inclusive Growth:** Supporting thousands of MSMEs and gig workers; and fostering a more diverse workforce.
-* **Diversity, Equity, and Inclusion (DE&I):**  Improving the representation of diverse groups within the organization.
+* **Inclusive Growth:** Supporting thousands of MSMEs and gig workers; and fostering a more various workforce.
+* **Diversity, Equity, and Inclusion (DE&I):**  Improving the representation of various groups within the organization.
 * **Health, Safety, and Wellbeing:**  Reducing workplace accidents and promoting the overall health and wellbeing of stakeholders.
 * **Customer Centrality:**  Improving services for end-users of its platform and providing better resources to its restaurant partners.
 * **Governance:**   Maintaining high standards of corporate governance, accountability and transparency.
 
-The  report  provides  detailed  progress  reports  against  many  of  these  goals  in  FY24, indicating  substantial  progress  in  several areas,  though  all  targets  are  long-term  and  will require continued effort.
+The  report  provides  detailed  progress  reports  against  many  of  these  goals  in  FY24, indicating  substantial  progress  in  many areas,  though  all  targets  are  long-term  and  will require continued effort.
 
 
 **Disclaimer:** This is a summary. For complete details on Zomato's ESG initiatives, goals, and progress reports, consult the original annual report.  Specific numbers cited are rounded and should be considered approximations.
@@ -617,11 +617,11 @@ To determine the actual R&D expenditure, you'd need to delve into Zomato's more 
 
 
 ### Key Events
-The Zomato FY24 annual report highlights several significant events during the year:
+The Zomato FY24 annual report highlights many significant events during the year:
 
 
 * **Continued Strong Growth and Profitability:**  The most significant event is the company's overall strong financial performance, achieving profitability for the first time and demonstrating substantial revenue growth across all its business segments.
-* **Liquidation of International Subsidiaries:**  The company closed down several of its international subsidiaries (in Australia, New Zealand, Portugal, Chile, Vietnam, and Indonesia). This represents a strategic shift in focus towards its core Indian market and possibly an acknowledgment that those international ventures were not meeting expectations.
+* **Liquidation of International Subsidiaries:**  The company closed down many of its international subsidiaries (in Australia, New Zealand, Portugal, Chile, Vietnam, and Indonesia). This represents a strategic shift in focus towards its core Indian market and possibly an acknowledgment that those international ventures were not meeting expectations.
 * **Sale of Stake in ZMT Europe LDA:** Zomato sold its 30% stake in its Portuguese associate company, ZMT Europe LDA.  This is another indication of a retrenchment of international activities and a focusing of resources.
 * **Share Allotments under ESOPs:**  Significant number of equity shares were allotted to employees through the exercise of stock options under various employee stock option plans (ESOPs). This is a common practice for technology companies to attract and retain talent.
 * **Acquisitions:**  The report primarily focuses on the impact of prior year acquisitions (Blinkit and the Warehousing division of HOTPL) during the current fiscal year.
@@ -631,9 +631,9 @@ The Zomato FY24 annual report highlights several significant events during the y
     * Food on Train (delivering food to train passengers)
     * India's first large order fleet (using custom EVs)
     * Healthy food options within the Zomato app.
-* **Regulatory Developments:** The report mentions the impact of compliance with the evolving regulatory environment (e.g., GST on delivery charges).  The company is involved in discussions with regulatory authorities related to various aspects of the business, particularly concerning gig workers.
-* **ESG Progress:**   Meaningful progress was made towards several ESG goals, particularly in climate-conscious deliveries (increased EV adoption), waste reduction, and delivery partner welfare initiatives.
-* **ESG Ratings:**  The report notes Zomato achieved leading ESG scores from several rating agencies.  (See previous responses for details).
+* **Regulatory Developments:** The report mentions the impact of compliance with the evolving regulatory environment (e.g., GST on delivery charges).  The company is involved in discussions with regulatory authorities related to various aspects of the business, especially concerning gig workers.
+* **ESG Progress:**   Meaningful progress was made towards many ESG goals, especially in climate-conscious deliveries (increased EV adoption), waste reduction, and delivery partner welfare initiatives.
+* **ESG Ratings:**  The report notes Zomato achieved leading ESG scores from many rating agencies.  (See previous responses for details).
 
 
 These are the key events highlighted. For a complete list of all events, including less prominent ones, refer to the original annual report.  The original report will include things like changes in the senior management team and board composition that might also be considered significant events.
@@ -660,11 +660,11 @@ These are areas where significant judgments and estimates were used by managemen
 
 **Key Accounting Policies:**
 
-The annual report details Zomato's key accounting policies, which are crucial for understanding how the financial numbers are arrived at.  These policies generally comply with Indian Accounting Standards (Ind AS). Some of the most important ones include:
+The annual report details Zomato's key accounting policies, which are essential for understanding how the financial numbers are arrived at.  These policies generally comply with Indian Accounting Standards (Ind AS). Some of the most important ones include:
 
 * **Business Combinations:**  The acquisition method is used to account for business combinations (like the Blinkit acquisition).  This involves recognizing identifiable assets and liabilities at fair value at the acquisition date.  Goodwill is recognized if the purchase price exceeds the net fair value of identifiable assets acquired.
-* **Revenue Recognition:** Revenue is recognized based on the transfer of control of promised goods or services,  differentiating between services rendered at a point in time versus those rendered over time.  This is particularly relevant given Zomato's multi-faceted business model.
-* **Financial Instruments:**  The report details how different financial assets (investments, receivables, etc.) and liabilities are classified (amortized cost, fair value through profit or loss, fair value through other comprehensive income) and measured.  This section includes considerable detail on the valuation techniques and inputs used, especially for those instruments without readily available market prices.
+* **Revenue Recognition:** Revenue is recognized based on the transfer of control of promised goods or services,  differentiating between services rendered at a point in time versus those rendered over time.  This is especially relevant given Zomato's multi-faceted business model.
+* **Financial Instruments:**  The report details how different financial assets (investments, receivables, etc.) and liabilities are classified (amortized cost, fair value through profit or loss, fair value through other detailed income) and measured.  This section includes considerable detail on the valuation techniques and inputs used, especially for those instruments without readily available market prices.
 * **Impairment of Assets:**   The Company describes its methodology for assessing and recognizing impairment losses on its non-financial assets (like property, plant, and equipment, intangible assets) and financial assets (investments).
 * **Leases:** Zomato adopts the single recognition and measurement model for leases (except for short-term and low-value leases), recognizing both right-of-use assets and lease liabilities.
 * **Share-Based Payments:** The accounting for employee stock options (ESOPs) is explained, including the valuation methods used and the recognition of expense over the vesting period.
@@ -673,7 +673,7 @@ The annual report details Zomato's key accounting policies, which are crucial fo
 * **Segment Reporting:**  The  report  explains  the  criteria  used  for  identifying  and  reporting  operating segments,  how  revenues  and  expenses  are allocated  to  each segment and how it reflects the changes in business model during the year.
 
 
-For a complete and thorough understanding of Zomato's accounting policies, always refer to the original annual report. The notes to the financial statements provide a comprehensive list of all accounting policies applied in the preparation of the financial statements.
+For a complete and thorough understanding of Zomato's accounting policies, always refer to the original annual report. The notes to the financial statements provide a detailed list of all accounting policies applied in the preparation of the financial statements.
 
 
 

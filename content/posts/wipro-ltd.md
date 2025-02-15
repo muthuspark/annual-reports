@@ -10,10 +10,10 @@ hideBackToTop = false
 
 
 ## Overview
-### Comprehensive Analysis
+### Detailed Analysis
 
 
-This analysis delves into Wipro Limited's Integrated Annual Report for FY2023-24, examining its financial performance, business segments, risk management strategies, and Environmental, Social, and Governance (ESG) initiatives.
+This analysis looks into Wipro Limited's Integrated Annual Report for FY2023-24, examining its financial performance, business segments, risk management strategies, and Environmental, Social, and Governance (ESG) initiatives.
 
 **I. Financial Performance:**
 
@@ -39,8 +39,8 @@ FY24 presented challenges due to macroeconomic volatility impacting client discr
 
 Wipro operates through four Global Business Lines (GBLs) and a Global Business Services (GBS) unit.
 
-* **Wipro FullStride Cloud:** Offers a comprehensive suite of cloud services, integrating strategy, design, and technology, with increasing focus on AI-powered solutions.
-* **Wipro Enterprise Futuring:** Provides AI-powered solutions for large-scale enterprise transformation, encompassing data analytics, application platforms, and digital operations.
+* **Wipro FullStride Cloud:** Offers a detailed suite of cloud services, integrating strategy, design, and technology, with increasing focus on AI-powered solutions.
+* **Wipro Enterprise Futuring:** Provides AI-powered solutions for large-scale enterprise transformation, covering data analytics, application platforms, and digital operations.
 * **Wipro Engineering Edge:** Specializes in emerging technologies like IoT, 5G, industry 4.0, and silicon design.
 * **Wipro Consulting:** Combines Capco, Designit, and Wipro's domain and consulting expertise, providing end-to-end digital transformation services.
 * **Global Business Services:** Supports operations across all GBLs.
@@ -313,7 +313,7 @@ The following calculations are rough approximations, providing a general idea bu
 Without access to the full financial statements and the necessary beginning-of-year balances, any calculation of these ratios can be severely misleading.  The figures above provide only crude approximations, and should not be relied upon for serious financial analysis.  Always consult the complete financial statements for accurate calculations of efficiency ratios.  A significant difference exists between Standalone and Consolidated figures for these, again highlighting the need for using precise values.
 
 ### Leverage Ratios
-Calculating Wipro's leverage ratios precisely requires more detailed financial information than is presented in the summary financial statements. The report provides year-end figures, but calculating these ratios accurately necessitates using average values for equity and assets (beginning and ending balances).  Additionally, the report's presentation of debt isn't perfectly straightforward, making precise calculation challenging.
+Calculating Wipro's use ratios precisely requires more detailed financial information than is presented in the summary financial statements. The report provides year-end figures, but calculating these ratios accurately necessitates using average values for equity and assets (beginning and ending balances).  Additionally, the report's presentation of debt isn't perfectly straightforward, making precise calculation challenging.
 
 Here's what we can approximate, along with the caveats:
 
@@ -344,7 +344,7 @@ The following are rough approximations, providing a general idea but not precise
 
 **Conclusion:**
 
-Due to the limitations in the data provided in the summary, these leverage ratio calculations are rough approximations.  To obtain truly accurate figures, you would need to consult the Company's complete financial statements including the detailed notes, and use the average balance sheet values for the numerator and denominator of these ratios.  Differences between standalone and consolidated ratios highlight the importance of using complete data and precise definitions.
+Due to the limitations in the data provided in the summary, these use ratio calculations are rough approximations.  To obtain truly accurate figures, you would need to consult the Company's complete financial statements including the detailed notes, and use the average balance sheet values for the numerator and denominator of these ratios.  Differences between standalone and consolidated ratios highlight the importance of using complete data and precise definitions.
 
 
 
@@ -402,11 +402,11 @@ The following table summarizes the available information on Wipro's business seg
 
 | Business Segment             | Revenue (USD Mn) | Operating Margin (%) | Geographic Presence                                                              | Description                                                                                                                                                                      |
 |------------------------------|--------------------|---------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Wipro FullStride Cloud       |                    |                     | Global                                                                     | Unified, integrated cloud services, encompassing advisory, consulting, security, migration, modernization, and cloud native solutions.                                         |
+| Wipro FullStride Cloud       |                    |                     | Global                                                                     | Unified, integrated cloud services, covering advisory, consulting, security, migration, modernization, and cloud native solutions.                                         |
 | Wipro Enterprise Futuring   |                    |                     | Global                                                                     | AI-powered enterprise transformation solutions: data, analytics, platforms, operations, cybersecurity, design and experience.                                                               |
 | Wipro Engineering Edge       |                    |                     | Global                                                                     | Services across emerging technologies (AI, 5G, Industry 4.0, IoT, embedded systems, silicon design). Focused offerings in automotive, communications, and manufacturing sectors.                               |
 | Wipro Consulting             |                    |                     | Global, with significant presence in key financial and energy markets      | Consulting services through Capco (financial services), Designit (design-led transformation), and industry-specific consulting.                                                      |
-| **IT Services (Total)**     | **10,805**           | **16.1%**           | Global, with major presence in Americas (Americas 1 & 2), Europe, APMEA | Offers a comprehensive suite of IT and IT-enabled services to leading global enterprises across Banking, Financial Services & Insurance (BFSI), Health, Energy, Technology, Manufacturing, Consumer, Communications. |
+| **IT Services (Total)**     | **10,805**           | **16.1%**           | Global, with major presence in Americas (Americas 1 & 2), Europe, APMEA | Offers a detailed suite of IT and IT-enabled services to leading global enterprises across Banking, Financial Services & Insurance (BFSI), Health, Energy, Technology, Manufacturing, Consumer, Communications. |
 | **IT Products**              | **412.7**            | **-8.99%**          | Global                                                                    | Primarily provides third-party IT products as a complement to IT services offerings, focusing on system integration.                                                                |
 | **Total Revenue**            | **11,217.7**         |                     | Global                                                                    |                                                                                                                                                                             |
 
@@ -421,7 +421,7 @@ While the report provides revenue contributions by SMU, detailed geographic brea
 The lack of precise growth rates and market share data prevents a more complete competitive analysis.  To get this fuller picture, you would need to refer to external market research reports that track the IT services and consulting industry. The revenue figures given are for the fiscal year and not a reflection of the financial performance throughout the period.  The detailed segment information is not available in the summary.  The annual report should be consulted to fully understand the detailed breakdown of the business and its performance.
 
 ### Risk Assessment
-Wipro's annual report identifies several key risk factors, categorized and discussed below.  Note that the report doesn't always explicitly quantify "impact severity" and "likelihood" with numerical values; instead, these are described qualitatively.  Trends are inferred from the report's discussion.
+Wipro's annual report identifies many key risk factors, categorized and discussed below.  Note that the report doesn't always explicitly quantify "impact severity" and "likelihood" with numerical values; instead, these are described qualitatively.  Trends are inferred from the report's discussion.
 
 **I. Financial and Market Risks:**
 
@@ -506,14 +506,14 @@ Wipro's annual report identifies several key risk factors, categorized and discu
 The report also mentions other risks including regulatory compliance, data privacy, cyber security, third-party supplier risks, and fraud risks.  These are generally mitigated through established governance structures, compliance programs, and risk management policies.
 
 
-**Overall Trend:** Wipro acknowledges the dynamic and uncertain business environment.  Its risk management strategy emphasizes proactive identification, comprehensive assessment, and implementation of mitigation measures across all risk categories. While the company is cautiously optimistic about future growth, the report clearly indicates that various risk factors need continuous monitoring and adaptation of strategies to maintain business resilience.
+**Overall Trend:** Wipro acknowledges the dynamic and uncertain business environment.  Its risk management strategy emphasizes proactive identification, detailed assessment, and implementation of mitigation measures across all risk categories. While the company is cautiously optimistic about future growth, the report clearly indicates that various risk factors need continuous monitoring and adaptation of strategies to maintain business resilience.
 
 
 
 
 ## Strategic Overview
 ### Management Assessment
-Wipro's management highlights several key strategies, competitive advantages, market conditions, challenges, and opportunities in its annual report.  Here's a summary:
+Wipro's management highlights many key strategies, competitive advantages, market conditions, challenges, and opportunities in its annual report.  Here's a summary:
 
 **I. Key Strategies:**
 
@@ -521,14 +521,14 @@ Wipro's strategy centers around five key priorities:
 
 1. **Accelerate Growth – Focus and Scale:** Prioritizing specific sectors and geographies, leveraging mergers and acquisitions (M&A) for faster capability building and market entry.
 2. **Strengthen Clients and Partnerships:** Focusing on key accounts, large deal wins, and strategic partnerships with technology providers and hyperscalers (e.g., AWS, Microsoft, Google).  Emphasis on co-creation and co-innovation.
-3. **Lead with Business Solutions:** Emphasizing a consulting-led approach with AI-powered, industry-specific solutions to deliver comprehensive digital transformation services. Focus on ESG solutions for clients.
+3. **Lead with Business Solutions:** Emphasizing a consulting-led approach with AI-powered, industry-specific solutions to deliver detailed digital transformation services. Focus on ESG solutions for clients.
 4. **Building Talent at Scale:** Investing in talent acquisition, upskilling/reskilling programs (GenAI training), creating a future-ready workforce, and improving employee experience. Focus on diversity, equity, and inclusion (DEI).
 5. **Simplified Operating Model:** Streamlining operations, enhancing efficiency, and driving delivery excellence through agile methodologies and a focus on operational excellence.
 
 
 **II. Competitive Advantages:**
 
-Wipro highlights several strengths driving its competitive position:
+Wipro highlights many strengths driving its competitive position:
 
 * **Holistic Portfolio:** Offers a wide range of services across consulting, design, engineering, and operations, enabling end-to-end digital transformation solutions.
 * **Global Reach and Local Expertise:**  Strong presence in key global markets with local expertise and established relationships with clients and partners.
@@ -543,7 +543,7 @@ Wipro highlights several strengths driving its competitive position:
 
 The report details significant challenges stemming from:
 
-* **Macroeconomic Volatility:** Global economic slowdown, high inflation, and interest rate volatility impacted client discretionary spending on IT services, particularly in the first half of FY24.  The report notes cautious optimism for improved spending in FY25.
+* **Macroeconomic Volatility:** Global economic slowdown, high inflation, and interest rate volatility impacted client discretionary spending on IT services, especially in the first half of FY24.  The report notes cautious optimism for improved spending in FY25.
 * **Geopolitical Uncertainty:**  Ongoing geopolitical instability creates uncertainty about future client spending and potential supply chain disruptions.
 * **Increased Competition:** Intense competition in the IT services and consulting industry demands continuous innovation and investment in talent and technology.
 
@@ -571,7 +571,7 @@ Management expresses cautious optimism for the future, anticipating a gradual re
 
 
 ### ESG Ratings
-Wipro's annual report mentions several ESG ratings from different agencies but doesn't provide the specific scores.  The report highlights the Company's inclusion in various indices and rankings, indicating a positive ESG performance, but doesn't provide numerical scores or detailed ratings information. Here's a summary of the agencies and indices mentioned:
+Wipro's annual report mentions many ESG ratings from different agencies but doesn't provide the specific scores.  The report highlights the Company's inclusion in various indices and rankings, indicating a positive ESG performance, but doesn't provide numerical scores or detailed ratings information. Here's a summary of the agencies and indices mentioned:
 
 
 * **CDP (Climate Change):**  A rating of A- is mentioned, indicating strong performance in climate change disclosure and action.
@@ -623,9 +623,9 @@ Wipro's social initiatives are primarily driven through the Wipro Foundation, fo
 
 Wipro emphasizes strong corporate governance, highlighted by:
 
-* **Board Composition:**  A diverse Board of Directors with a significant representation of independent directors.  
+* **Board Composition:**  A various Board of Directors with a significant representation of independent directors.  
 * **Board Committees:**  Well-defined Board Committees (Audit, Risk & Compliance; Nomination & Remuneration; and Administrative & Shareholders/Investors Grievance) overseeing various aspects of the Company's operations and providing oversight and recommendations to the Board.
-* **Code of Business Conduct (COBC):**  A comprehensive code of conduct emphasizes ethical behavior, transparency, and accountability across the organization.
+* **Code of Business Conduct (COBC):**  A detailed code of conduct emphasizes ethical behavior, transparency, and accountability across the organization.
 * **Risk Management:**  A robust Enterprise Risk Management (ERM) framework addresses financial, operational, technological, and ESG risks.
 * **Transparency and Disclosure:**  A commitment to transparent and timely disclosures of material information to stakeholders.  Includes rigorous ESG reporting following relevant standards.
 * **Ombuds Process:**  A confidential mechanism for addressing employee and stakeholder grievances related to various issues including ethical concerns and human rights.
@@ -657,7 +657,7 @@ Wipro's Integrated Annual Report provides the following information on R&D expen
 It's important to note that the R&D expenditure is reported in Indian Rupees (₹) in millions.  The employee count is a snapshot as of the end of the fiscal year.  For a more complete understanding of trends, it would be useful to compare these figures to prior years' data, which is also presented in the report.
 
 ### Key Events
-Wipro's annual report highlights several significant events during fiscal year 2023-24:
+Wipro's annual report highlights many significant events during fiscal year 2023-24:
 
 * **Change in CEO and MD:** Thierry Delaporte resigned as Chief Executive Officer and Managing Director, effective April 6, 2024. Srinivas Pallia was appointed as the new CEO and MD, effective April 7, 2024.
 * **Change in CFO:** Jatin Pravinchandra Dalal resigned as Chief Financial Officer, effective September 21, 2023. Aparna C. Iyer was appointed as the new CFO, effective September 22, 2023.
@@ -669,7 +669,7 @@ Wipro's annual report highlights several significant events during fiscal year 2
 * **Significant training on Generative AI:**  Extensive training on Generative AI fundamentals and advanced applications was provided to over 225,000 employees.
 * **Launch of WiGA Studio:** Wipro's Gen AI Studio (WeGA) was launched to accelerate custom AI solutions deployment for enterprises.
 * **Strengthened relationships with key clients:**  Growth in revenue and total contract value (TCV) from key accounts demonstrate the success of the strategic partnerships.
-* **Operational streamlining:**  Significant efforts to simplify the operating model and enhance efficiencies were undertaken.
+* **Operational streamlining:**  Significant efforts to simplify the operating model and improve efficiencies were undertaken.
 
 
 These events demonstrate a year of strategic transformation, focused on expanding capabilities, strengthening client relationships,  and navigating macroeconomic and technological shifts.  The changes in leadership and the major investments in AI highlight Wipro's efforts to position itself for future growth and to meet the increasing technological demands of its clients.
@@ -683,12 +683,12 @@ However, the auditor's reports do highlight a "key audit matter" (standalone) an
 
 **Key Accounting Policies:**
 
-The annual report details several key accounting policies used to prepare the financial statements.  Here are some of the most significant:
+The annual report details many key accounting policies used to prepare the financial statements.  Here are some of the most significant:
 
 * **Basis of Preparation:**  The financial statements are prepared in accordance with Indian Accounting Standards (Ind AS) and International Financial Reporting Standards (IFRS) as applicable.  The functional and presentation currency for all entities is Indian Rupees, although convenience translations to USD are also provided (unaudited).
 * **Consolidation:**  The consolidated financial statements include the financial statements of subsidiaries and controlled trusts.  The equity method is used for investments in associates and joint ventures.
-* **Revenue Recognition:** A five-step model is followed, using the percentage-of-completion method for long-term contracts where performance obligations are satisfied over time.  Significant judgment is involved in estimating costs to complete, particularly for fixed-price contracts.  Revenue is recognized upon transfer of control of the promised goods or services to the customers, and this may differ from the timing of invoicing.
-* **Financial Instruments:**  Financial instruments are initially recognized at fair value.  Subsequent measurement depends on the classification of the instrument (amortized cost, fair value through other comprehensive income (FVOCI), or fair value through profit or loss (FVTPL)).  The Company employs significant judgement and estimation in assessing impairment of financial assets, particularly in respect of trade receivables.
+* **Revenue Recognition:** A five-step model is followed, using the percentage-of-completion method for long-term contracts where performance obligations are satisfied over time.  Significant judgment is involved in estimating costs to complete, especially for fixed-price contracts.  Revenue is recognized upon transfer of control of the promised goods or services to the customers, and this may differ from the timing of invoicing.
+* **Financial Instruments:**  Financial instruments are initially recognized at fair value.  Subsequent measurement depends on the classification of the instrument (amortized cost, fair value through other detailed income (FVOCI), or fair value through profit or loss (FVTPL)).  The Company employs significant judgement and estimation in assessing impairment of financial assets, especially in respect of trade receivables.
 * **Property, Plant, and Equipment (PP&E):** PP&E is measured at cost less accumulated depreciation and impairment. Depreciation is calculated using the straight-line method over the estimated useful lives.
 * **Goodwill and Intangible Assets:** Goodwill is measured at cost less impairment.  Intangible assets (acquired separately or in business combinations) are measured at cost less amortization and impairment.
 * **Impairment of Assets:**  Both financial and non-financial assets are assessed for impairment, applying the expected credit loss model for financial assets. The value in use method is used to determine recoverable amounts for long-lived assets and for goodwill in the case of cash generating units.
@@ -697,10 +697,10 @@ The annual report details several key accounting policies used to prepare the fi
 * **Leases:** The Company adopts IFRS 16 Leases and accordingly recognizes right of use assets and lease liabilities for all leases except for short-term leases and leases of low-value assets.
 * **Share-based Payment Transactions:**  Equity-settled and cash-settled share-based payment transactions are recognized using the fair value approach.
 * **Provisions:**  Provisions are recognized when a present obligation (legal or constructive) exists, an outflow of resources is probable, and the amount can be reliably estimated.  Onerous contracts are also addressed through provisions.
-* **Foreign Currency Transactions:**  Transactions in foreign currencies are translated into the functional currency using exchange rates at the date of transaction.  Foreign exchange gains and losses are generally recognized in the statement of income, with some differences deferred to other comprehensive income for qualifying hedges.
+* **Foreign Currency Transactions:**  Transactions in foreign currencies are translated into the functional currency using exchange rates at the date of transaction.  Foreign exchange gains and losses are generally recognized in the statement of income, with some differences deferred to other detailed income for qualifying hedges.
 
 
-These are some of the key policies;  refer to the detailed notes to the financial statements for a comprehensive explanation of all accounting policies used by Wipro.  The complete annual report should be consulted for full clarity.
+These are some of the key policies;  refer to the detailed notes to the financial statements for a detailed explanation of all accounting policies used by Wipro.  The complete annual report should be consulted for full clarity.
 
 
 

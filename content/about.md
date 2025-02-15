@@ -8,9 +8,10 @@ showTags: false
 hideBackToTop: true
 ---
 
-I'm a software engineer based in Bangalore, India, with a passion for technology and investing. Let me tell you a bit about my journey and why I built this site.
+![](me.jpg)
 
-![](me.png)
+
+I'm a software engineer based in Bangalore, India, with a passion for technology and investing. Let me tell you a bit about my journey and why I built this site.
 
 ## My Story
 
