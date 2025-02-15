@@ -1,6 +1,6 @@
 +++
 title = 'Indraprastha Medical Corporation Ltd: Annual Report 2023-24 Analysis'
-date = 2025-02-15T07:43:59.037810+05:30
+date = 2024-09-17
 readTime = true
 tags = ["Indraprastha Medical Corporation Ltd", "2023-24"]
 showTags = true

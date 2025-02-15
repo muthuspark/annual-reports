@@ -1,6 +1,6 @@
 +++
 title = 'Zomato Ltd: Annual Report 2023-24 Analysis'
-date = 2025-02-15T05:40:55.422588+05:30
+date = 2024-06-29
 readTime = true
 tags = ["Zomato Ltd", "2023-24"]
 showTags = true
@@ -677,4 +677,14 @@ For a complete and thorough understanding of Zomato's accounting policies, alway
 
 
 
+
+{{< rawhtml >}}
+
+<div class="button-container">    
+    <a href="https://b.zmtcdn.com/investor-relations/Zomato_Annual_Report_2023-24.pdf" target="_blank" class="report-button">
+      <i class="fas fa-file-pdf"></i> Download Annual Report
+    </a>
+</div>
+    
+{{< /rawhtml >}}
 

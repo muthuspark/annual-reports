@@ -1,6 +1,6 @@
 +++
 title = 'ITD Cementation India Ltd: Annual Report 2023-24 Analysis'
-date = 2025-02-15T07:39:33.043650+05:30
+date = 2024-08-07
 readTime = true
 tags = ["ITD Cementation India Ltd", "2023-24"]
 showTags = true

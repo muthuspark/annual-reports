@@ -19,13 +19,11 @@ colorPalette = 'eink'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = ''
-homeIntroContent = """
-Discover key takeaways and essential highlights from the latest annual reports of top companies and organizations. Our concise summaries help you stay informed about financial performance, strategic goals, and future trends, saving you time and offering valuable insights in an easy-to-read format.
-"""
+# homeIntroTitle = 'Hello!'
+# homeIntroContent = ""
 
 # Collection to display on home
-homeCollectionTitle = 'Posts'
+homeCollectionTitle = 'Latest Annual Reports'
 homeCollection = 'posts'
 
 # Lists parameters
@@ -37,41 +35,32 @@ listDateFormat = '2 Jan 2006'
 breadcrumbs = false
 
 # Social icons
-[[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
+# [[params.social]]
+# name = "linkedin"
+# url = "https://www.linkedin.com/in/krimuthu/"
 
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
-
-[[params.social]]
-name = "github"
-url = "https://github.com/user"
+# [[params.social]]
+# name = "github"
+# url = "https://github.com/muthuspark"
 
 # Main menu pages
 [[params.menu]]
 name = "home"
 url = "/"
 
-[[params.menu]]
-name = "posts"
-url = "/posts"
+# [[params.menu]]
+# name = "posts"
+# url = "/posts"
 
 [[params.menu]]
 name = "about"
 url = "/about"
 
-# Syntax highlight on code blocks
-[markup]
-[markup.highlight]
-style = 'algol'
-
 # Giscus comments
 [params.giscus]
 enable = false
-repo = "user/repo"
-repoid = "repoId"
+repo = "muthuspark/annual-reports"
+repoid = "R_kgDON50MsQ"
 category = "General"
 categoryid = "categoryId"
 mapping = "pathname"

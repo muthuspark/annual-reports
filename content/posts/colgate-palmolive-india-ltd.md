@@ -1,6 +1,6 @@
 +++
 title = 'Colgate-Palmolive (India) Ltd: Annual Report 2023-24 Analysis'
-date = 2025-02-15T06:30:20.919707+05:30
+date = 2024-07-04
 readTime = true
 tags = ["Colgate-Palmolive (India) Ltd", "2023-24"]
 showTags = true
@@ -8,10 +8,8 @@ hideBackToTop = false
 +++
 
 
-
 ## Overview
 ### Comprehensive Analysis
-## Colgate-Palmolive (India) Limited Annual & ESG Report 2023-24: A Comprehensive Analysis
 
 This analysis delves into the Colgate-Palmolive (India) Limited Annual & ESG Report for the financial year 2023-24, covering key financial metrics, business segments, risks, and ESG initiatives.
 

@@ -1,6 +1,6 @@
 +++
 title = 'Jolly Plastic Industries Ltd: Annual Report 2023-24 Analysis'
-date = 2025-02-15T05:29:11.143761+05:30
+date = 2024-09-05
 readTime = true
 tags = ["Jolly Plastic Industries Ltd", "2023-24"]
 showTags = true
@@ -239,3 +239,11 @@ The key accounting policies outlined in the report include:
 It's crucial to note that the absence of significant assets (PPE, Inventory) and the auditor's qualification regarding the accounting software raise concerns about the reliability and completeness of the financial information presented.  The details of several policies, such as asset classification and provisioning, are insufficient.
 
 
+
+{{< rawhtml >}}
+  <div class="button-container">
+    <a href="https://www.bseindia.com/xml-data/corpfiling/AttachHis/fe10a85f-8a2b-46ea-881a-d17a9cb9d595.pdf" target="_blank" class="report-button">
+      <i class="fas fa-file-pdf"></i> Download Annual Report
+    </a>
+  </div>
+{{< /rawhtml >}}

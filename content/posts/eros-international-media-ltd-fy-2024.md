@@ -1,6 +1,6 @@
 +++
 title = 'Eros International Media Ltd: Annual Report 2023-24 Analysis'
-date = 2025-02-15T05:34:13.013086+05:30
+date = 2025-02-06
 readTime = true
 tags = ["Eros International Media Ltd", "2023-24"]
 showTags = true
