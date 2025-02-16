@@ -1,5 +1,5 @@
 +++
-title = 'Shilchar Technologies Ltd: Annual Report 2023-24 Analysis'
+title = 'Shilchar Technologies Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-16
 readTime = true
 tags = ["Shilchar Technologies Ltd", "2023-24"]

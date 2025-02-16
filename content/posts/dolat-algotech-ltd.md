@@ -1,5 +1,5 @@
 +++
-title = 'Dolat Algotech Ltd: Annual Report 2023-24 Analysis'
+title = 'Dolat Algotech Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-06
 readTime = true
 tags = ["Dolat Algotech Ltd", "2023-24"]

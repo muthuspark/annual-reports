@@ -1,5 +1,5 @@
 +++
-title = 'Bhansali Engineering Polymers Ltd: Annual Report 2023-24 Analysis'
+title = 'Bhansali Engineering Polymers Ltd - Annual Report 2023-24 Analysis'
 date = 2024-06-04
 readTime = true
 tags = ["Bhansali Engineering Polymers Ltd", "2023-24"]

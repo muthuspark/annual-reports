@@ -1,5 +1,5 @@
 +++
-title = 'Gokul Agro Resources Ltd: Annual Report 2023-24 Analysis'
+title = 'Gokul Agro Resources Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-07
 readTime = true
 tags = ["Gokul Agro Resources Ltd", "2023-24"]

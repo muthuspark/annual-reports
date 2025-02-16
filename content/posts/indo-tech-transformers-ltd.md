@@ -1,5 +1,5 @@
 +++
-title = 'Indo Tech Transformers Ltd: Annual Report 2023-24 Analysis'
+title = 'Indo Tech Transformers Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-04
 readTime = true
 tags = ["Indo Tech Transformers Ltd", "2023-24"]

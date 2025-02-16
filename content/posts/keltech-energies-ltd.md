@@ -1,5 +1,5 @@
 +++
-title = 'Keltech Energies Ltd: Annual Report 2023-24 Analysis'
+title = 'Keltech Energies Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-16
 readTime = true
 tags = ["Keltech Energies Ltd", "2023-24"]

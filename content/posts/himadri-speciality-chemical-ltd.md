@@ -1,5 +1,5 @@
 +++
-title = 'Himadri Speciality Chemical Ltd: Annual Report 2023-24 Analysis'
+title = 'Himadri Speciality Chemical Ltd - Annual Report 2023-24 Analysis'
 date = 2024-05-28
 readTime = true
 tags = ["Himadri Speciality Chemical Ltd", "2023-24"]

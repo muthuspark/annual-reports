@@ -1,5 +1,5 @@
 +++
-title = 'Akzo Nobel India Ltd: Annual Report 2023-24 Analysis'
+title = 'Akzo Nobel India Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-04
 readTime = true
 tags = ["Akzo Nobel India Ltd", "2023-24"]

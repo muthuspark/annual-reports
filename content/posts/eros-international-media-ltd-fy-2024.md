@@ -1,5 +1,5 @@
 +++
-title = 'Eros International Media Ltd: Annual Report 2023-24 Analysis'
+title = 'Eros International Media Ltd - Annual Report 2023-24 Analysis'
 date = 2025-02-06
 readTime = true
 tags = ["Eros International Media Ltd", "2023-24"]

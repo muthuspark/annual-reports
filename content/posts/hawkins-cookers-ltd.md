@@ -1,5 +1,5 @@
 +++
-title = 'Hawkins Cookers Ltd: Annual Report 2023-24 Analysis'
+title = 'Hawkins Cookers Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-12
 readTime = true
 tags = ["Hawkins Cookers Ltd", "2023-24"]

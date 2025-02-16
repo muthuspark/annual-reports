@@ -1,5 +1,5 @@
 +++
-title = 'Imagicaaworld Entertainment Ltd: Annual Report 2023-24 Analysis'
+title = 'Imagicaaworld Entertainment Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-03
 readTime = true
 tags = ["Imagicaaworld Entertainment Ltd", "2023-24"]

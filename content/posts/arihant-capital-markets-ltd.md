@@ -1,5 +1,5 @@
 +++
-title = 'Arihant Capital Markets Ltd: Annual Report 2023-24 Analysis'
+title = 'Arihant Capital Markets Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-03
 readTime = true
 tags = ["Arihant Capital Markets Ltd", "2023-24"]

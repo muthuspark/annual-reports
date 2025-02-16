@@ -1,5 +1,5 @@
 +++
-title = 'Indian Energy Exchange Ltd: Annual Report 2023-24 Analysis'
+title = 'Indian Energy Exchange Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-12
 readTime = true
 tags = ["Indian Energy Exchange Ltd", "2023-24"]

@@ -1,5 +1,5 @@
 +++
-title = 'CG Power & Industrial Solutions Ltd: Annual Report 2023-24 Analysis'
+title = 'CG Power & Industrial Solutions Ltd - Annual Report 2023-24 Analysis'
 date = 2024-06-29
 readTime = true
 tags = ["CG Power & Industrial Solutions Ltd", "2023-24"]

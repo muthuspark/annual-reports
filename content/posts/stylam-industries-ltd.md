@@ -1,5 +1,5 @@
 +++
-title = 'Stylam Industries Ltd: Annual Report 2023-24 Analysis'
+title = 'Stylam Industries Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-04
 readTime = true
 tags = ["Stylam Industries Ltd", "2023-24"]

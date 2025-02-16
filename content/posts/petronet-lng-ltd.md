@@ -1,5 +1,5 @@
 +++
-title = 'Petronet LNG Ltd: Annual Report 2023-24 Analysis'
+title = 'Petronet LNG Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-10
 readTime = true
 tags = ["Petronet LNG Ltd", "2023-24"]

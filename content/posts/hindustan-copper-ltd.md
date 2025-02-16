@@ -1,5 +1,5 @@
 +++
-title = 'Hindustan Copper Ltd: Annual Report 2023-24 Analysis'
+title = 'Hindustan Copper Ltd - Annual Report 2023-24 Analysis'
 date = 2025-02-08
 readTime = true
 tags = ["Hindustan Copper Ltd", "2023-24"]

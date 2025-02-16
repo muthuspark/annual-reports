@@ -1,5 +1,5 @@
 +++
-title = 'Kirloskar Brothers Ltd: Annual Report 2023-24 Analysis'
+title = 'Kirloskar Brothers Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-05
 readTime = true
 tags = ["Kirloskar Brothers Ltd", "2023-24"]

@@ -1,5 +1,5 @@
 +++
-title = 'Triveni Turbine Ltd: Annual Report 2023-24 Analysis'
+title = 'Triveni Turbine Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-17
 readTime = true
 tags = ["Triveni Turbine Ltd", "2023-24"]

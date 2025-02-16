@@ -1,5 +1,5 @@
 +++
-title = 'Gillette India Ltd: Annual Report 2023-24 Analysis'
+title = 'Gillette India Ltd - Annual Report 2023-24 Analysis'
 date = 2024-11-11
 readTime = true
 tags = ["Gillette India Ltd", "2023-24"]

@@ -1,5 +1,5 @@
 +++
-title = 'Adani Power Ltd: Annual Report 2023-24 Analysis'
+title = 'Adani Power Ltd - Annual Report 2023-24 Analysis'
 date = 2024-06-02
 readTime = true
 tags = ["Adani Power Ltd", "2023-24"]

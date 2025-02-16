@@ -17,7 +17,7 @@ footerContent = "Made with ♥ in India"
 
 # Appearance settings
 theme = 'light'
-colorPalette = 'eink'
+colorPalette = 'catpuccin'
 hideHeader = false
 
 # Intro on main page, content is markdown

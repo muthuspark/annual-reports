@@ -1,5 +1,5 @@
 +++
-title = 'Colgate-Palmolive (India) Ltd: Annual Report 2023-24 Analysis'
+title = 'Colgate-Palmolive (India) Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-04
 readTime = true
 tags = ["Colgate-Palmolive (India) Ltd", "2023-24"]

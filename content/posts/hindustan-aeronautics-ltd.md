@@ -1,5 +1,5 @@
 +++
-title = 'Hindustan Aeronautics Ltd: Annual Report 2023-24 Analysis'
+title = 'Hindustan Aeronautics Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-26
 readTime = true
 tags = ["Hindustan Aeronautics Ltd", "2023-24"]

@@ -1,5 +1,5 @@
 +++
-title = 'Gujarat State Petronet Ltd: Annual Report 2023-24 Analysis'
+title = 'Gujarat State Petronet Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-28
 readTime = true
 tags = ["Gujarat State Petronet Ltd", "2023-24"]

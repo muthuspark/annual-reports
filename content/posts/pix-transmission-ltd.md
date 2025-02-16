@@ -1,5 +1,5 @@
 +++
-title = 'Pix Transmission Ltd: Annual Report 2023-24 Analysis'
+title = 'Pix Transmission Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-02
 readTime = true
 tags = ["Pix Transmission Ltd", "2023-24"]

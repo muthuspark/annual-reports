@@ -1,5 +1,5 @@
 +++
-title = 'Vadilal Industries Ltd: Annual Report 2023-24 Analysis'
+title = 'Vadilal Industries Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-02
 readTime = true
 tags = ["Vadilal Industries Ltd", "2023-24"]

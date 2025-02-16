@@ -1,5 +1,5 @@
 +++
-title = 'HCL Technologies Ltd: Annual Report 2023-24 Analysis'
+title = 'HCL Technologies Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-22
 readTime = true
 tags = ["HCL Technologies Ltd", "2023-24"]

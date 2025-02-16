@@ -1,5 +1,5 @@
 +++
-title = 'Kovai Medical Center & Hospital Ltd: Annual Report 2023-24 Analysis'
+title = 'Kovai Medical Center & Hospital Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-16
 readTime = true
 tags = ["Kovai Medical Center & Hospital Ltd", "2023-24"]

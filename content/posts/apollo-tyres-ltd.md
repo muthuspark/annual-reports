@@ -1,5 +1,5 @@
 +++
-title = 'Apollo Tyres Ltd: Annual Report 2023-24 Analysis'
+title = 'Apollo Tyres Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-02
 readTime = true
 tags = ["Apollo Tyres Ltd", "2023-24"]

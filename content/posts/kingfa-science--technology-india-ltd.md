@@ -1,5 +1,5 @@
 +++
-title = 'Kingfa Science & Technology (India) Ltd: Annual Report 2023-24 Analysis'
+title = 'Kingfa Science & Technology (India) Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-29
 readTime = true
 tags = ["Kingfa Science & Technology (India) Ltd", "2023-24"]

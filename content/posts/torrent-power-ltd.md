@@ -1,5 +1,5 @@
 +++
-title = 'Torrent Power Ltd: Annual Report 2023-24 Analysis'
+title = 'Torrent Power Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-05
 readTime = true
 tags = ["Torrent Power Ltd", "2023-24"]

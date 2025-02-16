@@ -1,5 +1,5 @@
 +++
-title = 'JSL Industries Ltd: Annual Report 2023-24 Analysis'
+title = 'JSL Industries Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-06
 readTime = true
 tags = ["JSL Industries Ltd", "2023-24"]

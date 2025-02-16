@@ -1,5 +1,5 @@
 +++
-title = 'Wipro Ltd: Annual Report 2023-24 Analysis'
+title = 'Wipro Ltd - Annual Report 2023-24 Analysis'
 date = 2024-06-24
 readTime = true
 tags = ["Wipro Ltd", "2023-24"]

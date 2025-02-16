@@ -1,5 +1,5 @@
 +++
-title = 'KDDL Ltd: Annual Report 2023-24 Analysis'
+title = 'KDDL Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-06
 readTime = true
 tags = ["KDDL Ltd", "2023-24"]

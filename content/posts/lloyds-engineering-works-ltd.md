@@ -1,5 +1,5 @@
 +++
-title = 'Lloyds Engineering Works Ltd: Annual Report 2023-24 Analysis'
+title = 'Lloyds Engineering Works Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-04
 readTime = true
 tags = ["Lloyds Engineering Works Ltd", "2023-24"]

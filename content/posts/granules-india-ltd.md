@@ -1,5 +1,5 @@
 +++
-title = 'Granules India Ltd: Annual Report 2023-24 Analysis'
+title = 'Granules India Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-15
 readTime = true
 tags = ["Granules India Ltd", "2023-24"]

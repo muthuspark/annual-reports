@@ -1,5 +1,5 @@
 +++
-title = 'Authum Investment & Infrastructure Ltd: Annual Report 2023-24 Analysis'
+title = 'Authum Investment & Infrastructure Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-05
 readTime = true
 tags = ["Authum Investment & Infrastructure Ltd", "2023-24"]

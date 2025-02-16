@@ -1,5 +1,5 @@
 +++
-title = 'Gujarat Pipavav Port Ltd: Annual Report 2023-24 Analysis'
+title = 'Gujarat Pipavav Port Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-30
 readTime = true
 tags = ["Gujarat Pipavav Port Ltd", "2023-24"]

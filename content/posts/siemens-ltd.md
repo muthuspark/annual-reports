@@ -1,5 +1,5 @@
 +++
-title = 'Siemens Ltd: Annual Report 2023-24 Analysis'
+title = 'Siemens Ltd - Annual Report 2023-24 Analysis'
 date = 2025-01-14
 readTime = true
 tags = ["Siemens Ltd", "2023-24"]

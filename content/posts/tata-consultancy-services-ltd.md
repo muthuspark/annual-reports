@@ -1,5 +1,5 @@
 +++
-title = 'Tata Consultancy Services Ltd: Annual Report 2023-24 Analysis'
+title = 'Tata Consultancy Services Ltd - Annual Report 2023-24 Analysis'
 date = 2024-05-07
 readTime = true
 tags = ["Tata Consultancy Services Ltd", "2023-24"]

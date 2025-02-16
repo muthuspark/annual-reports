@@ -1,5 +1,5 @@
 +++
-title = 'Dr Lal Pathlabs Ltd: Annual Report 2023-24 Analysis'
+title = 'Dr Lal Pathlabs Ltd - Annual Report 2023-24 Analysis'
 date = 2024-06-04
 readTime = true
 tags = ["Dr Lal Pathlabs Ltd", "2023-24"]

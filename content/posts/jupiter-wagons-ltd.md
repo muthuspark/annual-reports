@@ -1,5 +1,5 @@
 +++
-title = 'Jupiter Wagons Ltd: Annual Report 2023-24 Analysis'
+title = 'Jupiter Wagons Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-19
 readTime = true
 tags = ["Jupiter Wagons Ltd", "2023-24"]

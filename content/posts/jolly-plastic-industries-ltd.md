@@ -1,5 +1,5 @@
 +++
-title = 'Jolly Plastic Industries Ltd: Annual Report 2023-24 Analysis'
+title = 'Jolly Plastic Industries Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-05
 readTime = true
 tags = ["Jolly Plastic Industries Ltd", "2023-24"]

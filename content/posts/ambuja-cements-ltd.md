@@ -1,5 +1,5 @@
 +++
-title = 'Ambuja Cements Ltd: Annual Report 2023-24 Analysis'
+title = 'Ambuja Cements Ltd - Annual Report 2023-24 Analysis'
 date = 2024-05-29
 readTime = true
 tags = ["Ambuja Cements Ltd", "2023-24"]

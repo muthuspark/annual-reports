@@ -1,5 +1,5 @@
 +++
-title = 'Crompton Greaves Consumer Electricals Ltd: Annual Report 2023-24 Analysis'
+title = 'Crompton Greaves Consumer Electricals Ltd - Annual Report 2023-24 Analysis'
 date = 2024-06-14
 readTime = true
 tags = ["Crompton Greaves Consumer Electricals Ltd", "2023-24"]

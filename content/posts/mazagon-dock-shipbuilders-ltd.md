@@ -1,5 +1,5 @@
 +++
-title = 'Mazagon Dock Shipbuilders Ltd: Annual Report 2023-24 Analysis'
+title = 'Mazagon Dock Shipbuilders Ltd - Annual Report 2023-24 Analysis'
 date = 2024-09-04
 readTime = true
 tags = ["Mazagon Dock Shipbuilders Ltd", "2023-24"]

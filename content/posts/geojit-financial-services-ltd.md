@@ -1,5 +1,5 @@
 +++
-title = 'Geojit Financial Services Ltd: Annual Report 2023-24 Analysis'
+title = 'Geojit Financial Services Ltd - Annual Report 2023-24 Analysis'
 date = 2024-06-20
 readTime = true
 tags = ["Geojit Financial Services Ltd", "2023-24"]

@@ -1,5 +1,5 @@
 +++
-title = 'Motherson Sumi Wiring India Ltd: Annual Report 2023-24 Analysis'
+title = 'Motherson Sumi Wiring India Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-06
 readTime = true
 tags = ["Motherson Sumi Wiring India Ltd", "2023-24"]

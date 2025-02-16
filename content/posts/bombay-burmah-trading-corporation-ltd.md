@@ -1,5 +1,5 @@
 +++
-title = 'Bombay Burmah Trading Corporation Ltd: Annual Report 2023-24 Analysis'
+title = 'Bombay Burmah Trading Corporation Ltd - Annual Report 2023-24 Analysis'
 date = 2024-07-22
 readTime = true
 tags = ["Bombay Burmah Trading Corporation Ltd", "2023-24"]

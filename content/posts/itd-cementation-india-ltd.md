@@ -1,5 +1,5 @@
 +++
-title = 'ITD Cementation India Ltd: Annual Report 2023-24 Analysis'
+title = 'ITD Cementation India Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-07
 readTime = true
 tags = ["ITD Cementation India Ltd", "2023-24"]

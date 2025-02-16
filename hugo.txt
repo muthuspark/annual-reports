@@ -1,0 +1,54 @@
+The core Hugo build command is simply:
+
+```bash
+hugo
+```
+
+This command generates your static website based on the content, templates, and configuration in your Hugo project.  It outputs the generated site to the `public` directory by default (or the directory specified by `publishDir` in your `config.toml` or `config.yaml` file).
+
+However, there are many options and flags you can use with the `hugo` command to customize the build process. Here are some of the most useful:
+
+**General Options:**
+
+  * `-h` or `--help`: Displays the help message, listing all available commands and options.
+  * `-v` or `--verbose`: Increases the verbosity of the output, providing more detailed information about the build process.  Useful for debugging.
+  * `-w` or `--watch`: Watches for changes in your content, templates, or configuration files and automatically rebuilds the site when changes are detected.  This is very helpful during development.
+  * `-D` or `--buildDrafts`: Builds draft posts and pages.  By default, Hugo ignores draft content.
+  * `-E` or `--environment`: Sets the Hugo environment.  This can be used to control different build configurations (e.g., development, production).  You define environments in your `config` file.
+  * `--config`: Specifies the path to a different configuration file.  Useful if you want to use different configurations for different builds.
+  * `--baseURL`: Sets the base URL for your site.  This overrides the `baseURL` setting in your configuration file.
+  * `--minify`: Minifies the HTML output.  This can reduce file sizes and improve site performance.
+  * `--cleanDestinationDir`: Cleans the destination directory (usually `public` or `publishDir`) before building the site. This ensures that old files are removed.
+  * `--disableKinds`:  Disables the generation of certain content types (kinds).  For example, `--disableKinds=["RSS"]` would prevent Hugo from generating RSS feeds.  This can be useful to speed up builds if you don't need certain output formats.
+  * `--gc`: Enables garbage collection after the build.  Can be useful for large sites.
+
+**Filtering Content:**
+
+  * `--path-warnings`:  Displays warnings about deprecated file paths.
+  * `--print-未翻译的字符串`: Prints untranslated strings (for multilingual sites).
+  * `--print-potential-translations`: Prints potential translations (for multilingual sites).
+
+**Output Options:**
+
+  * `--logFile`:  Writes the build log to a specified file.
+  * `--quiet`:  Reduces the amount of output during the build process.
+
+**Example Usage:**
+
+  * `hugo -wD`: Builds the site, including drafts, and watches for changes.
+  * `hugo --minify --cleanDestinationDir`: Builds the site, minifies the HTML, and cleans the destination directory first.
+  * `hugo -E production`: Builds the site using the "production" environment configuration.
+  * `hugo --baseURL="https://example.com"`: Builds the site with a specific base URL.
+
+**Using with `hugo server`:**
+
+Many of these options can also be used with the `hugo server` command (which launches a local development server).  For example:
+
+  * `hugo server -wD`: Starts the development server, builds drafts, and watches for changes.
+
+**Key Recommendations:**
+
+  * **During Development:** Use `hugo server -wD` for fast iteration.
+  * **For Production:** Use `hugo --minify --cleanDestinationDir` to create an optimized build for your live site.
+
+Remember to consult the official Hugo documentation for the most up-to-date information and a complete list of all available options: [https://gohugo.io/commands/hugo/](https://www.google.com/url?sa=E&source=gmail&q=https://gohugo.io/commands/hugo/)

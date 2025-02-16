@@ -1,5 +1,5 @@
 +++
-title = 'Engineers India Ltd: Annual Report 2023-24 Analysis'
+title = 'Engineers India Ltd - Annual Report 2023-24 Analysis'
 date = 2024-08-16
 readTime = true
 tags = ["Engineers India Ltd", "2023-24"]
