@@ -90,34 +90,6 @@ Let’s be honest - annual reports can be like trying to read War and Peace in a
 <div class="header">
 
     
-
-    <h1 class="header-title">
-        <a href="https://reports.muthu.co/">Annual Report Insights</a>
-    </h1>
-    
-    <div class="flex">
-        
-
-        
-        
-        
-        <p class="small ">
-            <a href="/" >
-                /home
-            </a>
-        </p>
-        
-        
-        <p class="small ">
-            <a href="/about" >
-                /about
-            </a>
-        </p>
-        
-        
-    </div>
-
-    
     <div id="search"></div>
 </div>
 
@@ -129,6 +101,14 @@ Let’s be honest - annual reports can be like trying to read War and Peace in a
 
 
 
+<div class="breadcrumbs">
+    
+    <a href="/">Home</a>
+    <span class="breadcrumbs-separator"> > </span>
+    
+    <a class="breadcrumbs-current" href="/about/">Hey there! 👋</a>
+</div>
+
 
 
 <div >
@@ -137,7 +117,7 @@ Let’s be honest - annual reports can be like trying to read War and Peace in a
 
     
 
-    <h1 class="single-title">Hey there! 👋</h1>
+    <h1 class="single-title"  data-pagefind-weight="8.0">Hey there! 👋</h1>
     
 
     
@@ -313,7 +293,7 @@ The market is always evolving, and so should we. Every annual report is a new op
 </script>
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
+        new PagefindUI({ element: "#search", showSubResults: false, showImages: false });
     });
 </script>
 <script defer src="/js/copy-code.js"></script>
