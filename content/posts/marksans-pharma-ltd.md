@@ -249,7 +249,6 @@ Not enough information to complete this section.
 
 ## Operating Performance
 ### Income Statement Deep Dive
-Okay, I will perform a detailed income statement analysis of Marksans Pharma Limited based on the provided document, adhering to all instructions and formatting requirements.
 
 **1. Revenue Breakdown by Segment/Geography with Growth Rates**
 
@@ -349,8 +348,6 @@ Peer comparision is not possible since the document only contain data regarding 
 
 ## Cash Management
 ### Cash Flow and Liquidity Analysis
-Okay, here's an analysis of Marksans Pharma's cash flows, adhering to all requirements:
-
 ## Cash Flow Analysis: Marksans Pharma Limited
 
 ### 1. Detailed Cash Flow Components (Consolidated, in Millions of INR)
@@ -478,7 +475,6 @@ It should be added that The Red Sea crisis presented challenges, directly impact
 
 ## Operational Metrics
 ### Key Performance Indicators
-Okay, here's a comprehensive financial analysis of Marksans Pharma Ltd. based on the provided Annual Report, focusing on ratios and trends, segmented by profitability, liquidity, efficiency, and leverage. Given that the report contains images for certain sections and does not provide full information for all listed companies, the analysis is based on the available data. Industry averages are not included because of absence of data in the provided Annual Report.
 
 ## Profitability Ratios
 
@@ -560,7 +556,6 @@ Due to the lack of EBIT data for individual segments and the capital employed sp
 
 ## Market Performance
 ### Market and Valuation Metrics
-Okay, I will analyze the market performance of Marksans Pharma Ltd. based on the provided document, focusing on the requested metrics and comparisons. I will adhere to all specified constraints and format requirements.
 
 ## Market Performance Analysis of Marksans Pharma Ltd.
 
@@ -613,7 +608,6 @@ Okay, I will analyze the market performance of Marksans Pharma Ltd. based on the
 
 ## Business Segments
 ### Segment Performance Analysis
-Okay, I will provide an analysis of Marksans Pharma's business segments based on the provided 2023-24 Annual Report, focusing on the requested metrics and adhering to all specified constraints and formatting requirements. I'll avoid any conversational elements, personal references, or meta-commentary.
 
 ## OTC (Over-the-Counter) Segment
 
@@ -738,7 +732,6 @@ Okay, I will provide an analysis of Marksans Pharma's business segments based on
 
 ## Risk Framework
 ### Comprehensive Risk Assessment
-Okay, here's a detailed risk assessment matrix based on the provided document, incorporating the specified categories, analyses, and format requirements:
 
 ## Risk Assessment Matrix - Marksans Pharma Limited (FY2023-24)
 
@@ -975,10 +968,6 @@ Here's an evaluation of Marksans Pharma based on the provided document, followin
 
 ## ESG Framework
 ### ESG and Sustainability Analysis
-Okay, I will analyze the provided document based on your requirements for ESG initiatives, metrics, and targets.
-
-## Environmental Metrics and Targets
-
 **Energy Consumption:**
 
 *   Total Energy Consumed (FY24): 82,308,912.12 MJ
@@ -1109,8 +1098,8 @@ The report did not provide details on sustainability investments.
 
 
 ## Forward Outlook
-### Future Projections and Guidance
-## Management Guidance and Assumptions
+
+### Management Guidance and Assumptions
 
 **Revenue Target:** Exceeded the initial FY24 revenue target of ₹2,000 crore, achieving ₹2,177 crore.
 
