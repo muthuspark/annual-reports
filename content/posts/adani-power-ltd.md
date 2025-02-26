@@ -4,7 +4,7 @@ date = 2024-06-02
 readTime = true
 tags = ["Adani Power Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 

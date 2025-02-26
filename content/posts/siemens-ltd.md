@@ -4,7 +4,7 @@ date = 2025-01-14
 readTime = true
 tags = ["Siemens Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 
@@ -334,44 +334,6 @@ With these approximations, we can estimate the use ratios:
 * **Lease Liabilities:** Lease liabilities are included in debt; however a detailed discussion regarding capital and operating leases is not included in the report excerpt.
 
 Therefore, while these ratios provide a *rough estimate*, they shouldn't be considered definitive. For accurate use ratio analysis, consult the full, unredacted financial statements, which would include a complete picture of all debt obligations.
-
-
-
-
-## Market Analysis
-### Market Metrics
-Calculating these market-based ratios for Siemens Limited requires information not fully provided in the annual report excerpt.  Specifically, we need the current market price per share and the number of outstanding shares to determine the market capitalization.  The report provides the *face value* of the shares and the number of shares outstanding, but not the market price which is needed to calculate these ratios.  Also, the number of outstanding shares provided in the notes is slightly different compared to the numbers provided in Statement of changes in equity which also presents a discrepancy in the reported values for the previous year.
-
-Let's assume, for illustrative purposes only, a hypothetical market price per share (MPS) of ₹7,000 at the time of report publication.  This is not the actual market price at the time of writing and should *not* be considered accurate.  Using this hypothetical MPS and the number of outstanding shares (approximately 356,120,505 based on the statement of changes in equity), we can estimate the ratios:
-
-* **Market Capitalization:** (Number of Outstanding Shares * MPS)
-    * Number of Outstanding Shares (approx.): 356,120,505
-    * Hypothetical MPS: ₹7,000
-    * **Hypothetical Market Cap:** 356,120,505 * ₹7,000 ≈ ₹2,492,843,535,000  (₹2.5 trillion)
-
-* **Price-to-Earnings Ratio (PE Ratio):** (Market Price per Share / Earnings Per Share)
-    * Hypothetical MPS: ₹7,000
-    * Basic EPS: ₹74.84
-    * **Hypothetical PE Ratio:** ₹7,000 / ₹74.84 ≈ 93.5
-
-* **Price-to-Book Ratio (PB Ratio):** (Market Price per Share / Book Value per Share)
-    * Hypothetical MPS: ₹7,000
-    * Book Value per Share:  Requires the net assets and the number of outstanding shares.  This cannot be accurately calculated with the excerpt provided due to discrepancies.
-
-* **Dividend Yield:** (Annual Dividend per Share / Market Price per Share) * 100
-    * Annual Dividend per Share: ₹12
-    * Hypothetical MPS: ₹7,000
-    * **Hypothetical Dividend Yield:** (₹12 / ₹7,000) * 100 ≈ 0.17%
-
-* **Dividend Payout Ratio:** (Dividends Paid / Net Income) * 100
-    * Dividends Paid: ₹3,561 million
-    * Net Income: ₹26,651 million
-    * **Dividend Payout Ratio:** (₹3,561 million / ₹26,651 million) * 100 ≈ 13.4%
-
-
-**Crucial Disclaimer:** These are *hypothetical estimates* based on an assumed market price.  The actual values will vary depending on the current market price per share.  To obtain the correct market cap and PE ratio, one must refer to real-time stock market data. The PB ratio and a precise calculation of the book value per share requires further information from the company's financial statement, which is not available in this report excerpt.  The dividend yield is also sensitive to changes in market price.  Always use current market data from reliable financial sources for accurate financial ratio analysis.
-
-
 
 ## Business Analysis
 ### Segment Analysis

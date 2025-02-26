@@ -4,7 +4,7 @@ date = 2024-09-07
 readTime = true
 tags = ["RattanIndia Enterprises Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 

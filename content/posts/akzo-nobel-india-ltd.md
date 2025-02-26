@@ -4,7 +4,7 @@ date = 2024-07-04
 readTime = true
 tags = ["Akzo Nobel India Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 ## Overview

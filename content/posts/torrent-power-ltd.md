@@ -4,7 +4,7 @@ date = 2024-07-05
 readTime = true
 tags = ["Torrent Power Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 
@@ -390,58 +390,6 @@ Leverage ratios measure the extent to which a company uses debt financing. These
 * **Consolidated vs. Standalone:** The consolidated use ratios reflect the debt burden of the entire Torrent Power group, whereas the standalone ratios show only Torrent Power Limited's leverage.
 
 It's recommended to always refer to the original financial statements and their accompanying notes for precise figures and a complete understanding of the calculation methodology used.  The interest coverage ratios are more accurate than debt ratios, since the company's reporting didn't define the exact composition of its current and non-current debt.
-
-
-
-
-## Market Analysis
-### Market Metrics
-Several of these metrics require information from sources beyond the provided annual report.  Specifically, the market capitalization, Price-to-Earnings (PE) ratio, and Price-to-Book (PB) ratio depend on the current market price of the company's stock, which fluctuates daily.  The annual report only provides a snapshot of the market capitalization and share price at a specific point in time (March 31, 2024).
-
-
-**From the Annual Report (Consolidated):**
-
-* **Market Capitalization (as of March 31, 2024):** ₹65,112 Crore (from the Key Performance Highlights section)
-* **Dividend Payout Ratio (FY24):** 40.86% (from the Board's Report, calculated as total dividend paid divided by consolidated total detailed income)
-
-**Calculations Requiring External Data:**
-
-To calculate the PE ratio, PB ratio, and dividend yield, we need the following information which is *not provided* in the annual report:
-
-* **Current Market Price per Share:** This is needed for both PE and PB ratio calculations.
-* **Earnings Per Share (EPS):** The annual report provides EPS; however, a precise PE calculation would require the most recent EPS number and not necessarily the annual EPS.
-* **Book Value Per Share:** This is needed for the PB ratio calculation and is not directly found in the report. It needs to be derived from the equity and number of shares outstanding.
-
-**Illustrative Calculations (using data from the report):**
-
-These calculations are illustrative only and will be inaccurate unless current market share price and latest EPS are used.
-
-Let's assume (for illustrative purposes only) the following:
-
-* **Current Market Price per Share:** ₹1,400
-* **Latest EPS:** ₹40 (this is an approximation based on the annual EPS,  and will likely be different from the most current EPS).
-* **Book Value per Share (Approximation):** Total Equity / Number of Shares Outstanding = ₹12,597.50 Crore / 480.62 Crore shares = ₹26.20 (This is a very rough approximation using the year-end consolidated total equity;  a more precise calculation requires a detailed breakdown of equity components.)
-
-Then:
-
-* **PE Ratio (Illustrative):** Market Price per Share / EPS = ₹1,400 / ₹40 = 35 times
-* **PB Ratio (Illustrative):** Market Price per Share / Book Value per Share = ₹1,400 / ₹26.20 = 53.4 times
-* **Dividend Yield (Illustrative):**  Annual Dividend per Share / Market Price per Share = (₹16.00) / ₹1,400 = 1.14% (This uses the total dividend declared for FY24 (₹16 per share = ₹12 interim + ₹4 final). It's a yearly dividend yield and not a snapshot).
-
-
-**Important Notes:**
-
-* **Market Data Fluctuation:** Market cap, PE, and PB ratios are highly volatile and change constantly with share price movements. The values presented above are only illustrative and will differ from the current market figures.
-* **Data Source:**  Use up-to-date data from a reputable financial website (like Google Finance, Yahoo Finance, or Bloomberg) for the current market price and latest EPS to perform accurate calculations.
-* **Book Value Calculation:** Calculating book value per share requires careful attention to the balance sheet's equity components. It is advisable to confirm that book value has been properly determined and reported by the company.
-* **Dividend Yield:** The dividend yield presented here is an annualized yield calculated based on the dividends declared in the annual report.
-
-
-The dividend payout ratio from the annual report is the most accurate value presented here. To calculate the other metrics, you'll need current market data.
-
-
-
-
 
 ## Business Analysis
 ### Segment Analysis

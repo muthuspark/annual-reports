@@ -4,7 +4,7 @@ date = 2025-02-08
 readTime = true
 tags = ["Hindustan Copper Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 

@@ -4,7 +4,7 @@ date = 2024-07-05
 readTime = true
 tags = ["Kirloskar Brothers Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 

@@ -4,7 +4,7 @@ date = 2024-06-14
 readTime = true
 tags = ["Crompton Greaves Consumer Electricals Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 

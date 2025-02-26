@@ -4,7 +4,7 @@ date = 2025-02-06
 readTime = true
 tags = ["Eros International Media Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 ## Overview

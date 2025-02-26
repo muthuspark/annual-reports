@@ -4,7 +4,7 @@ date = 2024-06-29
 readTime = true
 tags = ["CG Power & Industrial Solutions Ltd", "2023-24"]
 showTags = true
-hideBackToTop = false
+toc = true
 +++
 
 
