@@ -1,6 +1,6 @@
 baseURL = 'https://reports.muthu.co/'
 languageCode = 'en-us'
-title = 'Annual Report Insights'
+title = 'Financial Report Insights'
 theme = 'typo'
 
 # Google analytics code
@@ -11,7 +11,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "Discover key takeaways and essential highlights from the latest annual reports of top companies and organizations. Our concise summaries help you stay informed about financial performance, strategic goals, and future trends, saving you time and offering valuable insights in an easy-to-read format."
+description = "Discover key takeaways and essential highlights from the latest annual reports and earnins trascripts of top companies and organizations. Our concise summaries help you stay informed about financial performance, strategic goals, and future trends, saving you time and offering valuable insights in an easy-to-read format."
 showFooter = true
 footerContent = "Made with ♥ in India"
 
@@ -25,7 +25,7 @@ hideHeader = true
 # homeIntroContent = ""
 
 # Collection to display on home
-homeCollectionTitle = 'Latest Annual Reports'
+homeCollectionTitle = 'Latest Analysis'
 homeCollection = 'posts'
 
 # Lists parameters
