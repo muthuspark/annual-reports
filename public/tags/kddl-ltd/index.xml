@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KDDL Ltd on Financial Report Insights</title>
-    <link>https://reports.muthu.co/tags/kddl-ltd/</link>
+    <link>http://localhost:1313/tags/kddl-ltd/</link>
     <description>Recent content in KDDL Ltd on Financial Report Insights</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://reports.muthu.co/tags/kddl-ltd/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kddl-ltd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KDDL Ltd - Annual Report 2023-24 Analysis</title>
-      <link>https://reports.muthu.co/posts/kddl-ltd/</link>
+      <link>http://localhost:1313/posts/kddl-ltd/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://reports.muthu.co/posts/kddl-ltd/</guid>
+      <guid>http://localhost:1313/posts/kddl-ltd/</guid>
       <description>&lt;h2 class=&#34;heading&#34; id=&#34;overview&#34;&gt;&#xA;  Overview&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 class=&#34;heading&#34; id=&#34;detailed-analysis&#34;&gt;&#xA;  Detailed Analysis&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#detailed-analysis&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;This analysis looks into the KDDL Limited Annual Report for the financial year 2023-24, covering financial performance, business segments, identified risks, and ESG initiatives.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;I. Financial Performance:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;KDDL Limited demonstrated robust financial performance in FY2023-24, exceeding the previous year&amp;rsquo;s results significantly.  Key highlights include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Total Revenue:&lt;/strong&gt; Rs. 1,420 Crores (consolidated), a 24.7% year-on-year (YoY) increase from Rs. 1,139 Crores in FY2022-23.  Standalone revenue was Rs. 330.2 Crores, a 14.8% YoY increase.  This growth is attributed to strong performance across all business segments, especially in precision engineering and ornamental packaging, and favorable international market conditions.  The significant increase in consolidated revenue reflects the contribution of Ethos Limited.&lt;/p&gt;</description>
     </item>
   </channel>

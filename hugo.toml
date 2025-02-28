@@ -1,4 +1,4 @@
-baseURL = 'https://reports.muthu.co/'
+baseURL = 'https://reports.muthu.co'
 languageCode = 'en-us'
 title = 'Financial Report Insights'
 theme = 'typo'
