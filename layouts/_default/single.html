@@ -12,7 +12,7 @@
 
     {{/* Title and Summary */}}
 
-    <h1 class="single-title"  data-pagefind-weight="8.0">{{ .Title }}</h1>
+    <h1 class="single-title" data-pagefind-body>{{ .Title }}</h1>
     {{ with .Param "summary" }}
     <p class="single-summary">{{ . | markdownify }}</p>
     {{ end }}

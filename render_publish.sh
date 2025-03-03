@@ -4,7 +4,7 @@ set -e  # Exit on any error
 cd /home/leopard/development/blogs/reports || exit 1
 hugo
 echo "Running pagefind..."
-npm_config_yes=true npx pagefind --source "public" --bundle-dir ../static/_pagefind
+npx -y pagefind --site public
 echo "Building site with Hugo..."
 echo "Copying ads.txt..."
 cp ads.txt public/ads.txt
