@@ -14,6 +14,7 @@ tag = 'tags'
 description = "Discover key takeaways and essential highlights from the latest annual reports and earnins trascripts of top companies and organizations. Our concise summaries help you stay informed about financial performance, strategic goals, and future trends, saving you time and offering valuable insights in an easy-to-read format."
 showFooter = true
 footerContent = "Made with ♥ in India"
+faviconPath = "/"
 
 # Appearance settings
 theme = 'light'
