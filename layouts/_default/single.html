@@ -84,6 +84,7 @@
 
   {{ if not (.Param "hidePagination") }}
   {{ partial "pagination-single.html" . }}
+  {{ partial "disqus.html" . }}
   {{ end }}
 
   {{/* Back to top */}}

@@ -74,3 +74,5 @@ Gensol works in renewable energy and electric mobility - two sectors with massiv
 For me as an investor, this situation is a good reminder to look beyond just growth numbers and pay attention to things like debt levels, promoter pledging, and governance issues - especially for companies that recently moved from SME exchanges to the main market.
 
 Will Gensol engineer a comeback? Only time will tell. But I'll be watching their debt reduction plan closely over the next few months before making any decisions about this stock.
+
+*Disclaimer: This is not financial advice. Always do your own research before investing.*

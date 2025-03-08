@@ -1,0 +1,95 @@
++++
+title = 'IRFC The Railway Stock That Just Got a Major Upgrade - What It Means for Investors'
+date = 2023-08-11
+readTime = true
+tags = ["IRFC"]
+showTags = true
+toc = true
++++
+
+If you've been watching the markets, you might have noticed IRFC's shares climbing steadily for four straight sessions, jumping over 11% to close at ₹123.70 on Friday. I'm going to break down what's happening with this railway PSU and why it might be worth a spot in your portfolio.
+
+![IRFC Share Price](/images/irfc-share-price.png)
+
+## What's the Big News?
+
+The biggest catalyst for IRFC's recent rally is simple: the Government of India just gave the company "Navratna" status. Until now, IRFC was only a "Mini-Ratna" company, but this upgrade is a big deal!
+
+So what does this Navratna thing actually mean? It's like getting a promotion at work with more freedom and responsibility. IRFC can now:
+- Invest up to ₹1,000 crore (or 15% of its net worth) in a single project without asking the government for permission
+- Form partnerships and joint ventures more easily
+- Make business decisions faster without government red tape
+
+For us investors, this means the company can grow more quickly and seize new opportunities when they come up.
+
+## IRFC's Business: More Than Just Trains
+
+Most of us know IRFC as the financing arm of Indian Railways. They've been the money behind about 80% of Indian Railways' rolling stock (that's trains and wagons to you and me). But here's what's interesting - they're now expanding beyond just railways.
+
+IRFC is moving into:
+- Power generation and transmission
+- Mining and fuel
+- Ports and warehousing
+- Telecom and hospitality
+
+They've already secured some big deals:
+- ₹700 crore funding for 20 BOBR rakes for NTPC
+- ₹3,190 crore loan for Patratu Vidyut Utpadan Nigam Limited
+- ₹7,500 crore financing for NTPC Renewable Energy
+
+This diversification is exciting because it opens up new revenue streams. The company's CEO, Manoj Kumar Dubey, says they're currently earning margins of about 35-40 basis points on railway loans, but they could earn 100-150 basis points (or even up to 200-250 basis points) on these new ventures. That's potentially 5 times more profitable!
+
+## The Numbers Look Solid
+
+As an investor who likes to check the fundamentals, IRFC looks pretty strong:
+- Revenue of over ₹26,600 crore 
+- Profit after tax exceeding ₹6,400 crore (as of March 31, 2024)
+- Market cap of over ₹2 lakh crore
+- Assets under management of ₹4.61 lakh crore
+- Net worth around ₹52,000 crore
+
+The company has shown steady growth with average revenue growth of 15% and median profit growth of 11%. Its Return on Equity (ROE) stands at a healthy 13.7%, which is pretty good for a government-backed company.
+
+What really stands out to me is that IRFC has ZERO NPAs (non-performing assets). In the lending business, that's like having a perfect driving record. They also have an incredibly high capital adequacy ratio (CRAR) of over 700%, which basically means they're very, very stable.
+
+## What About the Stock Performance?
+
+IRFC's stock history is interesting. It went public in January 2021 at an IPO price of ₹26. Now it's trading around ₹123.70 - that's a gain of about 375% in just over four years! Not too shabby.
+
+Looking at different timeframes:
+- Last 1 year: Down 18% (a bit of a rough patch)
+- Last 2 years: Up a massive 317%
+- Last 3 years: Up 446%
+
+The stock has pulled back from its highs, but that might present a buying opportunity. It seems to have found strong support around ₹115.
+
+## Dividends for Income Seekers
+
+If you're looking for income, IRFC has been a consistent dividend payer. The current dividend yield is about 1.27%. Since its IPO, they've paid dividends 8 times - twice each year. Recent payments have been around ₹0.70-₹0.80 per share.
+
+## What the Experts Are Saying
+
+According to market expert Sumeet Bagadia from Choice Broking, IRFC shares have crucial support at ₹115. He suggests holding with a stop loss at ₹115 for a short-term target of ₹140. New investors might consider buying at current levels with the same stop loss.
+
+However, I did notice that according to Trendlyne data, one analyst has a "Strong Sell" recommendation with a target price of ₹50 - that would be a 58% downside. But that seems to be a minority view given the company's growth and recent positive developments.
+
+## Risks to Watch Out For
+
+No investment is without risks. For IRFC, I'm keeping an eye on:
+- Their cautious approach to external borrowings due to the appreciating dollar
+- The fact that Indian Railways currently owes IRFC around ₹4.6 lakh crore
+- Any potential policy changes that could affect their relationship with Indian Railways
+
+## My Take as a Retail Investor
+
+IRFC looks like a solid bet for a few reasons:
+1. The Navratna upgrade gives them more freedom to grow
+2. Their diversification beyond railways opens up more profitable business lines
+3. Their financials are rock-solid with zero NPAs
+4. The stock has found good support around ₹115
+
+If you're looking for a PSU stock with government backing, steady dividends, and growth potential, IRFC might be worth considering. I'm thinking of adding some to my portfolio on any dips toward the ₹115 support level.
+
+What do you think about IRFC? Are you holding or planning to buy? Let me know in the comments!
+
+*Disclaimer: This is not financial advice. Always do your own research before investing.*
