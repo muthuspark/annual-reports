@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://reports.muthu.co/</loc>
+    <lastmod>2025-03-13T15:22:59+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/</loc>
+    <lastmod>2025-03-13T15:22:59+00:00</lastmod>
+  </url><url>
     <loc>https://reports.muthu.co/tags/auto-ancillaries/</loc>
     <lastmod>2025-03-12T18:24:48+00:00</lastmod>
   </url><url>
@@ -9,12 +15,6 @@
     <lastmod>2025-03-12T18:24:48+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/earnings-call/</loc>
-    <lastmod>2025-03-12T18:24:48+00:00</lastmod>
-  </url><url>
-    <loc>https://reports.muthu.co/</loc>
-    <lastmod>2025-03-12T18:24:48+00:00</lastmod>
-  </url><url>
-    <loc>https://reports.muthu.co/posts/</loc>
     <lastmod>2025-03-12T18:24:48+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/posts/racl-geartech-ltd---mar-2025-earnings-call-transcript-analysis/</loc>
@@ -185,7 +185,7 @@
     <loc>https://reports.muthu.co/tags/coloring-agents/</loc>
     <lastmod>2025-03-03T18:03:28+00:00</lastmod>
   </url><url>
-    <loc>https://reports.muthu.co/posts/dic-india-limitedannual-report-2023-24-analysis/</loc>
+    <loc>https://reports.muthu.co/posts/dic-india-ltdannual-report-2023-24-analysis/</loc>
     <lastmod>2025-03-03T18:03:28+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/dic-india-ltd./</loc>
@@ -238,6 +238,27 @@
   </url><url>
     <loc>https://reports.muthu.co/posts/pressure-sensitive-systems-india-limited-annual-report-2023-24-analysis/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/digispice/</loc>
+    <lastmod>2025-02-24T19:31:32+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/digispice-technologies-ltd---feb-2025-earnings-call-transcript-analysis/</loc>
+    <lastmod>2025-02-24T19:31:32+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/digispice-technologies-ltd./</loc>
+    <lastmod>2025-02-24T19:31:32+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/it-services--consulting/</loc>
+    <lastmod>2025-02-24T19:31:32+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/narayana-hrudayalaya-ltd---feb-2025-earnings-call-transcript-analysis/</loc>
+    <lastmod>2025-02-24T17:13:23+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/narayana-hrudayalaya-ltd./</loc>
+    <lastmod>2025-02-24T17:13:23+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/nh/</loc>
+    <lastmod>2025-02-24T17:13:23+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/education-services/</loc>
     <lastmod>2025-02-24T12:27:59+00:00</lastmod>
@@ -316,12 +337,6 @@
   </url><url>
     <loc>https://reports.muthu.co/posts/varun-beverages-ltd---feb-2025-earnings-call-transcript-analysis/</loc>
     <lastmod>2025-02-17T12:40:35+00:00</lastmod>
-  </url><url>
-    <loc>https://reports.muthu.co/tags/digispice-technologies-limited/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://reports.muthu.co/posts/digispice-technologies-limited2025-02-17/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/salzer-electronics-limited/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
@@ -415,6 +430,9 @@
   </url><url>
     <loc>https://reports.muthu.co/posts/krn-heat-exchanger-and-refrigeration-ltd---feb-2025-earnings-call-transcript-analysis/</loc>
     <lastmod>2025-02-07T15:00:27+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/castrol-india-ltd---feb-2025-earnings-call-transcript-analysis/</loc>
+    <lastmod>2025-02-06T20:15:44+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/eros-international-media-ltd/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
@@ -592,6 +610,9 @@
   </url><url>
     <loc>https://reports.muthu.co/posts/rattanindia-enterprises-ltd/</loc>
     <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/digispice-technologies-ltdannual-report-2023-24-analysis/</loc>
+    <lastmod>2024-09-06T21:30:51+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/posts/rail-vikas-nigam-ltdannual-report-2023-24-analysis/</loc>
     <lastmod>2024-09-06T18:35:28+00:00</lastmod>
@@ -1094,12 +1115,6 @@
     <loc>https://reports.muthu.co/posts/narayana-hrudayalaya-ltdannual-report-2023-24-analysis/</loc>
     <lastmod>2024-08-08T23:54:34+00:00</lastmod>
   </url><url>
-    <loc>https://reports.muthu.co/tags/narayana-hrudayalaya-ltd./</loc>
-    <lastmod>2024-08-08T23:54:34+00:00</lastmod>
-  </url><url>
-    <loc>https://reports.muthu.co/tags/nh/</loc>
-    <lastmod>2024-08-08T23:54:34+00:00</lastmod>
-  </url><url>
     <loc>https://reports.muthu.co/posts/jubilant-ingrevia-ltdannual-report-2023-24-analysis/</loc>
     <lastmod>2024-08-08T23:28:22+00:00</lastmod>
   </url><url>
@@ -1257,9 +1272,6 @@
     <lastmod>2024-08-01T19:28:13+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/coforge-ltd./</loc>
-    <lastmod>2024-08-01T19:28:13+00:00</lastmod>
-  </url><url>
-    <loc>https://reports.muthu.co/tags/it-services--consulting/</loc>
     <lastmod>2024-08-01T19:28:13+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/posts/chambal-fertilisers--chemicals-ltdannual-report-2023-24-analysis/</loc>
