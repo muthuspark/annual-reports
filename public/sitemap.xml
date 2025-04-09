@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://reports.muthu.co/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://reports.muthu.co/tags/2023-24/</loc>
     <lastmod>2025-04-07T23:25:41+00:00</lastmod>
   </url><url>
@@ -17,13 +23,7 @@
     <loc>https://reports.muthu.co/tags/hext/</loc>
     <lastmod>2025-04-07T23:25:41+00:00</lastmod>
   </url><url>
-    <loc>https://reports.muthu.co/</loc>
-    <lastmod>2025-04-07T23:25:41+00:00</lastmod>
-  </url><url>
     <loc>https://reports.muthu.co/tags/mid-cap/</loc>
-    <lastmod>2025-04-07T23:25:41+00:00</lastmod>
-  </url><url>
-    <loc>https://reports.muthu.co/posts/</loc>
     <lastmod>2025-04-07T23:25:41+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/software/</loc>
@@ -872,6 +872,18 @@
     <loc>https://reports.muthu.co/posts/healthcare-global-enterprises-ltdannual-report-2023-24-analysis/</loc>
     <lastmod>2024-09-02T19:30:18+00:00</lastmod>
   </url><url>
+    <loc>https://reports.muthu.co/tags/bakery-product/</loc>
+    <lastmod>2024-09-02T19:12:28+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/dangee/</loc>
+    <lastmod>2024-09-02T19:12:28+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/dangee-dums-ltdannual-report-2023-24-analysis/</loc>
+    <lastmod>2024-09-02T19:12:28+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/dangee-dums-ltd./</loc>
+    <lastmod>2024-09-02T19:12:28+00:00</lastmod>
+  </url><url>
     <loc>https://reports.muthu.co/tags/systematix-corporate-services-ltd/</loc>
     <lastmod>2024-09-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -1540,9 +1552,6 @@
   </url><url>
     <loc>https://reports.muthu.co/tags/heromotoco/</loc>
     <lastmod>2024-07-19T17:07:00+00:00</lastmod>
-  </url><url>
-    <loc>https://reports.muthu.co/tags/bakery-product/</loc>
-    <lastmod>2024-07-19T00:13:49+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/britannia/</loc>
     <lastmod>2024-07-19T00:13:49+00:00</lastmod>
