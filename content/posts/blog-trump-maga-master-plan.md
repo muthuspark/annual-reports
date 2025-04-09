@@ -1,6 +1,6 @@
 +++
 title = "Trump's MAGA Master Plan: Reshaping the Global Economic Order"
-date = 2025-07-15
+date = 2025-04-09
 readTime = true
 tags = ["Trump", "MAGA", "Global Economic Order"]
 showTags = true

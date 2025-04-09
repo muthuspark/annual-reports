@@ -2,11 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://reports.muthu.co/tags/global-economic-order/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://reports.muthu.co/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/maga/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/posts/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/trump/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/blog-trump-maga-master-plan/</loc>
+    <lastmod>2025-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/2023-24/</loc>
     <lastmod>2025-04-07T23:25:41+00:00</lastmod>
@@ -27,9 +42,6 @@
     <lastmod>2025-04-07T23:25:41+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/software/</loc>
-    <lastmod>2025-04-07T23:25:41+00:00</lastmod>
-  </url><url>
-    <loc>https://reports.muthu.co/tags/</loc>
     <lastmod>2025-04-07T23:25:41+00:00</lastmod>
   </url><url>
     <loc>https://reports.muthu.co/tags/technology/</loc>
