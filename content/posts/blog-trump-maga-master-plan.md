@@ -7,6 +7,8 @@ showTags = true
 toc = true
 +++
 
+![Trump](/images/Gnm8ms0WsAAeXEo.jpeg)
+
 *"Tariffs is the most beautiful word to me in the dictionary,"* 
 - Donald Trump 
 
