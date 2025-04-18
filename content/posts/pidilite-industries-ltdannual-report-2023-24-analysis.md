@@ -4,7 +4,7 @@ date = 2024-07-12 16:48:53
 readTime = true
 tags = ["Pidilite Industries Ltd.", "PIDILITIND", "Adhesives", "Materials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Pidilite Industries Ltd.: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-07-12 20:49:33
 readTime = true
 tags = ["Can Fin Homes Ltd.", "CANFINHOME", "Mortgage/Housing Finance", "Financial","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Can Fin Homes Ltd.: A Comprehensive Overview

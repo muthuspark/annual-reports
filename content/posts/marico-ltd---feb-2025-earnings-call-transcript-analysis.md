@@ -4,7 +4,7 @@ date = 2025-02-07 21:53:37
 readTime = true
 tags = ["Marico Ltd.", "MARICO", "Household & Personal Products - Diversified", "Consumer Staples","Large Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

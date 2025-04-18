@@ -4,7 +4,7 @@ date = 2024-06-03 17:58:14
 readTime = true
 tags = ["LTIMindtree Ltd.", "LTIM", "IT Services & Consulting", "Technology","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## LTIMindtree Ltd.: A Comprehensive Overview

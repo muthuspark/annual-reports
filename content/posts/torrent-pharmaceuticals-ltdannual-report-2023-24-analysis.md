@@ -4,7 +4,7 @@ date = 2024-06-29 19:31:28
 readTime = true
 tags = ["Torrent Pharmaceuticals Ltd.", "TORNTPHARM", "Branded Medicines", "Healthcare","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Torrent Pharmaceuticals Ltd.: A Comprehensive Overview

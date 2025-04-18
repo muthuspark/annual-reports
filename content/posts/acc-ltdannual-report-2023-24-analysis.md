@@ -4,7 +4,7 @@ date = 2024-05-29 17:30:32
 readTime = true
 tags = ["ACC Ltd.", "ACC", "Cement", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## ACC Ltd.: A Comprehensive Overview

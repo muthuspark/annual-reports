@@ -4,7 +4,7 @@ date = 2024-08-31 11:12:22
 readTime = true
 tags = ["APL Apollo Tubes Ltd.", "APLAPOLLO", "Steel Tubes & Pipes", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## APL Apollo Tubes Ltd.: A Comprehensive Overview

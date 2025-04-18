@@ -4,7 +4,7 @@ date = 2024-06-15 15:11:58
 readTime = true
 tags = ["Tata Elxsi Ltd.", "TATAELXSI", "IT Services & Consulting", "Technology","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Tata Elxsi Ltd.: A Comprehensive Overview

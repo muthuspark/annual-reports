@@ -4,7 +4,7 @@ date = 2025-03-12 17:15:23
 readTime = true
 tags = ["Hexaware Technologies Ltd.", "HEXT", "Software", "Technology","Mid Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

@@ -4,7 +4,7 @@ date = 2024-08-03 21:32:36
 readTime = true
 tags = ["PI Industries Ltd.", "PIIND", "Pesticides", "Materials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## PI Industries Ltd.: A Comprehensive Overview

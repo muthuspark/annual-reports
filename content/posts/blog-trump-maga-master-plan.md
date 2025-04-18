@@ -4,7 +4,7 @@ date = 2025-04-09
 readTime = true
 tags = ["Trump", "MAGA", "Global Economic Order"]
 showTags = true
-toc = true
+
 +++
 
 ![Trump](/images/Gnm8ms0WsAAeXEo.jpeg)

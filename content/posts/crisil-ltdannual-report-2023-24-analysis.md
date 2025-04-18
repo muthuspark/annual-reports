@@ -4,7 +4,7 @@ date = 2025-04-04 18:04:00
 readTime = true
 tags = ["CRISIL Ltd.", "CRISIL", "Credit Ratings & Information", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## CRISIL Ltd: A Comprehensive Overview

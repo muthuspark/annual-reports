@@ -4,7 +4,7 @@ date = 2025-02-14
 readTime = true
 tags = ["I G Petrochemicals Limited", "Earnings Call", "February-2025"]
 showTags = true
-toc = true
+
 +++
 
 

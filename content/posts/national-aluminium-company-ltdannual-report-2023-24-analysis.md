@@ -4,7 +4,7 @@ date = 2024-08-30 17:53:33
 readTime = true
 tags = ["National Aluminium Company Ltd.", "NATIONALUM", "Aluminium", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## National Aluminium Company Ltd. (NALCO): A Comprehensive Overview

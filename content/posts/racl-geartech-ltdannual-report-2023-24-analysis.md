@@ -4,7 +4,7 @@ date = 2024-08-17 14:29:38
 readTime = true
 tags = ["RACL Geartech Ltd.", "RACLGEAR", "Auto Ancillaries", "Consumer Discretionary","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## RACL Geartech Ltd: A Comprehensive Overview

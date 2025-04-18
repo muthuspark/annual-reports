@@ -4,7 +4,7 @@ date = 2025-03-06 11:57:54
 readTime = true
 tags = ["Healthcare Global Enterprises Ltd.", "HCG", "Hospitals & Clinics", "Healthcare","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

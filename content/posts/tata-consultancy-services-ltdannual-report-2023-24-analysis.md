@@ -4,7 +4,7 @@ date = 2024-05-07
 readTime = true
 tags = ["Tata Consultancy Services Ltd", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Comprehensive Performance Overview

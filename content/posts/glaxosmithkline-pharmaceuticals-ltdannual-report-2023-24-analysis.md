@@ -4,7 +4,7 @@ date = 2024-06-04 23:00:18
 readTime = true
 tags = ["Glaxosmithkline Pharmaceuticals Ltd.", "GLAXO", "Branded Medicines", "Healthcare","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## GlaxoSmithKline Pharmaceuticals Ltd: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-05-31 18:50:31
 readTime = true
 tags = ["Asian Paints Ltd.", "ASIANPAINT", "Paints & Varnishes", "Materials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Asian Paints Ltd.: A Comprehensive Overview

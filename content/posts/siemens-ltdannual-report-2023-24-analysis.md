@@ -4,7 +4,7 @@ date = 2025-01-14 17:06:33
 readTime = true
 tags = ["Siemens Ltd.", "SIEMENS", "Diversified Manufacturing", "Diversified","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Siemens Ltd.: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-05-30 21:26:44
 readTime = true
 tags = ["Adani Total Gas Ltd.", "ATGL", "Natural Gas Utilities", "Energy & Utilities","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Adani Total Gas Ltd.: A Comprehensive Overview

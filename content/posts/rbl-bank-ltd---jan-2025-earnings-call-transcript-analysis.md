@@ -4,7 +4,7 @@ date = 2025-01-22 12:24:21
 readTime = true
 tags = ["RBL Bank Ltd.", "RBLBANK", "Banks - Diversified", "Financial","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

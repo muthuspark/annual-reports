@@ -4,7 +4,7 @@ date = 2024-07-16 22:00:49
 readTime = true
 tags = ["Coromandel International Ltd.", "COROMANDEL", "Fertilisers", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Coromandel International Ltd.: A Comprehensive Overview

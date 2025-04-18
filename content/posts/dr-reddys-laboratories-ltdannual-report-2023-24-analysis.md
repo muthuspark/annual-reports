@@ -4,7 +4,7 @@ date = 2024-07-02 19:41:41
 readTime = true
 tags = ["Dr. Reddy's Laboratories Ltd.", "DRREDDY", "Branded Medicines", "Healthcare","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Dr. Reddy's Laboratories Ltd.: A Comprehensive Overview

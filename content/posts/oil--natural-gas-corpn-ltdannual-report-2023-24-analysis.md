@@ -4,7 +4,7 @@ date = 2024-08-07 23:37:22
 readTime = true
 tags = ["Oil & Natural Gas Corporation Ltd.", "ONGC", "Oil & Gas Exploration and Production", "Energy & Utilities","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Oil & Natural Gas Corporation Ltd. (ONGC): A Comprehensive Overview

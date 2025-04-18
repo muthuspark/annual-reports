@@ -4,7 +4,7 @@ date = 2024-08-02 12:59:48
 readTime = true
 tags = ["Hindustan Aeronautics Ltd.", "HAL", "Defence & Aerospace Diversified", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Hindustan Aeronautics Ltd. (HAL): A Comprehensive Overview

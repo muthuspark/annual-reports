@@ -4,7 +4,7 @@ date = 2025-03-03
 readTime = true
 tags = ["Indian Finance","Capital Gains Tax", "Tax Rates"]
 showTags = true
-toc = true
+
 +++
 
 ## Capital Gains Tax Rates Table

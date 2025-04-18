@@ -4,7 +4,7 @@ date = 2024-09-07 20:05:00
 readTime = true
 tags = ["Lypsa Gems & Jewellery Ltd.", "LYPSAGEMS", "Gems & Jewellery", "Consumer Discretionary","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Lypsa Gems & Jewellery Ltd. - A Comprehensive Overview

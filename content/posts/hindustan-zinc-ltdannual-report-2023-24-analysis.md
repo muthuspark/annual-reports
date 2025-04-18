@@ -4,7 +4,7 @@ date = 2024-07-02 13:22:21
 readTime = true
 tags = ["Hindustan Zinc Ltd.", "HINDZINC", "Zinc Ore", "Materials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Hindustan Zinc Ltd.: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-09-03 21:27:39
 readTime = true
 tags = ["Gujarat Gas Ltd.", "GUJGASLTD", "Natural Gas Utilities", "Energy & Utilities","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Gujarat Gas Ltd: A Comprehensive Overview

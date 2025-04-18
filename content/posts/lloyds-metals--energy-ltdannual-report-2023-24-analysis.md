@@ -4,7 +4,7 @@ date = 2024-07-26 20:54:40
 readTime = true
 tags = ["Lloyds Metals & Energy Ltd.", "LLOYDSME", "Iron Ore", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Lloyds Metals & Energy Ltd.: A Comprehensive Overview

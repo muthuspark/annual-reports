@@ -4,7 +4,7 @@ date = 2024-09-04 19:21:56
 readTime = true
 tags = ["Poly Medicure Ltd.", "POLYMED", "Medical Devices & Equipment", "Healthcare","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Poly Medicure Ltd. - Company Overview

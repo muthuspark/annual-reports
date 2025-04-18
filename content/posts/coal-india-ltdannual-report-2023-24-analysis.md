@@ -4,7 +4,7 @@ date = 2024-07-27
 readTime = true
 tags = ["Coal India Ltd", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## 3-Year Trend Analysis of Key Financial Metrics

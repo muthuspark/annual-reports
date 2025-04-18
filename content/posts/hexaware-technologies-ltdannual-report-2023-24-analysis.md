@@ -4,7 +4,7 @@ date = 2025-04-07 23:25:41
 readTime = true
 tags = ["Hexaware Technologies Ltd.", "HEXT", "Software", "Technology","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Hexaware Technologies Ltd.: A Comprehensive Overview

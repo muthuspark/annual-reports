@@ -4,7 +4,7 @@ date = 2024-06-03 23:57:08
 readTime = true
 tags = ["L&T Technology Services Ltd.", "LTTS", "Software & Services - Diversified", "Technology","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## L&T Technology Services Ltd.: A Comprehensive Overview

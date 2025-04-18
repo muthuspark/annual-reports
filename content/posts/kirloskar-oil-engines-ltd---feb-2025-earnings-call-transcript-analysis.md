@@ -4,7 +4,7 @@ date = 2025-02-18 14:59:46
 readTime = true
 tags = ["Kirloskar Oil Engines Ltd.", "KIRLOSENG", "Industrial Machinery", "Industrials","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

@@ -4,7 +4,7 @@ date = 2024-07-12 19:17:23
 readTime = true
 tags = ["Marico Ltd.", "MARICO", "Household & Personal Products - Diversified", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Marico Ltd: A Comprehensive Overview

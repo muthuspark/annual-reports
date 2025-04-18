@@ -4,7 +4,7 @@ date = 2024-06-25 01:13:19
 readTime = true
 tags = ["Tata Communications Ltd.", "TATACOMM", "Telecom Services - Diversified", "Technology","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Tata Communications Ltd.: A Comprehensive Overview

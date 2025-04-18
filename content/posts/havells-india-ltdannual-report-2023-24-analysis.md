@@ -4,7 +4,7 @@ date = 2024-05-29 10:37:10
 readTime = true
 tags = ["Havells India Ltd.", "HAVELLS", "Household Appliances", "Consumer Discretionary","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Havells India Ltd.: A Comprehensive Overview

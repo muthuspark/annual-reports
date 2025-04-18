@@ -4,7 +4,7 @@ date = 2024-09-04 11:12:21
 readTime = true
 tags = ["Bharat Dynamics Ltd.", "BDL", "Defence & Aerospace Diversified", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Bharat Dynamics Ltd.: A Comprehensive Overview

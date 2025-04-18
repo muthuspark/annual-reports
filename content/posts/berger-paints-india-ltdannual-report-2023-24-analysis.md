@@ -4,7 +4,7 @@ date = 2024-07-20 18:02:17
 readTime = true
 tags = ["Berger Paints India Ltd.", "BERGEPAINT", "Paints & Varnishes", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Berger Paints India Ltd.: A Comprehensive Overview

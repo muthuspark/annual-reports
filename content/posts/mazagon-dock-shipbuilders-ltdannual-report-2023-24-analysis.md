@@ -4,7 +4,7 @@ date = 2024-09-05 00:01:28
 readTime = true
 tags = ["Mazagon Dock Shipbuilders Ltd.", "MAZDOCK", "Shipbuilding & Maintenance", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Mazagon Dock Shipbuilders Ltd.: A Comprehensive Overview

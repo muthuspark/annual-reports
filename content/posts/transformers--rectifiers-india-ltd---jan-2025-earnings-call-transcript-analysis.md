@@ -4,7 +4,7 @@ date = 2025-01-16 14:46:54
 readTime = true
 tags = ["Transformers & Rectifiers (India) Ltd.", "TARIL", "Transformers & Transmission Equipment", "Industrials","Mid Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

@@ -4,7 +4,7 @@ date = 2024-09-07 13:55:32
 readTime = true
 tags = ["Cochin Shipyard Ltd.", "COCHINSHIP", "Shipbuilding & Maintenance", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Cochin Shipyard Ltd: A Comprehensive Overview

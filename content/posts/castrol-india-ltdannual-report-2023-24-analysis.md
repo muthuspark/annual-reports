@@ -4,7 +4,7 @@ date = 2025-02-25 14:11:08
 readTime = true
 tags = ["Castrol India Ltd.", "CASTROLIND", "Lubricants & Grease", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Castrol India Ltd.: A Comprehensive Overview

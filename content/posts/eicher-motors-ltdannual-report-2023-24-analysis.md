@@ -4,7 +4,7 @@ date = 2024-07-30 17:00:47
 readTime = true
 tags = ["Eicher Motors Ltd.", "EICHERMOT", "Motorcycles & Scooters", "Consumer Discretionary","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Eicher Motors Ltd.: A Comprehensive Overview

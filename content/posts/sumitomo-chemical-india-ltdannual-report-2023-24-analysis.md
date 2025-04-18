@@ -4,7 +4,7 @@ date = 2024-06-29 18:35:27
 readTime = true
 tags = ["Sumitomo Chemical India Ltd.", "SUMICHEM", "Pesticides", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Sumitomo Chemical India Ltd: A Comprehensive Overview

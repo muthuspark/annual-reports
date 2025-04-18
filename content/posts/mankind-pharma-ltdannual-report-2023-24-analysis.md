@@ -4,7 +4,7 @@ date = 2024-07-18 15:27:17
 readTime = true
 tags = ["Mankind Pharma Ltd.", "MANKIND", "Branded Medicines", "Healthcare","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Mankind Pharma Ltd.: A Comprehensive Overview

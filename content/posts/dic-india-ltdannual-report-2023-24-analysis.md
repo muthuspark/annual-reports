@@ -4,7 +4,7 @@ date = 2025-03-03 18:03:28
 readTime = true
 tags = ["DIC India Ltd.", "DICIND", "Coloring Agents", "Materials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## DIC India Ltd.: A Comprehensive Overview

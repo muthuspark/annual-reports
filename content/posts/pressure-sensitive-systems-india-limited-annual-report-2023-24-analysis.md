@@ -4,7 +4,7 @@ date = 2025-02-25
 readTime = true
 tags = ["Pressure Sensitive Systems (India) Limited", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Key Performance Highlights

@@ -4,7 +4,7 @@ date = 2024-07-18 17:44:45
 readTime = true
 tags = ["Indian Oil Corporation Ltd.", "IOC", "Oil & Gas - Diversified", "Energy & Utilities","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Indian Oil Corporation Ltd.: A Comprehensive Overview

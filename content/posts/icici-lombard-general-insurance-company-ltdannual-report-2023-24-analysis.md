@@ -4,7 +4,7 @@ date = 2024-06-01 23:58:09
 readTime = true
 tags = ["ICICI Lombard General Insurance Company Ltd.", "ICICIGI", "Diversified Insurance", "Financial","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## ICICI Lombard General Insurance Company Ltd.: A Comprehensive Overview

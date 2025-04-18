@@ -4,7 +4,7 @@ date = 2025-03-06 13:49:58
 readTime = true
 tags = ["Care Ratings Ltd.", "CARERATING", "Credit Ratings & Information", "Industrials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Care Ratings Ltd.: A Comprehensive Overview

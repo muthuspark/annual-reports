@@ -4,7 +4,7 @@ date = 2024-06-26 17:28:44
 readTime = true
 tags = ["Oracle Financial Services Software Ltd.", "OFSS", "Financial Technology", "Technology","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Oracle Financial Services Software Ltd.: A Comprehensive Overview

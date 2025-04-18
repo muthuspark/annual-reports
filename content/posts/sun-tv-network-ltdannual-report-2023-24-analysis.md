@@ -4,7 +4,7 @@ date = 2024-08-29 16:48:58
 readTime = true
 tags = ["Sun TV Network Ltd.", "SUNTV", "Television Broadcasting", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Sun TV Network Ltd.: A Comprehensive Overview

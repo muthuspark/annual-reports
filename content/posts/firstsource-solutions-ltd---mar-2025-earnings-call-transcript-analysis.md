@@ -4,7 +4,7 @@ date = 2025-02-10 19:51:52
 readTime = true
 tags = ["Firstsource Solutions Ltd.", "FSL", "BPO Services", "Industrials","Mid Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

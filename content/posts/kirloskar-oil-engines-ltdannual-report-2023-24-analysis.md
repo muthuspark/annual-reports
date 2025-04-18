@@ -4,7 +4,7 @@ date = 2024-07-12 21:11:40
 readTime = true
 tags = ["Kirloskar Oil Engines Ltd.", "KIRLOSENG", "Industrial Machinery", "Industrials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Kirloskar Oil Engines Ltd.: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-05-25 09:51:03
 readTime = true
 tags = ["Tata Technologies Ltd", "TATATECH", "Other Industrial Services", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Tata Technologies Ltd: A Comprehensive Overview

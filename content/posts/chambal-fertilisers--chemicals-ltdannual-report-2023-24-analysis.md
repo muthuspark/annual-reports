@@ -4,7 +4,7 @@ date = 2024-08-01 18:33:02
 readTime = true
 tags = ["Chambal Fertilisers and Chemicals Ltd.", "CHAMBLFERT", "Fertilisers", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Chambal Fertilisers and Chemicals Ltd.: A Comprehensive Overview

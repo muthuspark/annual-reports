@@ -4,7 +4,7 @@ date = 2024-06-04 17:31:04
 readTime = true
 tags = ["Sona BLW Precision Forgings Ltd.", "SONACOMS", "Auto Ancillaries", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Sona BLW Precision Forgings Ltd: A Comprehensive Overview

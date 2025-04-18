@@ -4,7 +4,7 @@ date = 2025-01-18 18:22:12
 readTime = true
 tags = ["Anand Rathi Wealth Ltd.", "ANANDRATHI", "Wealth Management", "Financial","Mid Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

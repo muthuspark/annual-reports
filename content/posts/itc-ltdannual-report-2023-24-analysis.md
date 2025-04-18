@@ -4,7 +4,7 @@ date = 2024-06-28 11:19:22
 readTime = true
 tags = ["ITC Ltd.", "ITC", "Tobacco Products", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## ITC Ltd: A Comprehensive Overview

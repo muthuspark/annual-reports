@@ -4,7 +4,7 @@ date = 2024-07-16 22:18:06
 readTime = true
 tags = ["Godrej Consumer Products Ltd.", "GODREJCP", "Household & Personal Products - Diversified", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Godrej Consumer Products Ltd.: A Comprehensive Overview

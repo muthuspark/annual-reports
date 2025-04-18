@@ -4,7 +4,7 @@ date = 2024-07-13 21:39:25
 readTime = true
 tags = ["RBL Bank Ltd.", "RBLBANK", "Banks - Diversified", "Financial","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## RBL Bank Ltd.: A Comprehensive Overview

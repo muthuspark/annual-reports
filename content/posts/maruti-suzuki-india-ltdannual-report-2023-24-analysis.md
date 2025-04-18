@@ -4,7 +4,7 @@ date = 2024-08-04 10:11:22
 readTime = true
 tags = ["Maruti Suzuki India Ltd.", "MARUTI", "Automobile Manufacturers", "Consumer Discretionary","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Maruti Suzuki India Ltd.: A Comprehensive Overview

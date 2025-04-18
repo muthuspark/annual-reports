@@ -4,7 +4,7 @@ date = 2024-07-12 15:05:56
 readTime = true
 tags = ["Abbott India Ltd.", "ABBOTINDIA", "Branded Medicines", "Healthcare","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Abbott India Ltd: A Comprehensive Overview

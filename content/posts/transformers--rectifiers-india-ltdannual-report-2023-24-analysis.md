@@ -4,7 +4,7 @@ date = 2024-04-21 09:37:05
 readTime = true
 tags = ["Transformers & Rectifiers (India) Ltd.", "TARIL", "Transformers & Transmission Equipment", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Transformers & Rectifiers (India) Ltd.: A Comprehensive Overview

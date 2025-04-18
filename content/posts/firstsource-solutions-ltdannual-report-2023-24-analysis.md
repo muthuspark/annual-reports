@@ -4,7 +4,7 @@ date = 2024-06-28 20:46:03
 readTime = true
 tags = ["Firstsource Solutions Ltd.", "FSL", "BPO Services", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Firstsource Solutions Ltd: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-05-28 17:04:39
 readTime = true
 tags = ["Himadri Speciality Chemical Ltd.", "HSCL", "Carbon Black", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Himadri Speciality Chemical Ltd.: A Comprehensive Overview

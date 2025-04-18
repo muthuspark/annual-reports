@@ -4,7 +4,7 @@ date = 2024-08-05 19:18:45
 readTime = true
 tags = ["Bharat Electronics Ltd.", "BEL", "Defence & Aerospace Diversified", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Bharat Electronics Ltd. (BEL): A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-11-11 20:57:33
 readTime = true
 tags = ["Gillette India Ltd.", "GILLETTE", "Personal Hygiene", "Consumer Staples","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Gillette India Ltd.: A Comprehensive Overview

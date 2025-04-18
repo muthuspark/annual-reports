@@ -4,7 +4,7 @@ date = 2024-08-07 23:49:27
 readTime = true
 tags = ["Indus Towers Ltd.", "INDUSTOWER", "Wireless Telecom Services", "Technology","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Indus Towers Ltd: A Comprehensive Overview

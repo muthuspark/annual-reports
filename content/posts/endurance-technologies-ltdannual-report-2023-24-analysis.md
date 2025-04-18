@@ -4,7 +4,7 @@ date = 2024-07-25 16:20:58
 readTime = true
 tags = ["Endurance Technologies Ltd.", "ENDURANCE", "Auto Ancillaries", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Endurance Technologies Ltd.: A Comprehensive Overview

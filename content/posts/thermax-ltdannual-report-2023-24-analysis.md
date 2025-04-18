@@ -4,7 +4,7 @@ date = 2024-07-08 16:25:09
 readTime = true
 tags = ["Thermax Ltd.", "THERMAX", "Industrial Machinery", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Thermax Ltd.: A Comprehensive Overview

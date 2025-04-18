@@ -4,7 +4,7 @@ date = 2024-08-01 19:28:13
 readTime = true
 tags = ["Coforge Ltd.", "COFORGE", "IT Services & Consulting", "Technology","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Coforge Ltd.: A Comprehensive Overview

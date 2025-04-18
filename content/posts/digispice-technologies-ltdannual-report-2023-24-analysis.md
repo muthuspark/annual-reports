@@ -4,7 +4,7 @@ date = 2024-09-06 21:30:51
 readTime = true
 tags = ["Digispice Technologies Ltd.", "DIGISPICE", "IT Services & Consulting", "Technology","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Digispice Technologies Ltd.: A Comprehensive Overview

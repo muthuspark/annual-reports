@@ -4,7 +4,7 @@ date = 2025-03-27 16:20:05
 readTime = true
 tags = ["Kopran Ltd.", "KOPRAN", "Pharmaceuticals - Diversified", "Healthcare","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

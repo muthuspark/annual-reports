@@ -4,7 +4,7 @@ date = 2025-02-28 16:13:53
 readTime = true
 tags = ["Avanti Feeds Ltd.", "AVANTIFEED", "Aquaculture", "Consumer Staples","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

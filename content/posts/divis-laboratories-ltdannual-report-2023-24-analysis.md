@@ -4,7 +4,7 @@ date = 2024-07-15 16:41:08
 readTime = true
 tags = ["Divi's Laboratories Ltd.", "DIVISLAB", "API / Generic Pharmaceuticals", "Healthcare","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Divi's Laboratories Ltd.: A Comprehensive Overview

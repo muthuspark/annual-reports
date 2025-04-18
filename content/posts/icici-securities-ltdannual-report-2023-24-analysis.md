@@ -4,7 +4,7 @@ date = 2024-08-26 19:04:07
 readTime = true
 tags = ["ICICI Securities Ltd.", "ISEC", "Brokerage Services", "Financial","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## ICICI Securities Ltd.: A Comprehensive Overview

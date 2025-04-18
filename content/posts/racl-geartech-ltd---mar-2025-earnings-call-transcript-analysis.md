@@ -4,7 +4,7 @@ date = 2025-03-12 18:24:48
 readTime = true
 tags = ["RACL Geartech Ltd.", "RACLGEAR", "Auto Ancillaries", "Consumer Discretionary","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

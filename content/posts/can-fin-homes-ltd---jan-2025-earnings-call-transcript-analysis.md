@@ -4,7 +4,7 @@ date = 2025-01-28 12:54:26
 readTime = true
 tags = ["Can Fin Homes Ltd.", "CANFINHOME", "Mortgage/Housing Finance", "Financial","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

@@ -4,7 +4,7 @@ date = 2024-09-03
 readTime = true
 tags = ["Zuari Agro Chemicals Ltd", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Comprehensive Performance Overview

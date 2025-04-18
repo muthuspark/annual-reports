@@ -4,7 +4,7 @@ date = 2024-08-02 14:55:42
 readTime = true
 tags = ["UNO Minda Ltd.", "UNOMINDA", "Auto Ancillaries", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## UNO Minda Ltd: A Comprehensive Overview

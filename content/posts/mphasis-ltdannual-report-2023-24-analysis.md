@@ -4,7 +4,7 @@ date = 2024-06-28 12:56:42
 readTime = true
 tags = ["Mphasis Ltd.", "MPHASIS", "IT Services & Consulting", "Technology","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Mphasis Ltd.: A Comprehensive Overview

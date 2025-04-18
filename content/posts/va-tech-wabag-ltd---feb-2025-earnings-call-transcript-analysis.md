@@ -4,7 +4,7 @@ date = 2025-02-17 15:26:46
 readTime = true
 tags = ["VA Tech Wabag Ltd.", "WABAG", "Water & Related Utilities", "Energy & Utilities","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

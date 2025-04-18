@@ -4,7 +4,7 @@ date = 2025-04-12 17:50:17
 readTime = true
 tags = ["Tata Consultancy Services Ltd.", "TCS", "Software & Services - Diversified", "Technology","Large Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

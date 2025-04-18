@@ -4,7 +4,7 @@ date = 2024-07-27 22:15:25
 readTime = true
 tags = ["Hindustan Petroleum Corporation Ltd.", "HINDPETRO", "Oil & Gas - Diversified", "Energy & Utilities","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Hindustan Petroleum Corporation Ltd. (HPCL): A Comprehensive Overview

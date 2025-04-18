@@ -4,7 +4,7 @@ date = 2024-09-07 17:06:04
 readTime = true
 tags = ["Viji Finance Ltd.", "VIJIFIN", "NBFC - Diversified", "Financial","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Viji Finance Ltd. - A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-06-02 01:25:51
 readTime = true
 tags = ["Adani Power Ltd.", "ADANIPOWER", "Power Generation - Diversified", "Energy & Utilities","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Adani Power Ltd.: A Comprehensive Overview

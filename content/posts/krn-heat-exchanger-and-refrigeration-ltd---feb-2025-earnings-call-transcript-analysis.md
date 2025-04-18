@@ -4,7 +4,7 @@ date = 2025-02-07 15:00:27
 readTime = true
 tags = ["KRN Heat Exchanger And Refrigeration Ltd", "KRN", "Heating & Cooling Systems", "Industrials","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

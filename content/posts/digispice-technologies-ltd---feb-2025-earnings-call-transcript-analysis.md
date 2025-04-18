@@ -4,7 +4,7 @@ date = 2025-02-24 19:31:32
 readTime = true
 tags = ["Digispice Technologies Ltd.", "DIGISPICE", "IT Services & Consulting", "Technology","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

@@ -4,7 +4,7 @@ date = 2024-07-11 17:50:58
 readTime = true
 tags = ["Zydus Lifesciences Ltd.", "ZYDUSLIFE", "Branded Medicines", "Healthcare","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Zydus Lifesciences Ltd.: A Comprehensive Overview

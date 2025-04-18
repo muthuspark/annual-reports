@@ -4,7 +4,7 @@ date = 2024-05-31 02:18:41
 readTime = true
 tags = ["Tata Motors Ltd.", "TATAMOTORS", "Automobile Manufacturers", "Consumer Discretionary","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Tata Motors Ltd.: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-06-15 23:45:29
 readTime = true
 tags = ["Nestle India Ltd.", "NESTLEIND", "Dairy Products", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Nestle India Ltd.: A Comprehensive Overview

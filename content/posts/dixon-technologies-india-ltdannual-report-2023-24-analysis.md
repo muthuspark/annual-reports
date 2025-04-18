@@ -4,7 +4,7 @@ date = 2024-09-03 20:57:47
 readTime = true
 tags = ["Dixon Technologies (India) Ltd.", "DIXON", "Household Appliances", "Consumer Discretionary","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Dixon Technologies (India) Ltd.: A Comprehensive Overview

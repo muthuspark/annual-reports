@@ -4,7 +4,7 @@ date = 2024-07-26 19:23:35
 readTime = true
 tags = ["JB Chemicals & Pharmaceuticals Ltd.", "JBCHEPHARM", "Branded Medicines", "Healthcare","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## JB Chemicals & Pharmaceuticals Ltd.: A Comprehensive Overview

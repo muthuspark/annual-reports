@@ -4,7 +4,7 @@ date = 2024-06-21 18:42:05
 readTime = true
 tags = ["Bajaj Auto Ltd.", "BAJAJ-AUTO", "Cars & Multi Utility Vehicles", "Consumer Discretionary","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Bajaj Auto Ltd.: A Comprehensive Overview

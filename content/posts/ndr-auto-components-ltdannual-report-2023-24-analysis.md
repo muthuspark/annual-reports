@@ -4,7 +4,7 @@ date = 2024-06-28 18:15:42
 readTime = true
 tags = ["NDR Auto Components Ltd.", "NDRAUTO", "Automotive Accessories", "Consumer Discretionary","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## NDR Auto Components Ltd.: A Comprehensive Overview

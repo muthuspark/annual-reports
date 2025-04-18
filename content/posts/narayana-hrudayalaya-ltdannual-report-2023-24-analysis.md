@@ -4,7 +4,7 @@ date = 2024-08-08 23:54:34
 readTime = true
 tags = ["Narayana Hrudayalaya Ltd.", "NH", "Hospitals & Clinics", "Healthcare","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Narayana Hrudayalaya Ltd. - A Comprehensive Overview

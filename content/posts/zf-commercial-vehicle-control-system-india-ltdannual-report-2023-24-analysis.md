@@ -4,7 +4,7 @@ date = 2024-06-30 18:26:33
 readTime = true
 tags = ["ZF Commercial Vehicle Control Systems India Ltd.", "ZFCVINDIA", "Auto Ancillaries", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## ZF Commercial Vehicle Control Systems India Ltd.: A Comprehensive Overview

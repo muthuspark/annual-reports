@@ -4,7 +4,7 @@ date = 2024-07-19 17:07:00
 readTime = true
 tags = ["Hero MotoCorp Ltd.", "HEROMOTOCO", "Motorcycles & Scooters", "Consumer Discretionary","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Hero MotoCorp Ltd.: A Comprehensive Overview

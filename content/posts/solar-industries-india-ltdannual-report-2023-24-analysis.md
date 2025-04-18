@@ -4,7 +4,7 @@ date = 2024-06-26 18:43:55
 readTime = true
 tags = ["Solar Industries India Ltd.", "SOLARINDS", "Explosives", "Materials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Solar Industries India Ltd.: A Comprehensive Overview

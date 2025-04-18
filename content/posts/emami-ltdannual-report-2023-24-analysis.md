@@ -4,7 +4,7 @@ date = 2024-08-02 15:24:14
 readTime = true
 tags = ["Emami Ltd.", "EMAMILTD", "Household & Personal Products - Diversified", "Consumer Staples","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Emami Ltd.: A Comprehensive Overview

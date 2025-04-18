@@ -4,7 +4,7 @@ date = 2024-06-18 11:50:55
 readTime = true
 tags = ["Titan Company Ltd.", "TITAN", "Gems & Jewellery", "Consumer Discretionary","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Titan Company Ltd.: A Comprehensive Overview

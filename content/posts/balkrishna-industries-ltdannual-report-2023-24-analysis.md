@@ -4,7 +4,7 @@ date = 2024-06-26 17:34:31
 readTime = true
 tags = ["Balkrishna Industries Ltd.", "BALKRISIND", "Tyres & Tubes", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Balkrishna Industries Ltd. (BKT): A Comprehensive Overview

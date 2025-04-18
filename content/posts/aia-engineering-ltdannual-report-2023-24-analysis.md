@@ -4,7 +4,7 @@ date = 2024-08-14 19:24:32
 readTime = true
 tags = ["AIA Engineering Ltd.", "AIAENG", "Industrial Machinery", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## AIA Engineering Ltd.: A Comprehensive Overview

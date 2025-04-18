@@ -4,7 +4,7 @@ date = 2024-08-26 18:08:53
 readTime = true
 tags = ["Metro Brands Ltd.", "METROBRAND", "Footwear", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Metro Brands Ltd.: A Comprehensive Overview

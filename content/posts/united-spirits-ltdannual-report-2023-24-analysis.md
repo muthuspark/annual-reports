@@ -4,7 +4,7 @@ date = 2024-07-05 17:56:17
 readTime = true
 tags = ["United Spirits Ltd.", "UNITDSPR", "Distilleries", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## United Spirits Ltd. - A Comprehensive Overview

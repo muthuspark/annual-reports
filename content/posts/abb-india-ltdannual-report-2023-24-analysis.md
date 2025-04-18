@@ -4,7 +4,7 @@ date = 2025-04-09 19:57:47
 readTime = true
 tags = ["ABB India Ltd.", "ABB", "Industrial Machinery", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## ABB India Ltd.: A Comprehensive Overview

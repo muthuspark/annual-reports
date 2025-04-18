@@ -4,7 +4,7 @@ date = 2024-08-14 19:08:14
 readTime = true
 tags = ["Shyam Metalics And Energy Ltd.", "SHYAMMETL", "Iron & Steel", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Shyam Metalics And Energy Ltd.: A Comprehensive Overview

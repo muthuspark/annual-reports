@@ -4,7 +4,7 @@ date = 2024-06-03 15:33:17
 readTime = true
 tags = ["Infosys Ltd.", "INFY", "Software & Services - Diversified", "Technology","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Infosys Ltd.: A Comprehensive Overview

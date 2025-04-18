@@ -4,7 +4,7 @@ date = 2024-07-13 20:37:29
 readTime = true
 tags = ["Blue Star Ltd.", "BLUESTARCO", "Heating & Cooling Systems", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Blue Star Ltd.: A Comprehensive Overview

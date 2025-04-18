@@ -4,7 +4,7 @@ date = 2024-07-10 15:39:39
 readTime = true
 tags = ["Bosch Ltd.", "BOSCHLTD", "Auto Ancillaries", "Consumer Discretionary","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Bosch Ltd.: A Comprehensive Overview

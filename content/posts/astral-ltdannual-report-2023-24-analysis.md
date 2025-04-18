@@ -4,7 +4,7 @@ date = 2024-07-25 18:30:11
 readTime = true
 tags = ["Astral Ltd.", "ASTRAL", "Plastic Tubes & Pipes", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Astral Ltd: A Comprehensive Overview

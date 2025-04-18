@@ -4,7 +4,7 @@ date = 2024-08-14 18:01:03
 readTime = true
 tags = ["Suzlon Energy Ltd.", "SUZLON", "Turbine Manufacturing", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Suzlon Energy Ltd.: A Comprehensive Overview

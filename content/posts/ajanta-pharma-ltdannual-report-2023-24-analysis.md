@@ -4,7 +4,7 @@ date = 2024-06-18 14:15:03
 readTime = true
 tags = ["Ajanta Pharma Ltd.", "AJANTPHARM", "Branded Medicines", "Healthcare","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Ajanta Pharma Ltd.: A Comprehensive Overview

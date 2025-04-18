@@ -4,7 +4,7 @@ date = 2024-11-04 22:47:02
 readTime = true
 tags = ["Procter & Gamble Hygiene and Health Care Ltd.", "PGHH", "Household & Personal Products - Diversified", "Consumer Staples","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Procter & Gamble Hygiene and Health Care Ltd. Overview

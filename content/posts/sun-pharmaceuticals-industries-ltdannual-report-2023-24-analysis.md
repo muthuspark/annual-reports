@@ -4,7 +4,7 @@ date = 2024-07-08 15:36:58
 readTime = true
 tags = ["Sun Pharmaceutical Industries Ltd.", "SUNPHARMA", "Branded Medicines", "Healthcare","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Sun Pharmaceutical Industries Ltd.: A Comprehensive Overview

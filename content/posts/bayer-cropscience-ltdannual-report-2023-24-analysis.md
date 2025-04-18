@@ -4,7 +4,7 @@ date = 2024-07-17 11:16:59
 readTime = true
 tags = ["Bayer CropScience Ltd.", "BAYERCROP", "Pesticides", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Bayer CropScience Ltd: A Comprehensive Overview

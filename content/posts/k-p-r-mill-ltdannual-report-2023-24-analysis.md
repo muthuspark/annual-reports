@@ -4,7 +4,7 @@ date = 2024-06-14 21:09:04
 readTime = true
 tags = ["K.P.R. Mill Ltd.", "KPRMILL", "Integrated Textiles", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## K.P.R. Mill Ltd.: A Comprehensive Overview

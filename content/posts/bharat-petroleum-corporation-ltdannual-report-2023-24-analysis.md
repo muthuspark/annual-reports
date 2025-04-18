@@ -4,7 +4,7 @@ date = 2024-08-08 18:05:35
 readTime = true
 tags = ["Bharat Petroleum Corporation Ltd.", "BPCL", "Oil & Gas - Diversified", "Energy & Utilities","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Bharat Petroleum Corporation Ltd. (BPCL): A Comprehensive Overview

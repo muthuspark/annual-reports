@@ -4,7 +4,7 @@ date = 2024-06-29 17:16:07
 readTime = true
 tags = ["Shree Digvijay Cement Company Ltd.", "SHREDIGCEM", "Cement", "Materials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Shree Digvijay Cement Company Ltd: A Comprehensive Overview

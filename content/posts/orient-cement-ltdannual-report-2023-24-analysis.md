@@ -4,7 +4,7 @@ date = 2024-07-10 17:30:40
 readTime = true
 tags = ["Orient Cement Ltd.", "ORIENTCEM", "Cement", "Materials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Orient Cement Ltd.: A Comprehensive Overview

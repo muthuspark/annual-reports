@@ -4,7 +4,7 @@ date = 2024-07-26 21:22:05
 readTime = true
 tags = ["Cipla Ltd.", "CIPLA", "Branded Medicines", "Healthcare","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Cipla Ltd.: A Comprehensive Overview

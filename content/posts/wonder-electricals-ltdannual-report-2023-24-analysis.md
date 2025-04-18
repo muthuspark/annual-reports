@@ -4,7 +4,7 @@ date = 2024-08-31 12:46:33
 readTime = true
 tags = ["Wonder Fibromats Ltd.", "WEL", "Household Appliances", "Consumer Discretionary","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Wonder Fibromats Ltd.: A Comprehensive Overview

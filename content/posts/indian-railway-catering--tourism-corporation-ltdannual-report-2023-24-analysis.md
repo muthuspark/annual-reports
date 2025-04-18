@@ -4,7 +4,7 @@ date = 2024-08-06 16:30:28
 readTime = true
 tags = ["Indian Railway Catering And Tourism Corporation Ltd.", "IRCTC", "Railway Transport", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Indian Railway Catering And Tourism Corporation Ltd. (IRCTC): A Comprehensive Overview

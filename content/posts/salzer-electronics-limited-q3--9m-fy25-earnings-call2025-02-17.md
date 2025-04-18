@@ -4,7 +4,7 @@ date = 2025-02-17
 readTime = true
 tags = ["Salzer Electronics Limited", "Earnings Call", "February-2025"]
 showTags = true
-toc = true
+
 +++
 
 

@@ -4,7 +4,7 @@ date = 2025-02-19 21:53:50
 readTime = true
 tags = ["Gensol Engineering Ltd.", "GENSOL", "Solar Electric Utilities", "Energy & Utilities","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

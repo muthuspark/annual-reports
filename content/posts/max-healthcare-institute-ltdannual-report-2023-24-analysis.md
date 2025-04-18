@@ -4,7 +4,7 @@ date = 2024-08-26 23:45:14
 readTime = true
 tags = ["Max Healthcare Institute Ltd.", "MAXHEALTH", "Hospitals & Clinics", "Healthcare","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Max Healthcare Institute Ltd.: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-07-19 00:13:49
 readTime = true
 tags = ["Britannia Industries Ltd.", "BRITANNIA", "Bakery Product", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Britannia Industries Ltd.: A Comprehensive Overview

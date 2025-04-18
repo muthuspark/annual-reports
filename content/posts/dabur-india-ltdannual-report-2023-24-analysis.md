@@ -4,7 +4,7 @@ date = 2024-07-10 15:38:57
 readTime = true
 tags = ["Dabur India Ltd.", "DABUR", "Household & Personal Products - Diversified", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Dabur India Ltd: A Comprehensive Overview

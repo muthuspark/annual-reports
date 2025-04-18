@@ -4,7 +4,7 @@ date = 2024-08-23 13:31:46
 readTime = true
 tags = ["Global Health Ltd.", "MEDANTA", "Medical Diagnostics Services", "Healthcare","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Global Health Ltd. Overview

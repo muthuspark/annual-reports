@@ -4,7 +4,7 @@ date = 2024-06-24 19:59:41
 readTime = true
 tags = ["Wipro Ltd.", "WIPRO", "Software & Services - Diversified", "Technology","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Wipro Ltd.: A Comprehensive Overview

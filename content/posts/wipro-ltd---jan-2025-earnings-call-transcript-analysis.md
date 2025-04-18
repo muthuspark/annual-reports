@@ -4,7 +4,7 @@ date = 2025-01-20 21:01:54
 readTime = true
 tags = ["Wipro Ltd.", "WIPRO", "Software & Services - Diversified", "Technology","Large Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

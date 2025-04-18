@@ -4,7 +4,7 @@ date = 2024-07-16 17:39:11
 readTime = true
 tags = ["Linde India Ltd.", "LINDEINDIA", "Industrial Gases", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Linde India Ltd.: A Comprehensive Overview

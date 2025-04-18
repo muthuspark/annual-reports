@@ -4,7 +4,7 @@ date = 2024-07-05 20:25:23
 readTime = true
 tags = ["JSW Infrastructure Ltd", "JSWINFRA", "Marine Port Services", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## JSW Infrastructure Ltd: A Comprehensive Overview

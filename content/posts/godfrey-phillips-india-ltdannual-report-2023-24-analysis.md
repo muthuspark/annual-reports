@@ -4,7 +4,7 @@ date = 2024-08-13 16:29:28
 readTime = true
 tags = ["Godfrey Phillips India Ltd.", "GODFRYPHLP", "Tobacco Products", "Consumer Staples","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Godfrey Phillips India Ltd.: A Comprehensive Overview

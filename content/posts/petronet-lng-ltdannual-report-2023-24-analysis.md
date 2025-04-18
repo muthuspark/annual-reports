@@ -4,7 +4,7 @@ date = 2024-08-10 15:53:39
 readTime = true
 tags = ["Petronet LNG Ltd.", "PETRONET", "Oil & Gas Refining and Marketing", "Energy & Utilities","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Petronet LNG Ltd.: A Comprehensive Overview

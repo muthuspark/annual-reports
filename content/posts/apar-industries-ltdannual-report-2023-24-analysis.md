@@ -4,7 +4,7 @@ date = 2024-07-31 16:32:07
 readTime = true
 tags = ["Apar Industries Ltd.", "APARINDS", "Diversified Manufacturing", "Diversified","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Apar Industries Ltd.: A Comprehensive Overview

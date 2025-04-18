@@ -4,7 +4,7 @@ date = 2024-07-14 03:47:40
 readTime = true
 tags = ["Honeywell Automation India Ltd.", "HONAUT", "Software & Services - Diversified", "Technology","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Honeywell Automation India Ltd.: A Comprehensive Overview

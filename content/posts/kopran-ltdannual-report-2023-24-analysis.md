@@ -4,7 +4,7 @@ date = 2024-08-17 16:26:24
 readTime = true
 tags = ["Kopran Ltd.", "KOPRAN", "Pharmaceuticals - Diversified", "Healthcare","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Kopran Ltd.: A Comprehensive Overview

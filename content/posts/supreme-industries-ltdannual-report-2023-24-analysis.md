@@ -4,7 +4,7 @@ date = 2024-05-22 12:58:56
 readTime = true
 tags = ["Supreme Industries Ltd.", "SUPREMEIND", "Plastic Materials", "Materials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Supreme Industries Ltd.: A Comprehensive Overview

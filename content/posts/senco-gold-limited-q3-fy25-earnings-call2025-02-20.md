@@ -4,7 +4,7 @@ date = 2025-02-20
 readTime = true
 tags = ["Senco Gold Limited", "Earnings Call", "February-2025"]
 showTags = true
-toc = true
+
 +++
 
 

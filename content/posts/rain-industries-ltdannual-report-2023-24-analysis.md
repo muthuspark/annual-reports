@@ -4,7 +4,7 @@ date = 2025-04-09 11:56:00
 readTime = true
 tags = ["Rain Industries Ltd.", "RAIN", "Carbon Black", "Materials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Rain Industries Ltd.: A Comprehensive Overview

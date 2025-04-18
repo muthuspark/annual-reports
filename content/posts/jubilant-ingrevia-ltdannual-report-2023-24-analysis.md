@@ -4,7 +4,7 @@ date = 2024-08-08 23:28:22
 readTime = true
 tags = ["Jubilant Ingrevia Ltd.", "JUBLINGREA", "Speciality Chemicals - Diversified", "Materials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Jubilant Ingrevia Ltd.: A Comprehensive Overview

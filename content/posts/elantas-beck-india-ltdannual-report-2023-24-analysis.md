@@ -4,7 +4,7 @@ date = 2025-04-07 20:24:10
 readTime = true
 tags = ["Elantas Beck India Ltd.", "DRBECK", "Speciality Chemicals - Diversified", "Materials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Elantas Beck India Ltd.: A Comprehensive Overview

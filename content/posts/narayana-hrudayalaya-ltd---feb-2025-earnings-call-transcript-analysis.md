@@ -4,7 +4,7 @@ date = 2025-02-24 17:13:23
 readTime = true
 tags = ["Narayana Hrudayalaya Ltd.", "NH", "Hospitals & Clinics", "Healthcare","Mid Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

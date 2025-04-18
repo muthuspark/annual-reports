@@ -4,7 +4,7 @@ date = 2025-02-11 13:07:28
 readTime = true
 tags = ["Dhruv Consultancy Services Ltd.", "DHRUV", "Construction & Engineering - Diversified", "Industrials","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

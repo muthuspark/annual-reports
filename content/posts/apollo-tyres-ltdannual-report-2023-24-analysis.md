@@ -4,7 +4,7 @@ date = 2024-07-02 14:41:05
 readTime = true
 tags = ["Apollo Tyres Ltd.", "APOLLOTYRE", "Tyres & Tubes", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Apollo Tyres Ltd.: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-08-30 17:42:51
 readTime = true
 tags = ["Star Health and Allied Insurance Company Ltd.", "STARHEALTH", "Diversified Insurance", "Financial","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Star Health and Allied Insurance: A Comprehensive Overview

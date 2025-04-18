@@ -4,7 +4,7 @@ date = 2024-09-02 19:30:18
 readTime = true
 tags = ["Healthcare Global Enterprises Ltd.", "HCG", "Hospitals & Clinics", "Healthcare","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Healthcare Global Enterprises Ltd.: A Comprehensive Overview

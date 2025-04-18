@@ -4,7 +4,7 @@ date = 2024-06-22 23:09:52
 readTime = true
 tags = ["Polycab India Ltd.", "POLYCAB", "Wires & Cables", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Polycab India Ltd.: A Comprehensive Overview

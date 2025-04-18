@@ -4,7 +4,7 @@ date = 2023-08-11
 readTime = true
 tags = ["IRFC"]
 showTags = true
-toc = true
+
 +++
 
 If you've been watching the markets, you might have noticed IRFC's shares climbing steadily for four straight sessions, jumping over 11% to close at ₹123.70 on Friday. I'm going to break down what's happening with this railway PSU and why it might be worth a spot in your portfolio.

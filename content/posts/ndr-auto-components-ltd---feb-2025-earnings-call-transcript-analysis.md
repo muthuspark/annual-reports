@@ -4,7 +4,7 @@ date = 2025-02-17 15:09:27
 readTime = true
 tags = ["NDR Auto Components Ltd.", "NDRAUTO", "Automotive Accessories", "Consumer Discretionary","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

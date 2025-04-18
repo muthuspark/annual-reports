@@ -4,7 +4,7 @@ date = 2025-02-24 12:27:59
 readTime = true
 tags = ["Educomp Solutions Ltd.", "EDUCOMP", "Education Services", "Consumer Staples","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Educomp Solutions Ltd.: A Comprehensive Overview

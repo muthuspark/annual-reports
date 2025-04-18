@@ -4,7 +4,7 @@ date = 2024-08-08 16:21:25
 readTime = true
 tags = ["Dhruv Consultancy Services Ltd.", "DHRUV", "Construction & Engineering - Diversified", "Industrials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Dhruv Consultancy Services Ltd.: A Comprehensive Overview

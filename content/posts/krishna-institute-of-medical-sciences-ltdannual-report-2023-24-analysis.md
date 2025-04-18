@@ -4,7 +4,7 @@ date = 2024-08-06 18:24:26
 readTime = true
 tags = ["Krishna Institute of Medical Sciences Ltd", "KIMS", "Medical Diagnostics Services", "Healthcare","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Krishna Institute of Medical Sciences Ltd: A Comprehensive Overview

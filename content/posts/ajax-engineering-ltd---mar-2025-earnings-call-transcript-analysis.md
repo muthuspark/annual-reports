@@ -4,7 +4,7 @@ date = 2025-03-13 15:22:59
 readTime = true
 tags = ["Ajax Engineering Ltd", "AJAXENGG", "Industrial Machinery", "Industrials","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

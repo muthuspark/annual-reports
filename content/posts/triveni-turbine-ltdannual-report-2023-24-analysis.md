@@ -4,7 +4,7 @@ date = 2024-08-17 14:59:46
 readTime = true
 tags = ["Triveni Turbine Ltd.", "TRITURBINE", "Turbine Manufacturing", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Triveni Turbine Ltd.: A Comprehensive Overview

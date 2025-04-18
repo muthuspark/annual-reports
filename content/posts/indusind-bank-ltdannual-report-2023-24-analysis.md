@@ -4,7 +4,7 @@ date = 2024-08-05 18:38:10
 readTime = true
 tags = ["IndusInd Bank Ltd.", "INDUSINDBK", "Banks - Diversified", "Financial","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## IndusInd Bank Ltd.: A Comprehensive Overview

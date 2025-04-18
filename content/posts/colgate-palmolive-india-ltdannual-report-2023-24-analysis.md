@@ -4,7 +4,7 @@ date = 2024-07-02 15:50:33
 readTime = true
 tags = ["Colgate-Palmolive (India) Ltd.", "COLPAL", "Personal Hygiene", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Colgate-Palmolive (India) Ltd: A Comprehensive Overview

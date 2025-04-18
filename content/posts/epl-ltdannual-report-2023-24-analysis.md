@@ -4,7 +4,7 @@ date = 2024-07-30 22:08:48
 readTime = true
 tags = ["EPL Ltd.", "EPL", "Plastic Packaging", "Materials","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## EPL Ltd.: A Comprehensive Overview

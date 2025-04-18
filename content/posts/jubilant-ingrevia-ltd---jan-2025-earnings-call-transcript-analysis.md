@@ -4,7 +4,7 @@ date = 2025-02-01 11:11:05
 readTime = true
 tags = ["Jubilant Ingrevia Ltd.", "JUBLINGREA", "Speciality Chemicals - Diversified", "Materials","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

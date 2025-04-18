@@ -4,7 +4,7 @@ date = 2024-07-16 21:18:07
 readTime = true
 tags = ["Suven Pharmaceuticals Ltd.", "SUVENPHAR", "Pharmaceuticals - Diversified", "Healthcare","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Suven Pharmaceuticals Ltd: A Comprehensive Overview

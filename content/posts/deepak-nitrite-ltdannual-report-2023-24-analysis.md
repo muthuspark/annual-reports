@@ -4,7 +4,7 @@ date = 2024-07-15 20:37:57
 readTime = true
 tags = ["Deepak Nitrite Ltd.", "DEEPAKNTR", "Speciality Chemicals - Diversified", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Deepak Nitrite Ltd.: A Comprehensive Overview

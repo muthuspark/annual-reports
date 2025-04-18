@@ -4,7 +4,7 @@ date = 2024-06-20 20:06:46
 readTime = true
 tags = ["Persistent Systems Ltd.", "PERSISTENT", "Software & Services - Diversified", "Technology","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Persistent Systems Ltd.: A Comprehensive Overview

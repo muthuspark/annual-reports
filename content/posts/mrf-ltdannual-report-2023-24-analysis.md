@@ -4,7 +4,7 @@ date = 2024-07-06 16:41:23
 readTime = true
 tags = ["MRF Ltd.", "MRF", "Tyres & Tubes", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## MRF Ltd.: A Comprehensive Overview

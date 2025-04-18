@@ -4,7 +4,7 @@ date = 2024-07-12 20:44:23
 readTime = true
 tags = ["Cummins India Ltd.", "CUMMINSIND", "Diesel Engines", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Cummins India Ltd: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-08-22 18:03:45
 readTime = true
 tags = ["Oil India Ltd.", "OIL", "Oil & Gas Exploration and Production", "Energy & Utilities","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Oil India Ltd: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2025-03-03 18:31:53
 readTime = true
 tags = ["Elgi Equipments Ltd.", "ELGIEQUIP", "Pumps & Compressors", "Industrials","Mid Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

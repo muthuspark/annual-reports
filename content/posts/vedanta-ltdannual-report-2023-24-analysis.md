@@ -4,7 +4,7 @@ date = 2024-06-18 15:20:56
 readTime = true
 tags = ["Vedanta Ltd.", "VEDL", "Diversified Mining", "Materials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Vedanta Ltd.: A Comprehensive Overview

@@ -4,7 +4,7 @@ date = 2024-08-14 22:17:00
 readTime = true
 tags = ["Jindal Stainless Ltd.", "JSL", "Iron & Steel", "Materials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Jindal Stainless Ltd.: A Comprehensive Overview

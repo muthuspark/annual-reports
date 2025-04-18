@@ -4,7 +4,7 @@ date = 2024-05-23 20:00:30
 readTime = true
 tags = ["Anand Rathi Wealth Ltd.", "ANANDRATHI", "Wealth Management", "Financial","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Anand Rathi Wealth Ltd. - A Comprehensive Overview

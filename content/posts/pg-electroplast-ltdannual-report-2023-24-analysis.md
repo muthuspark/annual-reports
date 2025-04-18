@@ -4,7 +4,7 @@ date = 2024-09-07 22:38:12
 readTime = true
 tags = ["PG Electroplast Ltd.", "PGEL", "Electronic Components", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## PG Electroplast Ltd.: A Comprehensive Overview

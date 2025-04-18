@@ -4,7 +4,7 @@ date = 2025-03-24 23:45:40
 readTime = true
 tags = ["Quality Power Electrical Equipments Ltd", "QPOWER", "Transformers & Transmission Equipment", "Industrials","Small Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

@@ -4,7 +4,7 @@ date = 2025-03-11 17:32:33
 readTime = true
 tags = ["Varun Beverages Ltd.", "VBL", "Carbonated Soft Drinks", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Varun Beverages Ltd.: A Comprehensive Overview

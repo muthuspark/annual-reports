@@ -4,7 +4,7 @@ date = 2024-08-06 19:44:13
 readTime = true
 tags = ["Motherson Sumi Wiring India Ltd.", "MSUMI", "Wires & Cables", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Motherson Sumi Wiring India Ltd: A Comprehensive Overview

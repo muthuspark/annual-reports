@@ -4,7 +4,7 @@ date = 2024-08-17 19:03:23
 readTime = true
 tags = ["KEI Industries Ltd.", "KEI", "Wires & Cables", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## KEI Industries Ltd.: A Comprehensive Overview

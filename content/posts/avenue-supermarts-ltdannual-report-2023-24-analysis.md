@@ -4,7 +4,7 @@ date = 2024-07-25 18:30:51
 readTime = true
 tags = ["Avenue Supermarts Ltd.", "DMART", "Food & Staples Retailing - Diversified", "Consumer Staples","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Avenue Supermarts Ltd. (DMart): A Comprehensive Overview

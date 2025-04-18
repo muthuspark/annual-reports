@@ -4,7 +4,7 @@ date = 2024-07-12 17:28:37
 readTime = true
 tags = ["Page Industries Ltd.", "PAGEIND", "Readymade Garment", "Consumer Discretionary","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Page Industries Ltd.: A Comprehensive Overview

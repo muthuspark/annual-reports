@@ -4,7 +4,7 @@ date = 2025-02-17 12:40:35
 readTime = true
 tags = ["Varun Beverages Ltd.", "VBL", "Carbonated Soft Drinks", "Consumer Staples","Large Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

@@ -4,7 +4,7 @@ date = 2024-07-31 22:17:34
 readTime = true
 tags = ["Interglobe Aviation Ltd.", "INDIGO", "Air Transport", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## InterGlobe Aviation Ltd. (IndiGo): A Comprehensive Overview

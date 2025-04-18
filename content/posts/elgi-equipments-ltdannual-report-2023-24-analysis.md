@@ -4,7 +4,7 @@ date = 2024-07-05 14:04:17
 readTime = true
 tags = ["Elgi Equipments Ltd.", "ELGIEQUIP", "Pumps & Compressors", "Industrials","Mid Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Elgi Equipments Ltd.: A Comprehensive Overview

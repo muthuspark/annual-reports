@@ -4,7 +4,7 @@ date = 2024-09-02 19:12:28
 readTime = true
 tags = ["Dangee Dums Ltd.", "DANGEE", "Bakery Product", "Consumer Staples","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Dangee Dums Ltd. - A Comprehensive Overview

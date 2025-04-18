@@ -4,7 +4,7 @@ date = 2025-03-08
 readTime = true
 tags = ["Gensol Engineering", "GENSOL", "Engineering", "Materials","Mid Cap"]
 showTags = true
-toc = true
+
 image = "/images/Screenshot from 2025-03-08 17-41-19.png"
 +++
 

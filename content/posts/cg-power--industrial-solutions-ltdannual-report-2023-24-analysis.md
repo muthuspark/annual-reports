@@ -4,7 +4,7 @@ date = 2024-06-29 14:54:34
 readTime = true
 tags = ["CG Power and Industrial Solutions Ltd.", "CGPOWER", "Electrical Machinery", "Industrials","Large Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## CG Power and Industrial Solutions Ltd.: A Comprehensive Overview

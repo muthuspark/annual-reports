@@ -4,7 +4,7 @@ date = 2024-09-07 15:57:15
 readTime = true
 tags = ["Gensol Engineering Ltd.", "GENSOL", "Solar Electric Utilities", "Energy & Utilities","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Gensol Engineering Ltd.: A Comprehensive Overview

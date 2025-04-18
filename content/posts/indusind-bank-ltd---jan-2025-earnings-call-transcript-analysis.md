@@ -4,7 +4,7 @@ date = 2025-02-04 17:18:44
 readTime = true
 tags = ["IndusInd Bank Ltd.", "INDUSINDBK", "Banks - Diversified", "Financial","Large Cap", "Earnings Call"]
 showTags = true
-toc = true
+
 +++
 
 

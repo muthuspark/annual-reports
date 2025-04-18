@@ -4,7 +4,7 @@ date = 2024-07-14 19:46:13
 readTime = true
 tags = ["Chennai Petroleum Corporation Ltd.", "CHENNPETRO", "Oil & Gas Refining and Marketing", "Energy & Utilities","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Chennai Petroleum Corporation Ltd.: A Comprehensive Overview

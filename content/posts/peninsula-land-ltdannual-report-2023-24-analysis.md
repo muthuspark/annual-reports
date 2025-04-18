@@ -4,7 +4,7 @@ date = 2024-08-20 21:15:40
 readTime = true
 tags = ["Peninsula Land Ltd.", "PENINLAND", "Real Estate Development", "Real Estate","Small Cap", "Annual Report", "2023-24"]
 showTags = true
-toc = true
+
 +++
 
 ## Peninsula Land Ltd: A Comprehensive Overview
