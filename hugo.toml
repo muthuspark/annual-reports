@@ -68,3 +68,10 @@ category = "General"
 categoryid = "categoryId"
 mapping = "pathname"
 theme = "preferred_color_scheme"
+
+
+[sitemap]
+  changeFreq = 'weekly'
+  disable = false
+  filename = 'sitemap_index.xml'
+  priority = -1
