@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://reports.muthu.co/tags/earnings-call/</loc>
-    <lastmod>2025-04-23T18:41:09+00:00</lastmod>
+    <loc>https://reports.muthu.co/</loc>
+    <lastmod>2025-04-28T19:13:24+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://reports.muthu.co/</loc>
+    <loc>https://reports.muthu.co/posts/</loc>
+    <lastmod>2025-04-28T19:13:24+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/earnings-call/</loc>
     <lastmod>2025-04-23T18:41:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -23,10 +27,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reports.muthu.co/tags/online-services/</loc>
-    <lastmod>2025-04-23T18:41:09+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://reports.muthu.co/posts/</loc>
     <lastmod>2025-04-23T18:41:09+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2030,6 +2030,18 @@
     <lastmod>2024-08-13T16:29:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://reports.muthu.co/tags/manorama/</loc>
+    <lastmod>2024-08-12T17:08:50+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/manorama-industries-ltdannual-report-2023-24-analysis/</loc>
+    <lastmod>2024-08-12T17:08:50+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/manorama-industries-ltd./</loc>
+    <lastmod>2024-08-12T17:08:50+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://reports.muthu.co/tags/oil--gas-refining-and-marketing/</loc>
     <lastmod>2024-08-10T15:53:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2292,6 +2304,18 @@
   </url><url>
     <loc>https://reports.muthu.co/tags/interglobe-aviation-ltd./</loc>
     <lastmod>2024-07-31T22:17:34+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/rossari/</loc>
+    <lastmod>2024-07-31T20:13:28+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/rossari-biotech-ltdannual-report-2023-24-analysis/</loc>
+    <lastmod>2024-07-31T20:13:28+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/rossari-biotech-ltd./</loc>
+    <lastmod>2024-07-31T20:13:28+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reports.muthu.co/posts/apar-industries-ltdannual-report-2023-24-analysis/</loc>
@@ -3348,6 +3372,18 @@
   </url><url>
     <loc>https://reports.muthu.co/tags/nippon-life-india-asset-management-ltd./</loc>
     <lastmod>2024-06-19T17:30:21+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reports.muthu.co/posts/laurus-labs-ltdannual-report-2023-24-analysis/</loc>
+    <lastmod>2024-06-18T19:21:03+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/laurus-labs-ltd./</loc>
+    <lastmod>2024-06-18T19:21:03+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://reports.muthu.co/tags/lauruslabs/</loc>
+    <lastmod>2024-06-18T19:21:03+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://reports.muthu.co/tags/diversified-mining/</loc>
