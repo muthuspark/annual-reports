@@ -73,5 +73,5 @@ theme = "preferred_color_scheme"
 [sitemap]
   changeFreq = 'weekly'
   disable = false
-  filename = 'sitemap_index.xml'
+  filename = 'sitemap.xml'
   priority = -1
